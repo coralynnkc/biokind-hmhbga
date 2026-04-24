@@ -1,0 +1,4453 @@
+county,year,group,value
+Appling,2018,All Races,27.659574468085108
+Appling,2019,All Races,25.37313432835821
+Appling,2020,All Races,21.374045801526716
+Appling,2021,All Races,28.78787878787879
+Appling,2022,All Races,24.62686567164179
+Appling,2023,All Races,28.8135593220339
+Appling,2024,All Races,25.352112676056336
+Appling,2018,White,25.961538461538463
+Appling,2019,White,23.58490566037736
+Appling,2020,White,19
+Appling,2021,White,26.53061224489796
+Appling,2022,White,25.471698113207548
+Appling,2023,White,32.18390804597701
+Appling,2024,White,25.862068965517242
+Appling,2018,Black or African-American,31.428571428571427
+Appling,2019,Black or African-American,29.629629629629626
+Appling,2020,Black or African-American,30.76923076923077
+Appling,2021,Black or African-American,33.33333333333333
+Appling,2022,Black or African-American,20
+Appling,2023,Black or African-American,18.51851851851852
+Appling,2024,Black or African-American,22.727272727272727
+Appling,2018,Selected Races Total,27.33812949640288
+Appling,2019,Selected Races Total,24.81203007518797
+Appling,2020,Selected Races Total,21.428571428571427
+Appling,2021,Selected Races Total,28.125
+Appling,2022,Selected Races Total,24.427480916030532
+Appling,2023,Selected Races Total,28.947368421052634
+Appling,2024,Selected Races Total,25.36231884057971
+Atkinson,2018,All Races,17.56756756756757
+Atkinson,2019,All Races,15.714285714285714
+Atkinson,2020,All Races,24.637681159420293
+Atkinson,2021,All Races,13.20754716981132
+Atkinson,2022,All Races,17.1875
+Atkinson,2023,All Races,28.000000000000004
+Atkinson,2024,All Races,24.615384615384617
+Atkinson,2018,White,18.96551724137931
+Atkinson,2019,White,16.39344262295082
+Atkinson,2020,White,24.59016393442623
+Atkinson,2021,White,12.76595744680851
+Atkinson,2022,White,17.02127659574468
+Atkinson,2023,White,29.6875
+Atkinson,2024,White,26.08695652173913
+Atkinson,2018,Black or African-American,-5
+Atkinson,2019,Black or African-American,-5
+Atkinson,2020,Black or African-American,-5
+Atkinson,2021,Black or African-American,0
+Atkinson,2022,Black or African-American,-5
+Atkinson,2023,Black or African-American,0
+Atkinson,2024,Black or African-American,-5
+Atkinson,2018,Selected Races Total,17.56756756756757
+Atkinson,2019,Selected Races Total,16.417910447761194
+Atkinson,2020,Selected Races Total,26.5625
+Atkinson,2021,Selected Races Total,11.76470588235294
+Atkinson,2022,Selected Races Total,17.543859649122805
+Atkinson,2023,Selected Races Total,29.230769230769234
+Atkinson,2024,Selected Races Total,25
+Bacon,2018,All Races,34.065934065934066
+Bacon,2019,All Races,25
+Bacon,2020,All Races,28.037383177570092
+Bacon,2021,All Races,29.166666666666668
+Bacon,2022,All Races,25.97402597402597
+Bacon,2023,All Races,17.894736842105264
+Bacon,2024,All Races,25.806451612903224
+Bacon,2018,White,39.39393939393939
+Bacon,2019,White,20.37037037037037
+Bacon,2020,White,26.08695652173913
+Bacon,2021,White,18.6046511627907
+Bacon,2022,White,18.181818181818183
+Bacon,2023,White,17.5
+Bacon,2024,White,20.8955223880597
+Bacon,2018,Black or African-American,-5
+Bacon,2019,Black or African-American,43.75
+Bacon,2020,Black or African-American,32.25806451612903
+Bacon,2021,Black or African-American,42.30769230769231
+Bacon,2022,Black or African-American,50
+Bacon,2023,Black or African-American,-5
+Bacon,2024,Black or African-American,36.36363636363637
+Bacon,2018,Selected Races Total,34.48275862068966
+Bacon,2019,Selected Races Total,25.71428571428571
+Bacon,2020,Selected Races Total,28.000000000000004
+Bacon,2021,Selected Races Total,27.536231884057973
+Bacon,2022,Selected Races Total,26.027397260273972
+Bacon,2023,Selected Races Total,18.085106382978726
+Bacon,2024,Selected Races Total,24.719101123595504
+Baker,2018,All Races,38.095238095238095
+Baker,2019,All Races,33.33333333333333
+Baker,2020,All Races,35.714285714285715
+Baker,2021,All Races,40
+Baker,2022,All Races,-5
+Baker,2023,All Races,33.33333333333333
+Baker,2024,All Races,-5
+Baker,2018,White,-5
+Baker,2019,White,-5
+Baker,2020,White,83.33333333333334
+Baker,2021,White,-5
+Baker,2022,White,-5
+Baker,2023,White,-5
+Baker,2024,White,0
+Baker,2018,Black or African-American,-5
+Baker,2019,Black or African-American,-5
+Baker,2020,Black or African-American,0
+Baker,2021,Black or African-American,45.45454545454545
+Baker,2022,Black or African-American,0
+Baker,2023,Black or African-American,-5
+Baker,2024,Black or African-American,-5
+Baker,2018,Selected Races Total,40
+Baker,2019,Selected Races Total,33.33333333333333
+Baker,2020,Selected Races Total,35.714285714285715
+Baker,2021,Selected Races Total,40
+Baker,2022,Selected Races Total,-5
+Baker,2023,Selected Races Total,33.33333333333333
+Baker,2024,Selected Races Total,-5
+Baldwin,2018,All Races,19.172932330827066
+Baldwin,2019,All Races,24.892703862660944
+Baldwin,2020,All Races,28.991596638655466
+Baldwin,2021,All Races,24.347826086956523
+Baldwin,2022,All Races,29.43722943722944
+Baldwin,2023,All Races,26.10619469026549
+Baldwin,2024,All Races,23.949579831932773
+Baldwin,2018,White,14.634146341463413
+Baldwin,2019,White,22.22222222222222
+Baldwin,2020,White,39.795918367346935
+Baldwin,2021,White,27
+Baldwin,2022,White,30.76923076923077
+Baldwin,2023,White,22.47191011235955
+Baldwin,2024,White,27.083333333333332
+Baldwin,2018,Black or African-American,23.357664233576642
+Baldwin,2019,Black or African-American,26.548672566371685
+Baldwin,2020,Black or African-American,20.30075187969925
+Baldwin,2021,Black or African-American,24.166666666666668
+Baldwin,2022,Black or African-American,28.225806451612907
+Baldwin,2023,Black or African-American,30.081300813008134
+Baldwin,2024,Black or African-American,20.76923076923077
+Baldwin,2018,Selected Races Total,19.230769230769234
+Baldwin,2019,Selected Races Total,24.43438914027149
+Baldwin,2020,Selected Races Total,28.57142857142857
+Baldwin,2021,Selected Races Total,25.454545454545453
+Baldwin,2022,Selected Races Total,29.385964912280706
+Baldwin,2023,Selected Races Total,26.88679245283019
+Baldwin,2024,Selected Races Total,23.451327433628318
+Banks,2018,All Races,29.629629629629626
+Banks,2019,All Races,28.205128205128204
+Banks,2020,All Races,29.906542056074763
+Banks,2021,All Races,18.045112781954884
+Banks,2022,All Races,25.196850393700785
+Banks,2023,All Races,27.586206896551722
+Banks,2024,All Races,24.161073825503358
+Banks,2018,White,28.000000000000004
+Banks,2019,White,29.464285714285715
+Banks,2020,White,29.523809523809526
+Banks,2021,White,18.11023622047244
+Banks,2022,White,24.561403508771928
+Banks,2023,White,26.42857142857143
+Banks,2024,White,23.076923076923077
+Banks,2018,Black or African-American,-5
+Banks,2019,Black or African-American,0
+Banks,2020,Black or African-American,-5
+Banks,2021,Black or African-American,0
+Banks,2022,Black or African-American,-5
+Banks,2023,Black or African-American,-5
+Banks,2024,Black or African-American,-5
+Banks,2018,Selected Races Total,28.46153846153846
+Banks,2019,Selected Races Total,28.448275862068968
+Banks,2020,Selected Races Total,30.18867924528302
+Banks,2021,Selected Races Total,18.11023622047244
+Banks,2022,Selected Races Total,25.423728813559322
+Banks,2023,Selected Races Total,27.27272727272727
+Banks,2024,Selected Races Total,23.28767123287671
+Barrow,2018,All Races,26.916802610114193
+Barrow,2019,All Races,21.69657422512235
+Barrow,2020,All Races,21.333333333333336
+Barrow,2021,All Races,21.50537634408602
+Barrow,2022,All Races,26.067073170731707
+Barrow,2023,All Races,24.594992636229748
+Barrow,2024,All Races,25.119236883942765
+Barrow,2018,White,26.464646464646464
+Barrow,2019,White,22.15686274509804
+Barrow,2020,White,20
+Barrow,2021,White,21.74721189591078
+Barrow,2022,White,27.364185110663986
+Barrow,2023,White,24.861878453038674
+Barrow,2024,White,24.173553719008265
+Barrow,2018,Black or African-American,26.76056338028169
+Barrow,2019,Black or African-American,13.793103448275861
+Barrow,2020,Black or African-American,27.027027027027028
+Barrow,2021,Black or African-American,17.647058823529413
+Barrow,2022,Black or African-American,17.307692307692307
+Barrow,2023,Black or African-American,27.472527472527474
+Barrow,2024,Black or African-American,27.083333333333332
+Barrow,2018,Selected Races Total,26.501766784452297
+Barrow,2019,Selected Races Total,21.30281690140845
+Barrow,2020,Selected Races Total,20.955882352941178
+Barrow,2021,Selected Races Total,21.287128712871286
+Barrow,2022,Selected Races Total,25.62396006655574
+Barrow,2023,Selected Races Total,25.236593059936908
+Barrow,2024,Selected Races Total,24.655172413793103
+Bartow,2018,All Races,25.348189415041784
+Bartow,2019,All Races,23.88059701492537
+Bartow,2020,All Races,25.35760728218466
+Bartow,2021,All Races,24.59016393442623
+Bartow,2022,All Races,24.587912087912088
+Bartow,2023,All Races,25.798212005108557
+Bartow,2024,All Races,27.04714640198511
+Bartow,2018,White,25.159235668789808
+Bartow,2019,White,22.435897435897438
+Bartow,2020,White,27.31958762886598
+Bartow,2021,White,23.903177004538577
+Bartow,2022,White,25.257731958762886
+Bartow,2023,White,24.499229583975346
+Bartow,2024,White,27.474150664697195
+Bartow,2018,Black or African-American,26.153846153846157
+Bartow,2019,Black or African-American,30.23255813953488
+Bartow,2020,Black or African-American,18.120805369127517
+Bartow,2021,Black or African-American,26.666666666666668
+Bartow,2022,Black or African-American,22.689075630252102
+Bartow,2023,Black or African-American,31
+Bartow,2024,Black or African-American,23.655913978494624
+Bartow,2018,Selected Races Total,25.252525252525253
+Bartow,2019,Selected Races Total,23.380281690140844
+Bartow,2020,Selected Races Total,25.444596443228455
+Bartow,2021,Selected Races Total,24.281984334203656
+Bartow,2022,Selected Races Total,24.821683309557773
+Bartow,2023,Selected Races Total,25.367156208277702
+Bartow,2024,Selected Races Total,27.01298701298701
+Ben Hill,2018,All Races,22.131147540983605
+Ben Hill,2019,All Races,23.448275862068964
+Ben Hill,2020,All Races,27.500000000000004
+Ben Hill,2021,All Races,27.34375
+Ben Hill,2022,All Races,23.770491803278688
+Ben Hill,2023,All Races,28.431372549019606
+Ben Hill,2024,All Races,27.027027027027028
+Ben Hill,2018,White,23.636363636363637
+Ben Hill,2019,White,23.88059701492537
+Ben Hill,2020,White,21.311475409836063
+Ben Hill,2021,White,21.53846153846154
+Ben Hill,2022,White,18.96551724137931
+Ben Hill,2023,White,43.18181818181818
+Ben Hill,2024,White,23.076923076923077
+Ben Hill,2018,Black or African-American,21.53846153846154
+Ben Hill,2019,Black or African-American,22.972972972972975
+Ben Hill,2020,Black or African-American,32.72727272727273
+Ben Hill,2021,Black or African-American,33.33333333333333
+Ben Hill,2022,Black or African-American,28.8135593220339
+Ben Hill,2023,Black or African-American,17.543859649122805
+Ben Hill,2024,Black or African-American,28.57142857142857
+Ben Hill,2018,Selected Races Total,22.5
+Ben Hill,2019,Selected Races Total,23.404255319148938
+Ben Hill,2020,Selected Races Total,26.72413793103448
+Ben Hill,2021,Selected Races Total,27.200000000000003
+Ben Hill,2022,Selected Races Total,23.931623931623932
+Ben Hill,2023,Selected Races Total,28.71287128712871
+Ben Hill,2024,Selected Races Total,25.742574257425744
+Berrien,2018,All Races,28.37837837837838
+Berrien,2019,All Races,29.22077922077922
+Berrien,2020,All Races,28.888888888888886
+Berrien,2021,All Races,32.231404958677686
+Berrien,2022,All Races,32.33082706766917
+Berrien,2023,All Races,28.346456692913385
+Berrien,2024,All Races,27.00729927007299
+Berrien,2018,White,26.61290322580645
+Berrien,2019,White,29.1044776119403
+Berrien,2020,White,27.82608695652174
+Berrien,2021,White,33.663366336633665
+Berrien,2022,White,32.38095238095238
+Berrien,2023,White,28.037383177570092
+Berrien,2024,White,26.605504587155966
+Berrien,2018,Black or African-American,38.095238095238095
+Berrien,2019,Black or African-American,-5
+Berrien,2020,Black or African-American,46.666666666666664
+Berrien,2021,Black or African-American,-5
+Berrien,2022,Black or African-American,28.57142857142857
+Berrien,2023,Black or African-American,33.33333333333333
+Berrien,2024,Black or African-American,-5
+Berrien,2018,Selected Races Total,28.27586206896552
+Berrien,2019,Selected Races Total,28.859060402684566
+Berrien,2020,Selected Races Total,30
+Berrien,2021,Selected Races Total,30.76923076923077
+Berrien,2022,Selected Races Total,31.746031746031743
+Berrien,2023,Selected Races Total,28.688524590163933
+Berrien,2024,Selected Races Total,25.196850393700785
+Bibb,2018,All Races,29.17369308600337
+Bibb,2019,All Races,27.22772277227723
+Bibb,2020,All Races,29.142857142857142
+Bibb,2021,All Races,28.820598006644516
+Bibb,2022,All Races,29.200652528548126
+Bibb,2023,All Races,25.57726465364121
+Bibb,2024,All Races,27.77777777777778
+Bibb,2018,White,23.511904761904763
+Bibb,2019,White,25.391849529780565
+Bibb,2020,White,22.333333333333332
+Bibb,2021,White,23.355263157894736
+Bibb,2022,White,29.073482428115017
+Bibb,2023,White,23.465703971119133
+Bibb,2024,White,24.54308093994778
+Bibb,2018,Black or African-American,32.08955223880597
+Bibb,2019,Black or African-American,28.588098016336055
+Bibb,2020,Black or African-American,31.14942528735632
+Bibb,2021,Black or African-American,30.317273795534668
+Bibb,2022,Black or African-American,29.603729603729604
+Bibb,2023,Black or African-American,26.193390452876375
+Bibb,2024,Black or African-American,29.873772791023846
+Bibb,2018,Selected Races Total,29.561403508771928
+Bibb,2019,Selected Races Total,27.721088435374146
+Bibb,2020,Selected Races Total,28.888888888888886
+Bibb,2021,Selected Races Total,28.484848484848484
+Bibb,2022,Selected Races Total,29.461998292058073
+Bibb,2023,Selected Races Total,25.502742230347348
+Bibb,2024,Selected Races Total,28.01094890510949
+Bleckley,2018,All Races,24.675324675324674
+Bleckley,2019,All Races,19.565217391304348
+Bleckley,2020,All Races,28.235294117647058
+Bleckley,2021,All Races,25
+Bleckley,2022,All Races,25.757575757575758
+Bleckley,2023,All Races,21.59090909090909
+Bleckley,2024,All Races,30.263157894736842
+Bleckley,2018,White,26.08695652173913
+Bleckley,2019,White,16.666666666666664
+Bleckley,2020,White,27.659574468085108
+Bleckley,2021,White,28.57142857142857
+Bleckley,2022,White,20.930232558139537
+Bleckley,2023,White,24.59016393442623
+Bleckley,2024,White,30.18867924528302
+Bleckley,2018,Black or African-American,24.137931034482758
+Bleckley,2019,Black or African-American,26.923076923076923
+Bleckley,2020,Black or African-American,31.428571428571427
+Bleckley,2021,Black or African-American,-5
+Bleckley,2022,Black or African-American,28.57142857142857
+Bleckley,2023,Black or African-American,-5
+Bleckley,2024,Black or African-American,31.818181818181817
+Bleckley,2018,Selected Races Total,25.333333333333336
+Bleckley,2019,Selected Races Total,19.565217391304348
+Bleckley,2020,Selected Races Total,29.268292682926827
+Bleckley,2021,Selected Races Total,25.37313432835821
+Bleckley,2022,Selected Races Total,23.4375
+Bleckley,2023,Selected Races Total,21.839080459770116
+Bleckley,2024,Selected Races Total,30.666666666666664
+Brantley,2018,All Races,29.45205479452055
+Brantley,2019,All Races,27.559055118110237
+Brantley,2020,All Races,27.131782945736433
+Brantley,2021,All Races,28.07017543859649
+Brantley,2022,All Races,29.6875
+Brantley,2023,All Races,37.06896551724138
+Brantley,2024,All Races,36.885245901639344
+Brantley,2018,White,30.069930069930066
+Brantley,2019,White,25.833333333333336
+Brantley,2020,White,26.82926829268293
+Brantley,2021,White,29.245283018867923
+Brantley,2022,White,29.508196721311474
+Brantley,2023,White,35.51401869158878
+Brantley,2024,White,36.206896551724135
+Brantley,2018,Black or African-American,0
+Brantley,2019,Black or African-American,-5
+Brantley,2020,Black or African-American,-5
+Brantley,2021,Black or African-American,-5
+Brantley,2022,Black or African-American,-5
+Brantley,2023,Black or African-American,-5
+Brantley,2024,Black or African-American,-5
+Brantley,2018,Selected Races Total,29.45205479452055
+Brantley,2019,Selected Races Total,27.049180327868854
+Brantley,2020,Selected Races Total,27.559055118110237
+Brantley,2021,Selected Races Total,28.57142857142857
+Brantley,2022,Selected Races Total,29.599999999999998
+Brantley,2023,Selected Races Total,35.39823008849557
+Brantley,2024,Selected Races Total,36.666666666666664
+Brooks,2018,All Races,30.76923076923077
+Brooks,2019,All Races,25.454545454545453
+Brooks,2020,All Races,29.7029702970297
+Brooks,2021,All Races,21.052631578947366
+Brooks,2022,All Races,33.980582524271846
+Brooks,2023,All Races,26.41509433962264
+Brooks,2024,All Races,25.688073394495415
+Brooks,2018,White,30.64516129032258
+Brooks,2019,White,19.607843137254903
+Brooks,2020,White,25.454545454545453
+Brooks,2021,White,18.461538461538463
+Brooks,2022,White,35.714285714285715
+Brooks,2023,White,21.568627450980394
+Brooks,2024,White,22.950819672131146
+Brooks,2018,Black or African-American,30.18867924528302
+Brooks,2019,Black or African-American,32.142857142857146
+Brooks,2020,Black or African-American,35.714285714285715
+Brooks,2021,Black or African-American,25
+Brooks,2022,Black or African-American,34.883720930232556
+Brooks,2023,Black or African-American,30.76923076923077
+Brooks,2024,Black or African-American,27.906976744186046
+Brooks,2018,Selected Races Total,30.434782608695656
+Brooks,2019,Selected Races Total,26.168224299065418
+Brooks,2020,Selected Races Total,29.896907216494846
+Brooks,2021,Selected Races Total,21.238938053097346
+Brooks,2022,Selected Races Total,35.35353535353536
+Brooks,2023,Selected Races Total,26.21359223300971
+Brooks,2024,Selected Races Total,25
+Bryan,2018,All Races,22.641509433962266
+Bryan,2019,All Races,20.3125
+Bryan,2020,All Races,20.949720670391063
+Bryan,2021,All Races,19.346049046321525
+Bryan,2022,All Races,24.40318302387268
+Bryan,2023,All Races,24.2603550295858
+Bryan,2024,All Races,21.428571428571427
+Bryan,2018,White,22.89156626506024
+Bryan,2019,White,19.444444444444446
+Bryan,2020,White,20.224719101123593
+Bryan,2021,White,22.545454545454547
+Bryan,2022,White,26.174496644295303
+Bryan,2023,White,25.482625482625483
+Bryan,2024,White,20.149253731343283
+Bryan,2018,Black or African-American,24
+Bryan,2019,Black or African-American,21.27659574468085
+Bryan,2020,Black or African-American,28.35820895522388
+Bryan,2021,Black or African-American,12.698412698412698
+Bryan,2022,Black or African-American,18.51851851851852
+Bryan,2023,Black or African-American,23.636363636363637
+Bryan,2024,Black or African-American,20
+Bryan,2018,Selected Races Total,23.076923076923077
+Bryan,2019,Selected Races Total,19.732441471571907
+Bryan,2020,Selected Races Total,21.856287425149702
+Bryan,2021,Selected Races Total,20.710059171597635
+Bryan,2022,Selected Races Total,25
+Bryan,2023,Selected Races Total,25.159235668789808
+Bryan,2024,Selected Races Total,20.125786163522015
+Bulloch,2018,All Races,25.22851919561243
+Bulloch,2019,All Races,26.011560693641616
+Bulloch,2020,All Races,26.47058823529412
+Bulloch,2021,All Races,24.652087475149106
+Bulloch,2022,All Races,24.742268041237114
+Bulloch,2023,All Races,24.50199203187251
+Bulloch,2024,All Races,24.173553719008265
+Bulloch,2018,White,22.186495176848876
+Bulloch,2019,White,22.26027397260274
+Bulloch,2020,White,23.985239852398525
+Bulloch,2021,White,22.772277227722775
+Bulloch,2022,White,21.305841924398624
+Bulloch,2023,White,22.302158273381295
+Bulloch,2024,White,24.822695035460992
+Bulloch,2018,Black or African-American,28.110599078341014
+Bulloch,2019,Black or African-American,30.917874396135264
+Bulloch,2020,Black or African-American,30.097087378640776
+Bulloch,2021,Black or African-American,28.57142857142857
+Bulloch,2022,Black or African-American,27.167630057803464
+Bulloch,2023,Black or African-American,26.804123711340207
+Bulloch,2024,Black or African-American,24
+Bulloch,2018,Selected Races Total,24.62121212121212
+Bulloch,2019,Selected Races Total,25.851703406813627
+Bulloch,2020,Selected Races Total,26.62473794549266
+Bulloch,2021,Selected Races Total,24.948453608247423
+Bulloch,2022,Selected Races Total,23.49137931034483
+Bulloch,2023,Selected Races Total,24.152542372881356
+Bulloch,2024,Selected Races Total,24.50765864332604
+Burke,2018,All Races,22.277227722772277
+Burke,2019,All Races,24.293785310734464
+Burke,2020,All Races,25.882352941176475
+Burke,2021,All Races,23.391812865497073
+Burke,2022,All Races,23.121387283236995
+Burke,2023,All Races,23.42857142857143
+Burke,2024,All Races,27.325581395348834
+Burke,2018,White,21.794871794871796
+Burke,2019,White,23.376623376623375
+Burke,2020,White,28.749999999999996
+Burke,2021,White,24.691358024691358
+Burke,2022,White,31.32530120481928
+Burke,2023,White,21.311475409836063
+Burke,2024,White,25.806451612903224
+Burke,2018,Black or African-American,22.033898305084744
+Burke,2019,Black or African-American,23.958333333333336
+Burke,2020,Black or African-American,23.25581395348837
+Burke,2021,Black or African-American,22.47191011235955
+Burke,2022,Black or African-American,13.793103448275861
+Burke,2023,Black or African-American,25
+Burke,2024,Black or African-American,28.37837837837838
+Burke,2018,Selected Races Total,21.93877551020408
+Burke,2019,Selected Races Total,23.699421965317917
+Burke,2020,Selected Races Total,25.903614457831324
+Burke,2021,Selected Races Total,23.52941176470588
+Burke,2022,Selected Races Total,22.35294117647059
+Burke,2023,Selected Races Total,23.668639053254438
+Burke,2024,Selected Races Total,26.94610778443114
+Butts,2018,All Races,24.358974358974358
+Butts,2019,All Races,25.78616352201258
+Butts,2020,All Races,25.165562913907287
+Butts,2021,All Races,18.93491124260355
+Butts,2022,All Races,24.431818181818183
+Butts,2023,All Races,17.8343949044586
+Butts,2024,All Races,19.58041958041958
+Butts,2018,White,28.28282828282828
+Butts,2019,White,27.522935779816514
+Butts,2020,White,20.952380952380953
+Butts,2021,White,18.3206106870229
+Butts,2022,White,25.862068965517242
+Butts,2023,White,15.151515151515152
+Butts,2024,White,20.588235294117645
+Butts,2018,Black or African-American,18.51851851851852
+Butts,2019,Black or African-American,23.91304347826087
+Butts,2020,Black or African-American,35.55555555555556
+Butts,2021,Black or African-American,21.052631578947366
+Butts,2022,Black or African-American,22.22222222222222
+Butts,2023,Black or African-American,24.528301886792452
+Butts,2024,Black or African-American,16.216216216216218
+Butts,2018,Selected Races Total,24.836601307189543
+Butts,2019,Selected Races Total,26.451612903225808
+Butts,2020,Selected Races Total,25.333333333333336
+Butts,2021,Selected Races Total,18.93491124260355
+Butts,2022,Selected Races Total,24.705882352941178
+Butts,2023,Selected Races Total,18.421052631578945
+Butts,2024,Selected Races Total,19.424460431654676
+Calhoun,2018,All Races,25
+Calhoun,2019,All Races,31.03448275862069
+Calhoun,2020,All Races,25
+Calhoun,2021,All Races,35.294117647058826
+Calhoun,2022,All Races,39.285714285714285
+Calhoun,2023,All Races,28.000000000000004
+Calhoun,2024,All Races,34.48275862068966
+Calhoun,2018,White,-5
+Calhoun,2019,White,-5
+Calhoun,2020,White,-5
+Calhoun,2021,White,-5
+Calhoun,2022,White,-5
+Calhoun,2023,White,-5
+Calhoun,2024,White,-5
+Calhoun,2018,Black or African-American,-5
+Calhoun,2019,Black or African-American,32
+Calhoun,2020,Black or African-American,38.88888888888889
+Calhoun,2021,Black or African-American,35.714285714285715
+Calhoun,2022,Black or African-American,43.75
+Calhoun,2023,Black or African-American,-5
+Calhoun,2024,Black or African-American,31.57894736842105
+Calhoun,2018,Selected Races Total,25
+Calhoun,2019,Selected Races Total,31.03448275862069
+Calhoun,2020,Selected Races Total,25.806451612903224
+Calhoun,2021,Selected Races Total,35.294117647058826
+Calhoun,2022,Selected Races Total,39.285714285714285
+Calhoun,2023,Selected Races Total,28.000000000000004
+Calhoun,2024,Selected Races Total,34.48275862068966
+Camden,2018,All Races,22.371364653243848
+Camden,2019,All Races,25.86605080831409
+Camden,2020,All Races,28.438228438228435
+Camden,2021,All Races,23.25581395348837
+Camden,2022,All Races,24.20814479638009
+Camden,2023,All Races,25.062656641604008
+Camden,2024,All Races,24.170616113744074
+Camden,2018,White,23.47560975609756
+Camden,2019,White,26.153846153846157
+Camden,2020,White,31.438127090301005
+Camden,2021,White,23.60655737704918
+Camden,2022,White,25.465838509316768
+Camden,2023,White,26.223776223776223
+Camden,2024,White,24.25249169435216
+Camden,2018,Black or African-American,17.582417582417584
+Camden,2019,Black or African-American,23.684210526315788
+Camden,2020,Black or African-American,21
+Camden,2021,Black or African-American,19.27710843373494
+Camden,2022,Black or African-American,20
+Camden,2023,Black or African-American,18.055555555555554
+Camden,2024,Black or African-American,24.137931034482758
+Camden,2018,Selected Races Total,22.195704057279237
+Camden,2019,Selected Races Total,25.6857855361596
+Camden,2020,Selected Races Total,28.82205513784461
+Camden,2021,Selected Races Total,22.68041237113402
+Camden,2022,Selected Races Total,24.271844660194176
+Camden,2023,Selected Races Total,24.581005586592177
+Camden,2024,Selected Races Total,24.22680412371134
+Candler,2018,All Races,34.24657534246575
+Candler,2019,All Races,24.137931034482758
+Candler,2020,All Races,24.691358024691358
+Candler,2021,All Races,20.833333333333336
+Candler,2022,All Races,25.925925925925924
+Candler,2023,All Races,21.428571428571427
+Candler,2024,All Races,30.666666666666664
+Candler,2018,White,30.18867924528302
+Candler,2019,White,23.214285714285715
+Candler,2020,White,22.22222222222222
+Candler,2021,White,13.114754098360656
+Candler,2022,White,23.333333333333332
+Candler,2023,White,18.181818181818183
+Candler,2024,White,28.000000000000004
+Candler,2018,Black or African-American,47.368421052631575
+Candler,2019,Black or African-American,24.137931034482758
+Candler,2020,Black or African-American,29.166666666666668
+Candler,2021,Black or African-American,35.483870967741936
+Candler,2022,Black or African-American,31.57894736842105
+Candler,2023,Black or African-American,37.5
+Candler,2024,Black or African-American,36
+Candler,2018,Selected Races Total,34.72222222222222
+Candler,2019,Selected Races Total,23.52941176470588
+Candler,2020,Selected Races Total,24.358974358974358
+Candler,2021,Selected Races Total,20.652173913043477
+Candler,2022,Selected Races Total,25.31645569620253
+Candler,2023,Selected Races Total,21.951219512195124
+Candler,2024,Selected Races Total,30.666666666666664
+Carroll,2018,All Races,23.314917127071823
+Carroll,2019,All Races,25.302530253025303
+Carroll,2020,All Races,25.843881856540087
+Carroll,2021,All Races,26.004464285714285
+Carroll,2022,All Races,23.66325369738339
+Carroll,2023,All Races,25.892857142857146
+Carroll,2024,All Races,26.94063926940639
+Carroll,2018,White,22.33285917496444
+Carroll,2019,White,26.406249999999996
+Carroll,2020,White,24.821683309557773
+Carroll,2021,White,25.25399129172714
+Carroll,2022,White,24.201680672268907
+Carroll,2023,White,26.73434856175973
+Carroll,2024,White,27.23146747352496
+Carroll,2018,Black or African-American,25
+Carroll,2019,Black or African-American,26.285714285714285
+Carroll,2020,Black or African-American,29.951690821256037
+Carroll,2021,Black or African-American,25.64102564102564
+Carroll,2022,Black or African-American,25.842696629213485
+Carroll,2023,Black or African-American,24.242424242424242
+Carroll,2024,Black or African-American,25.443786982248522
+Carroll,2018,Selected Races Total,22.857142857142858
+Carroll,2019,Selected Races Total,26.380368098159508
+Carroll,2020,Selected Races Total,25.991189427312776
+Carroll,2021,Selected Races Total,25.325443786982248
+Carroll,2022,Selected Races Total,24.579560155239328
+Carroll,2023,Selected Races Total,25.964912280701753
+Carroll,2024,Selected Races Total,26.867469879518076
+Catoosa,2018,All Races,28.703703703703702
+Catoosa,2019,All Races,26.071428571428573
+Catoosa,2020,All Races,21.693121693121693
+Catoosa,2021,All Races,23.452768729641694
+Catoosa,2022,All Races,26.08695652173913
+Catoosa,2023,All Races,23.474178403755868
+Catoosa,2024,All Races,27.27272727272727
+Catoosa,2018,White,27.722772277227726
+Catoosa,2019,White,26.436781609195403
+Catoosa,2020,White,21.551724137931032
+Catoosa,2021,White,25.179856115107913
+Catoosa,2022,White,26.87224669603524
+Catoosa,2023,White,25.128205128205128
+Catoosa,2024,White,27.27272727272727
+Catoosa,2018,Black or African-American,-5
+Catoosa,2019,Black or African-American,-5
+Catoosa,2020,Black or African-American,-5
+Catoosa,2021,Black or African-American,-5
+Catoosa,2022,Black or African-American,-5
+Catoosa,2023,Black or African-American,-5
+Catoosa,2024,Black or African-American,-5
+Catoosa,2018,Selected Races Total,28.246753246753247
+Catoosa,2019,Selected Races Total,26.296296296296294
+Catoosa,2020,Selected Races Total,21.60664819944598
+Catoosa,2021,Selected Races Total,24.742268041237114
+Catoosa,2022,Selected Races Total,27.11864406779661
+Catoosa,2023,Selected Races Total,24.509803921568626
+Catoosa,2024,Selected Races Total,27.09677419354839
+Charlton,2018,All Races,18.666666666666668
+Charlton,2019,All Races,15.873015873015872
+Charlton,2020,All Races,23.4375
+Charlton,2021,All Races,22.666666666666664
+Charlton,2022,All Races,30
+Charlton,2023,All Races,18.30985915492958
+Charlton,2024,All Races,37.28813559322034
+Charlton,2018,White,16.666666666666664
+Charlton,2019,White,15.686274509803921
+Charlton,2020,White,29.268292682926827
+Charlton,2021,White,23.636363636363637
+Charlton,2022,White,32
+Charlton,2023,White,24.074074074074073
+Charlton,2024,White,35.714285714285715
+Charlton,2018,Black or African-American,-5
+Charlton,2019,Black or African-American,-5
+Charlton,2020,Black or African-American,-5
+Charlton,2021,Black or African-American,-5
+Charlton,2022,Black or African-American,-5
+Charlton,2023,Black or African-American,0
+Charlton,2024,Black or African-American,42.857142857142854
+Charlton,2018,Selected Races Total,17.56756756756757
+Charlton,2019,Selected Races Total,15.873015873015872
+Charlton,2020,Selected Races Total,23.809523809523807
+Charlton,2021,Selected Races Total,22.535211267605636
+Charlton,2022,Selected Races Total,28.35820895522388
+Charlton,2023,Selected Races Total,18.571428571428573
+Charlton,2024,Selected Races Total,37.5
+Chatham,2018,All Races,23.191899710703954
+Chatham,2019,All Races,23.034825870646767
+Chatham,2020,All Races,23.22250639386189
+Chatham,2021,All Races,22.49877989263055
+Chatham,2022,All Races,24.091587854654055
+Chatham,2023,All Races,26.27471383975026
+Chatham,2024,All Races,21.633085896076352
+Chatham,2018,White,22.1875
+Chatham,2019,White,22.86729857819905
+Chatham,2020,White,24.287484510532835
+Chatham,2021,White,22.705314009661837
+Chatham,2022,White,25.232558139534884
+Chatham,2023,White,26.327193932827736
+Chatham,2024,White,19.726339794754846
+Chatham,2018,Black or African-American,23.765432098765434
+Chatham,2019,Black or African-American,23.062381852551987
+Chatham,2020,Black or African-American,22.24352828379674
+Chatham,2021,Black or African-American,22.314814814814817
+Chatham,2022,Black or African-American,22.772277227722775
+Chatham,2023,Black or African-American,25.904977375565615
+Chatham,2024,Black or African-American,22.195416164053075
+Chatham,2018,Selected Races Total,22.981366459627328
+Chatham,2019,Selected Races Total,22.97581493165089
+Chatham,2020,Selected Races Total,23.135135135135133
+Chatham,2021,Selected Races Total,22.48427672955975
+Chatham,2022,Selected Races Total,23.903743315508024
+Chatham,2023,Selected Races Total,26.12064194798008
+Chatham,2024,Selected Races Total,20.926143024618995
+Chattahoochee,2018,All Races,28.888888888888886
+Chattahoochee,2019,All Races,20.869565217391305
+Chattahoochee,2020,All Races,17.02127659574468
+Chattahoochee,2021,All Races,28.971962616822427
+Chattahoochee,2022,All Races,30.18867924528302
+Chattahoochee,2023,All Races,34.40860215053764
+Chattahoochee,2024,All Races,32.89473684210527
+Chattahoochee,2018,White,28.723404255319153
+Chattahoochee,2019,White,22.35294117647059
+Chattahoochee,2020,White,18.461538461538463
+Chattahoochee,2021,White,33.76623376623377
+Chattahoochee,2022,White,36.61971830985916
+Chattahoochee,2023,White,31.666666666666664
+Chattahoochee,2024,White,29.629629629629626
+Chattahoochee,2018,Black or African-American,20
+Chattahoochee,2019,Black or African-American,-5
+Chattahoochee,2020,Black or African-American,-5
+Chattahoochee,2021,Black or African-American,-5
+Chattahoochee,2022,Black or African-American,-5
+Chattahoochee,2023,Black or African-American,40.909090909090914
+Chattahoochee,2024,Black or African-American,43.75
+Chattahoochee,2018,Selected Races Total,26.61290322580645
+Chattahoochee,2019,Selected Races Total,21.568627450980394
+Chattahoochee,2020,Selected Races Total,18.072289156626507
+Chattahoochee,2021,Selected Races Total,30.612244897959183
+Chattahoochee,2022,Selected Races Total,31.57894736842105
+Chattahoochee,2023,Selected Races Total,34.146341463414636
+Chattahoochee,2024,Selected Races Total,32.857142857142854
+Chattooga,2018,All Races,21.511627906976745
+Chattooga,2019,All Races,31.666666666666664
+Chattooga,2020,All Races,28.859060402684566
+Chattooga,2021,All Races,29.53020134228188
+Chattooga,2022,All Races,25.49019607843137
+Chattooga,2023,All Races,26.119402985074625
+Chattooga,2024,All Races,31.57894736842105
+Chattooga,2018,White,21.710526315789476
+Chattooga,2019,White,31.210191082802545
+Chattooga,2020,White,29.577464788732392
+Chattooga,2021,White,30.075187969924812
+Chattooga,2022,White,25.694444444444443
+Chattooga,2023,White,24.137931034482758
+Chattooga,2024,White,31.147540983606557
+Chattooga,2018,Black or African-American,-5
+Chattooga,2019,Black or African-American,-5
+Chattooga,2020,Black or African-American,-5
+Chattooga,2021,Black or African-American,-5
+Chattooga,2022,Black or African-American,-5
+Chattooga,2023,Black or African-American,35.714285714285715
+Chattooga,2024,Black or African-American,-5
+Chattooga,2018,Selected Races Total,21.686746987951807
+Chattooga,2019,Selected Races Total,30.58823529411765
+Chattooga,2020,Selected Races Total,29.054054054054053
+Chattooga,2021,Selected Races Total,29.78723404255319
+Chattooga,2022,Selected Races Total,25.82781456953642
+Chattooga,2023,Selected Races Total,25.384615384615383
+Chattooga,2024,Selected Races Total,32.06106870229007
+Cherokee,2018,All Races,21.79720704310868
+Cherokee,2019,All Races,22.341696535244925
+Cherokee,2020,All Races,22.961513372472275
+Cherokee,2021,All Races,24.261725535610886
+Cherokee,2022,All Races,22.781065088757398
+Cherokee,2023,All Races,25.649717514124294
+Cherokee,2024,All Races,26.3395375070502
+Cherokee,2018,White,21.828103683492497
+Cherokee,2019,White,22.154055896387185
+Cherokee,2020,White,23.699851411589894
+Cherokee,2021,White,24.345549738219894
+Cherokee,2022,White,23.164983164983166
+Cherokee,2023,White,27.02156334231806
+Cherokee,2024,White,26.339869281045754
+Cherokee,2018,Black or African-American,22.321428571428573
+Cherokee,2019,Black or African-American,21.16788321167883
+Cherokee,2020,Black or African-American,15.447154471544716
+Cherokee,2021,Black or African-American,24.409448818897637
+Cherokee,2022,Black or African-American,18.461538461538463
+Cherokee,2023,Black or African-American,19.148936170212767
+Cherokee,2024,Black or African-American,28.68217054263566
+Cherokee,2018,Selected Races Total,21.863117870722434
+Cherokee,2019,Selected Races Total,22.069825436408976
+Cherokee,2020,Selected Races Total,23.008849557522122
+Cherokee,2021,Selected Races Total,24.350453172205437
+Cherokee,2022,Selected Races Total,22.78637770897833
+Cherokee,2023,Selected Races Total,26.136363636363637
+Cherokee,2024,Selected Races Total,26.522001205545507
+Clarke,2018,All Races,29.42028985507246
+Clarke,2019,All Races,25.771604938271604
+Clarke,2020,All Races,25.83201267828843
+Clarke,2021,All Races,24.663677130044842
+Clarke,2022,All Races,26.656626506024097
+Clarke,2023,All Races,28.30820770519263
+Clarke,2024,All Races,22.703639514731368
+Clarke,2018,White,28.24858757062147
+Clarke,2019,White,20.481927710843372
+Clarke,2020,White,20.891364902506965
+Clarke,2021,White,23.774509803921568
+Clarke,2022,White,24.93638676844784
+Clarke,2023,White,27.697841726618705
+Clarke,2024,White,18.005540166204987
+Clarke,2018,Black or African-American,30.976430976430976
+Clarke,2019,Black or African-American,31.428571428571427
+Clarke,2020,Black or African-American,32.780082987551864
+Clarke,2021,Black or African-American,26.200873362445414
+Clarke,2022,Black or African-American,29.535864978902953
+Clarke,2023,Black or African-American,29.681978798586574
+Clarke,2024,Black or African-American,29.441624365482234
+Clarke,2018,Selected Races Total,29.493087557603687
+Clarke,2019,Selected Races Total,25.49019607843137
+Clarke,2020,Selected Races Total,25.666666666666664
+Clarke,2021,Selected Races Total,24.646781789638933
+Clarke,2022,Selected Races Total,26.666666666666668
+Clarke,2023,Selected Races Total,28.698752228163993
+Clarke,2024,Selected Races Total,22.043010752688172
+Clay,2018,All Races,-5
+Clay,2019,All Races,-5
+Clay,2020,All Races,-5
+Clay,2021,All Races,0
+Clay,2022,All Races,-5
+Clay,2023,All Races,0
+Clay,2024,All Races,46.15384615384615
+Clay,2018,White,0
+Clay,2019,White,0
+Clay,2020,White,-5
+Clay,2021,White,0
+Clay,2022,White,0
+Clay,2023,White,0
+Clay,2024,White,-5
+Clay,2018,Black or African-American,-5
+Clay,2019,Black or African-American,-5
+Clay,2020,Black or African-American,-5
+Clay,2021,Black or African-American,0
+Clay,2022,Black or African-American,-5
+Clay,2023,Black or African-American,0
+Clay,2024,Black or African-American,55.55555555555556
+Clay,2018,Selected Races Total,-5
+Clay,2019,Selected Races Total,-5
+Clay,2020,Selected Races Total,-5
+Clay,2021,Selected Races Total,0
+Clay,2022,Selected Races Total,-5
+Clay,2023,Selected Races Total,0
+Clay,2024,Selected Races Total,46.15384615384615
+Clayton,2018,All Races,24.595055413469737
+Clayton,2019,All Races,24.25124792013311
+Clayton,2020,All Races,26.913155631986243
+Clayton,2021,All Races,23.838737949167395
+Clayton,2022,All Races,22.503328894806923
+Clayton,2023,All Races,23.26007326007326
+Clayton,2024,All Races,24.54835281615303
+Clayton,2018,White,23.867069486404834
+Clayton,2019,White,28.267477203647417
+Clayton,2020,White,29.102167182662537
+Clayton,2021,White,26.38190954773869
+Clayton,2022,White,21.56448202959831
+Clayton,2023,White,23.88758782201405
+Clayton,2024,White,20.37617554858934
+Clayton,2018,Black or African-American,24.37199358631748
+Clayton,2019,Black or African-American,23.295454545454543
+Clayton,2020,Black or African-American,25.896201177100053
+Clayton,2021,Black or African-American,23.1433506044905
+Clayton,2022,Black or African-American,22.763726095003083
+Clayton,2023,Black or African-American,23.306401491609698
+Clayton,2024,Black or African-American,25.23098791755508
+Clayton,2018,Selected Races Total,24.2960944595822
+Clayton,2019,Selected Races Total,24.01766004415011
+Clayton,2020,Selected Races Total,26.368613138686133
+Clayton,2021,Selected Races Total,23.747072599531617
+Clayton,2022,Selected Races Total,22.492836676217763
+Clayton,2023,Selected Races Total,23.428290766208253
+Clayton,2024,Selected Races Total,24.33371958285052
+Clinch,2018,All Races,25
+Clinch,2019,All Races,21.428571428571427
+Clinch,2020,All Races,38.333333333333336
+Clinch,2021,All Races,33.92857142857143
+Clinch,2022,All Races,41.07142857142857
+Clinch,2023,All Races,31.25
+Clinch,2024,All Races,28.26086956521739
+Clinch,2018,White,27.77777777777778
+Clinch,2019,White,19.51219512195122
+Clinch,2020,White,15.625
+Clinch,2021,White,32.25806451612903
+Clinch,2022,White,40.625
+Clinch,2023,White,25.925925925925924
+Clinch,2024,White,28.57142857142857
+Clinch,2018,Black or African-American,-5
+Clinch,2019,Black or African-American,23.076923076923077
+Clinch,2020,Black or African-American,64.28571428571429
+Clinch,2021,Black or African-American,28.57142857142857
+Clinch,2022,Black or African-American,42.857142857142854
+Clinch,2023,Black or African-American,36.84210526315789
+Clinch,2024,Black or African-American,27.27272727272727
+Clinch,2018,Selected Races Total,25
+Clinch,2019,Selected Races Total,20.8955223880597
+Clinch,2020,Selected Races Total,38.333333333333336
+Clinch,2021,Selected Races Total,30.76923076923077
+Clinch,2022,Selected Races Total,41.509433962264154
+Clinch,2023,Selected Races Total,30.434782608695656
+Clinch,2024,Selected Races Total,27.906976744186046
+Cobb,2018,All Races,22.97212324460281
+Cobb,2019,All Races,21.61141418380193
+Cobb,2020,All Races,22.138228941684666
+Cobb,2021,All Races,20.228281547241597
+Cobb,2022,All Races,21.668081494057727
+Cobb,2023,All Races,21.799010114052074
+Cobb,2024,All Races,23.687484448867878
+Cobb,2018,White,22.846441947565545
+Cobb,2019,White,22.54505332842957
+Cobb,2020,White,22.778424524641057
+Cobb,2021,White,21.11304347826087
+Cobb,2022,White,22.153846153846153
+Cobb,2023,White,22.57306012764528
+Cobb,2024,White,24.291187739463602
+Cobb,2018,Black or African-American,23.993095512082853
+Cobb,2019,Black or African-American,21.534800713860797
+Cobb,2020,Black or African-American,21.880650994575046
+Cobb,2021,Black or African-American,19.26795580110497
+Cobb,2022,Black or African-American,21.32089016511127
+Cobb,2023,Black or African-American,21.11899133175729
+Cobb,2024,Black or African-American,23.491773308957953
+Cobb,2018,Selected Races Total,23.298548094373867
+Cobb,2019,Selected Races Total,22.15909090909091
+Cobb,2020,Selected Races Total,22.42681775259679
+Cobb,2021,Selected Races Total,20.495026601896832
+Cobb,2022,Selected Races Total,21.885132005558127
+Cobb,2023,Selected Races Total,22.13848327837965
+Cobb,2024,Selected Races Total,24.055075593952484
+Coffee,2018,All Races,29.595015576323984
+Coffee,2019,All Races,22.875816993464053
+Coffee,2020,All Races,23.432343234323433
+Coffee,2021,All Races,24.914675767918087
+Coffee,2022,All Races,29.276315789473685
+Coffee,2023,All Races,27.75800711743772
+Coffee,2024,All Races,23.875432525951556
+Coffee,2018,White,28.643216080402013
+Coffee,2019,White,20.72072072072072
+Coffee,2020,White,22.641509433962266
+Coffee,2021,White,24.09090909090909
+Coffee,2022,White,32.02247191011236
+Coffee,2023,White,26.842105263157894
+Coffee,2024,White,22.516556291390728
+Coffee,2018,Black or African-American,31.25
+Coffee,2019,Black or African-American,30
+Coffee,2020,Black or African-American,24.096385542168676
+Coffee,2021,Black or African-American,26.229508196721312
+Coffee,2022,Black or African-American,25.961538461538463
+Coffee,2023,Black or African-American,30.136986301369863
+Coffee,2024,Black or African-American,22.93577981651376
+Coffee,2018,Selected Races Total,29.581993569131832
+Coffee,2019,Selected Races Total,22.945205479452056
+Coffee,2020,Selected Races Total,23.050847457627118
+Coffee,2021,Selected Races Total,24.555160142348754
+Coffee,2022,Selected Races Total,29.78723404255319
+Coffee,2023,Selected Races Total,27.756653992395435
+Coffee,2024,Selected Races Total,22.692307692307693
+Colquitt,2018,All Races,24.396135265700483
+Colquitt,2019,All Races,26.900584795321635
+Colquitt,2020,All Races,22.97979797979798
+Colquitt,2021,All Races,26.109660574412537
+Colquitt,2022,All Races,25
+Colquitt,2023,All Races,32.27665706051873
+Colquitt,2024,All Races,22.888283378746593
+Colquitt,2018,White,24.210526315789473
+Colquitt,2019,White,24.271844660194176
+Colquitt,2020,White,23.52941176470588
+Colquitt,2021,White,26.08695652173913
+Colquitt,2022,White,25.099601593625497
+Colquitt,2023,White,27.530364372469634
+Colquitt,2024,White,20.642201834862387
+Colquitt,2018,Black or African-American,24.166666666666668
+Colquitt,2019,Black or African-American,34.34343434343434
+Colquitt,2020,Black or African-American,20.792079207920793
+Colquitt,2021,Black or African-American,28.57142857142857
+Colquitt,2022,Black or African-American,25
+Colquitt,2023,Black or African-American,41.25
+Colquitt,2024,Black or African-American,30.107526881720432
+Colquitt,2018,Selected Races Total,24.19753086419753
+Colquitt,2019,Selected Races Total,27.54098360655738
+Colquitt,2020,Selected Races Total,22.82051282051282
+Colquitt,2021,Selected Races Total,26.881720430107524
+Colquitt,2022,Selected Races Total,25.071225071225072
+Colquitt,2023,Selected Races Total,30.886850152905197
+Colquitt,2024,Selected Races Total,23.47266881028939
+Columbia,2018,All Races,21.32616487455197
+Columbia,2019,All Races,21.32701421800948
+Columbia,2020,All Races,21.44748455428067
+Columbia,2021,All Races,22.70663033605813
+Columbia,2022,All Races,21.793721973094172
+Columbia,2023,All Races,23.91304347826087
+Columbia,2024,All Races,22.04724409448819
+Columbia,2018,White,23.03980699638118
+Columbia,2019,White,22.091503267973856
+Columbia,2020,White,21.39364303178484
+Columbia,2021,White,24.893917963224894
+Columbia,2022,White,23.354037267080745
+Columbia,2023,White,25.072886297376094
+Columbia,2024,White,22.922636103151863
+Columbia,2018,Black or African-American,17.412935323383085
+Columbia,2019,Black or African-American,18.04123711340206
+Columbia,2020,Black or African-American,21.55963302752294
+Columbia,2021,Black or African-American,19.16376306620209
+Columbia,2022,Black or African-American,17.77777777777778
+Columbia,2023,Black or African-American,20.361990950226243
+Columbia,2024,Black or African-American,19.248826291079812
+Columbia,2018,Selected Races Total,21.941747572815533
+Columbia,2019,Selected Races Total,21.27215849843587
+Columbia,2020,Selected Races Total,21.428571428571427
+Columbia,2021,Selected Races Total,23.239436619718308
+Columbia,2022,Selected Races Total,22.135922330097088
+Columbia,2023,Selected Races Total,23.92502756339581
+Columbia,2024,Selected Races Total,22.063666300768386
+Cook,2018,All Races,25.547445255474454
+Cook,2019,All Races,24.817518248175183
+Cook,2020,All Races,24.242424242424242
+Cook,2021,All Races,27.40740740740741
+Cook,2022,All Races,29.1044776119403
+Cook,2023,All Races,34.05797101449276
+Cook,2024,All Races,27.941176470588236
+Cook,2018,White,22.07792207792208
+Cook,2019,White,22.22222222222222
+Cook,2020,White,20.51282051282051
+Cook,2021,White,28.40909090909091
+Cook,2022,White,27.173913043478258
+Cook,2023,White,34.090909090909086
+Cook,2024,White,25
+Cook,2018,Black or African-American,28.57142857142857
+Cook,2019,Black or African-American,28.888888888888886
+Cook,2020,Black or African-American,29.411764705882355
+Cook,2021,Black or African-American,24.444444444444443
+Cook,2022,Black or African-American,34.146341463414636
+Cook,2023,Black or African-American,34.090909090909086
+Cook,2024,Black or African-American,32.5
+Cook,2018,Selected Races Total,24.81203007518797
+Cook,2019,Selected Races Total,24.6031746031746
+Cook,2020,Selected Races Total,24.031007751937985
+Cook,2021,Selected Races Total,27.06766917293233
+Cook,2022,Selected Races Total,29.32330827067669
+Cook,2023,Selected Races Total,34.090909090909086
+Cook,2024,Selected Races Total,27.34375
+Coweta,2018,All Races,21.397849462365592
+Coweta,2019,All Races,22.06035379812695
+Coweta,2020,All Races,21.28654970760234
+Coweta,2021,All Races,24.946004319654428
+Coweta,2022,All Races,24.97451580020387
+Coweta,2023,All Races,24.63465553235908
+Coweta,2024,All Races,25.952626158599383
+Coweta,2018,White,21.574344023323615
+Coweta,2019,White,20.310296191819464
+Coweta,2020,White,21.88976377952756
+Coweta,2021,White,24.210526315789473
+Coweta,2022,White,24.893314366998577
+Coweta,2023,White,25.972006220839816
+Coweta,2024,White,26.595744680851062
+Coweta,2018,Black or African-American,20
+Coweta,2019,Black or African-American,29.1866028708134
+Coweta,2020,Black or African-American,21.22905027932961
+Coweta,2021,Black or African-American,27.27272727272727
+Coweta,2022,Black or African-American,23.728813559322035
+Coweta,2023,Black or African-American,22.48995983935743
+Coweta,2024,Black or African-American,23.577235772357724
+Coweta,2018,Selected Races Total,21.205357142857142
+Coweta,2019,Selected Races Total,22.33115468409586
+Coweta,2020,Selected Races Total,21.744471744471745
+Coweta,2021,Selected Races Total,24.97175141242938
+Coweta,2022,Selected Races Total,24.600638977635782
+Coweta,2023,Selected Races Total,25
+Coweta,2024,Selected Races Total,25.77433628318584
+Crawford,2018,All Races,25.333333333333336
+Crawford,2019,All Races,17.94871794871795
+Crawford,2020,All Races,25.675675675675674
+Crawford,2021,All Races,21.875
+Crawford,2022,All Races,20.51282051282051
+Crawford,2023,All Races,25
+Crawford,2024,All Races,22.950819672131146
+Crawford,2018,White,20.754716981132077
+Crawford,2019,White,18.64406779661017
+Crawford,2020,White,28.333333333333332
+Crawford,2021,White,25
+Crawford,2022,White,22.058823529411764
+Crawford,2023,White,29.166666666666668
+Crawford,2024,White,25
+Crawford,2018,Black or African-American,30
+Crawford,2019,Black or African-American,-5
+Crawford,2020,Black or African-American,-5
+Crawford,2021,Black or African-American,0
+Crawford,2022,Black or African-American,0
+Crawford,2023,Black or African-American,-5
+Crawford,2024,Black or African-American,-5
+Crawford,2018,Selected Races Total,23.28767123287671
+Crawford,2019,Selected Races Total,18.666666666666668
+Crawford,2020,Selected Races Total,25.71428571428571
+Crawford,2021,Selected Races Total,21.875
+Crawford,2022,Selected Races Total,20
+Crawford,2023,Selected Races Total,25.862068965517242
+Crawford,2024,Selected Races Total,23.333333333333332
+Crisp,2018,All Races,27.54491017964072
+Crisp,2019,All Races,21.192052980132452
+Crisp,2020,All Races,26.82926829268293
+Crisp,2021,All Races,28.666666666666668
+Crisp,2022,All Races,29.629629629629626
+Crisp,2023,All Races,22.69503546099291
+Crisp,2024,All Races,28.78787878787879
+Crisp,2018,White,27.450980392156865
+Crisp,2019,White,16.9811320754717
+Crisp,2020,White,17.741935483870968
+Crisp,2021,White,22.413793103448278
+Crisp,2022,White,32
+Crisp,2023,White,17.391304347826086
+Crisp,2024,White,24
+Crisp,2018,Black or African-American,27.27272727272727
+Crisp,2019,Black or African-American,24.731182795698924
+Crisp,2020,Black or African-American,31.25
+Crisp,2021,Black or African-American,32.58426966292135
+Crisp,2022,Black or African-American,27.160493827160494
+Crisp,2023,Black or African-American,23.595505617977526
+Crisp,2024,Black or African-American,32.05128205128205
+Crisp,2018,Selected Races Total,27.32919254658385
+Crisp,2019,Selected Races Total,21.91780821917808
+Crisp,2020,Selected Races Total,25.949367088607595
+Crisp,2021,Selected Races Total,28.57142857142857
+Crisp,2022,Selected Races Total,29.00763358778626
+Crisp,2023,Selected Races Total,21.48148148148148
+Crisp,2024,Selected Races Total,28.90625
+Dade,2018,All Races,25
+Dade,2019,All Races,31.746031746031743
+Dade,2020,All Races,25.64102564102564
+Dade,2021,All Races,26.785714285714285
+Dade,2022,All Races,17.741935483870968
+Dade,2023,All Races,17.02127659574468
+Dade,2024,All Races,19.642857142857142
+Dade,2018,White,25.71428571428571
+Dade,2019,White,32.78688524590164
+Dade,2020,White,26.31578947368421
+Dade,2021,White,27.77777777777778
+Dade,2022,White,18.96551724137931
+Dade,2023,White,13.636363636363635
+Dade,2024,White,20
+Dade,2018,Black or African-American,0
+Dade,2019,Black or African-American,0
+Dade,2020,Black or African-American,0
+Dade,2021,Black or African-American,0
+Dade,2022,Black or African-American,0
+Dade,2023,Black or African-American,-5
+Dade,2024,Black or African-American,0
+Dade,2018,Selected Races Total,25.71428571428571
+Dade,2019,Selected Races Total,31.746031746031743
+Dade,2020,Selected Races Total,25.97402597402597
+Dade,2021,Selected Races Total,27.77777777777778
+Dade,2022,Selected Races Total,18.96551724137931
+Dade,2023,Selected Races Total,15.217391304347828
+Dade,2024,Selected Races Total,20
+Dawson,2018,All Races,24.489795918367346
+Dawson,2019,All Races,17.901234567901234
+Dawson,2020,All Races,27.10843373493976
+Dawson,2021,All Races,17.058823529411764
+Dawson,2022,All Races,27.37430167597765
+Dawson,2023,All Races,25.263157894736842
+Dawson,2024,All Races,25.2
+Dawson,2018,White,25
+Dawson,2019,White,16.7741935483871
+Dawson,2020,White,27.388535031847134
+Dawson,2021,White,17.073170731707318
+Dawson,2022,White,27.380952380952383
+Dawson,2023,White,26.55367231638418
+Dawson,2024,White,24.545454545454547
+Dawson,2018,Black or African-American,0
+Dawson,2019,Black or African-American,-5
+Dawson,2020,Black or African-American,-5
+Dawson,2021,Black or African-American,0
+Dawson,2022,Black or African-American,0
+Dawson,2023,Black or African-American,0
+Dawson,2024,Black or African-American,-5
+Dawson,2018,Selected Races Total,24.647887323943664
+Dawson,2019,Selected Races Total,17.307692307692307
+Dawson,2020,Selected Races Total,27.500000000000004
+Dawson,2021,Selected Races Total,16.766467065868262
+Dawson,2022,Selected Races Total,27.218934911242602
+Dawson,2023,Selected Races Total,26.111111111111114
+Dawson,2024,Selected Races Total,24.137931034482758
+Decatur,2018,All Races,30.962343096234306
+Decatur,2019,All Races,30.357142857142854
+Decatur,2020,All Races,27.966101694915253
+Decatur,2021,All Races,23.618090452261306
+Decatur,2022,All Races,26.027397260273972
+Decatur,2023,All Races,28.333333333333332
+Decatur,2024,All Races,27.927927927927925
+Decatur,2018,White,28.703703703703702
+Decatur,2019,White,28.440366972477065
+Decatur,2020,White,27.67857142857143
+Decatur,2021,White,20.833333333333336
+Decatur,2022,White,29.11392405063291
+Decatur,2023,White,27.631578947368425
+Decatur,2024,White,28.431372549019606
+Decatur,2018,Black or African-American,31.782945736434108
+Decatur,2019,Black or African-American,32.743362831858406
+Decatur,2020,Black or African-American,28.333333333333332
+Decatur,2021,Black or African-American,25.773195876288657
+Decatur,2022,Black or African-American,24.817518248175183
+Decatur,2023,Black or African-American,29.411764705882355
+Decatur,2024,Black or African-American,26.72413793103448
+Decatur,2018,Selected Races Total,30.37974683544304
+Decatur,2019,Selected Races Total,30.630630630630627
+Decatur,2020,Selected Races Total,28.01724137931034
+Decatur,2021,Selected Races Total,23.316062176165804
+Decatur,2022,Selected Races Total,26.38888888888889
+Decatur,2023,Selected Races Total,28.651685393258425
+Decatur,2024,Selected Races Total,27.522935779816514
+DeKalb,2018,All Races,24.06027768371148
+DeKalb,2019,All Races,25.38860103626943
+DeKalb,2020,All Races,21.435092203761183
+DeKalb,2021,All Races,22.98744460856721
+DeKalb,2022,All Races,23.042304230423042
+DeKalb,2023,All Races,22.95275590551181
+DeKalb,2024,All Races,22.495606326889277
+DeKalb,2018,White,22.11105552776388
+DeKalb,2019,White,23.58444116198917
+DeKalb,2020,White,21.217016693591813
+DeKalb,2021,White,23.090826931766834
+DeKalb,2022,White,23.365853658536587
+DeKalb,2023,White,22.7765726681128
+DeKalb,2024,White,22.300635144671844
+DeKalb,2018,Black or African-American,25.68778979907264
+DeKalb,2019,Black or African-American,27.28442728442728
+DeKalb,2020,Black or African-American,21.852970795568982
+DeKalb,2021,Black or African-American,23.531626506024097
+DeKalb,2022,Black or African-American,23.18339100346021
+DeKalb,2023,Black or African-American,23.878205128205128
+DeKalb,2024,Black or African-American,22.15677390122338
+DeKalb,2018,Selected Races Total,24.321742453190677
+DeKalb,2019,Selected Races Total,25.82214438606733
+DeKalb,2020,Selected Races Total,21.608767576509514
+DeKalb,2021,Selected Races Total,23.33127952351612
+DeKalb,2022,Selected Races Total,23.259109311740893
+DeKalb,2023,Selected Races Total,23.410138248847925
+DeKalb,2024,Selected Races Total,22.213024282560706
+Dodge,2018,All Races,22.22222222222222
+Dodge,2019,All Races,28.799999999999997
+Dodge,2020,All Races,30.833333333333336
+Dodge,2021,All Races,27.027027027027028
+Dodge,2022,All Races,36
+Dodge,2023,All Races,24.427480916030532
+Dodge,2024,All Races,38.31775700934579
+Dodge,2018,White,22
+Dodge,2019,White,23.376623376623375
+Dodge,2020,White,29.333333333333332
+Dodge,2021,White,26.38888888888889
+Dodge,2022,White,31.343283582089555
+Dodge,2023,White,31.16883116883117
+Dodge,2024,White,39.436619718309856
+Dodge,2018,Black or African-American,23.52941176470588
+Dodge,2019,Black or African-American,37.77777777777778
+Dodge,2020,Black or African-American,31.818181818181817
+Dodge,2021,Black or African-American,29.72972972972973
+Dodge,2022,Black or African-American,48.38709677419355
+Dodge,2023,Black or African-American,14.285714285714285
+Dodge,2024,Black or African-American,35.294117647058826
+Dodge,2018,Selected Races Total,22.516556291390728
+Dodge,2019,Selected Races Total,28.688524590163933
+Dodge,2020,Selected Races Total,30.252100840336134
+Dodge,2021,Selected Races Total,27.522935779816514
+Dodge,2022,Selected Races Total,36.734693877551024
+Dodge,2023,Selected Races Total,24.6031746031746
+Dodge,2024,Selected Races Total,38.095238095238095
+Dooly,2018,All Races,32.25806451612903
+Dooly,2019,All Races,25.71428571428571
+Dooly,2020,All Races,28.8135593220339
+Dooly,2021,All Races,23.728813559322035
+Dooly,2022,All Races,21.875
+Dooly,2023,All Races,20.634920634920633
+Dooly,2024,All Races,23.076923076923077
+Dooly,2018,White,28.000000000000004
+Dooly,2019,White,27.27272727272727
+Dooly,2020,White,26.08695652173913
+Dooly,2021,White,17.24137931034483
+Dooly,2022,White,27.500000000000004
+Dooly,2023,White,24.324324324324326
+Dooly,2024,White,29.629629629629626
+Dooly,2018,Black or African-American,35.13513513513514
+Dooly,2019,Black or African-American,24.324324324324326
+Dooly,2020,Black or African-American,30.555555555555557
+Dooly,2021,Black or African-American,32
+Dooly,2022,Black or African-American,-5
+Dooly,2023,Black or African-American,-5
+Dooly,2024,Black or African-American,-5
+Dooly,2018,Selected Races Total,32.25806451612903
+Dooly,2019,Selected Races Total,25.71428571428571
+Dooly,2020,Selected Races Total,28.8135593220339
+Dooly,2021,Selected Races Total,24.074074074074073
+Dooly,2022,Selected Races Total,23.333333333333332
+Dooly,2023,Selected Races Total,20.967741935483872
+Dooly,2024,Selected Races Total,23.52941176470588
+Dougherty,2018,All Races,25.65880721220527
+Dougherty,2019,All Races,26.859504132231404
+Dougherty,2020,All Races,26.431718061674008
+Dougherty,2021,All Races,25.948406676783005
+Dougherty,2022,All Races,25.908372827804104
+Dougherty,2023,All Races,29.793977812995248
+Dougherty,2024,All Races,25.080906148867317
+Dougherty,2018,White,21.476510067114095
+Dougherty,2019,White,24.6031746031746
+Dougherty,2020,White,28.999999999999996
+Dougherty,2021,White,27.559055118110237
+Dougherty,2022,White,25.24271844660194
+Dougherty,2023,White,34.65346534653465
+Dougherty,2024,White,25
+Dougherty,2018,Black or African-American,26.690391459074732
+Dougherty,2019,Black or African-American,27.504244482173174
+Dougherty,2020,Black or African-American,25.48330404217926
+Dougherty,2021,Black or African-American,25.763358778625957
+Dougherty,2022,Black or African-American,26.285714285714285
+Dougherty,2023,Black or African-American,28.820116054158607
+Dougherty,2024,Black or African-American,24.622030237580994
+Dougherty,2018,Selected Races Total,25.59774964838256
+Dougherty,2019,Selected Races Total,26.99300699300699
+Dougherty,2020,Selected Races Total,26.00896860986547
+Dougherty,2021,Selected Races Total,26.113671274961597
+Dougherty,2022,Selected Races Total,26.11464968152866
+Dougherty,2023,Selected Races Total,29.773462783171524
+Dougherty,2024,Selected Races Total,24.71169686985173
+Douglas,2018,All Races,24.898785425101213
+Douglas,2019,All Races,21.32132132132132
+Douglas,2020,All Races,20.470829068577277
+Douglas,2021,All Races,19.783464566929133
+Douglas,2022,All Races,19.921491658488712
+Douglas,2023,All Races,24.701195219123505
+Douglas,2024,All Races,23.355263157894736
+Douglas,2018,White,23.88059701492537
+Douglas,2019,White,21.06537530266344
+Douglas,2020,White,22.11302211302211
+Douglas,2021,White,22.371967654986523
+Douglas,2022,White,18.112244897959183
+Douglas,2023,White,24.324324324324326
+Douglas,2024,White,25.290697674418606
+Douglas,2018,Black or African-American,25.512104283054004
+Douglas,2019,Black or African-American,21.132075471698116
+Douglas,2020,Black or African-American,18.809980806142036
+Douglas,2021,Black or African-American,17.46031746031746
+Douglas,2022,Black or African-American,21.206581352833638
+Douglas,2023,Black or African-American,24.635332252836303
+Douglas,2024,Black or African-American,22.504892367906066
+Douglas,2018,Selected Races Total,24.8136315228967
+Douglas,2019,Selected Races Total,21.10286320254507
+Douglas,2020,Selected Races Total,20.25862068965517
+Douglas,2021,Selected Races Total,19.402985074626866
+Douglas,2022,Selected Races Total,19.914802981895633
+Douglas,2023,Selected Races Total,24.526315789473685
+Douglas,2024,Selected Races Total,23.625730994152047
+Early,2018,All Races,21.62162162162162
+Early,2019,All Races,21.794871794871796
+Early,2020,All Races,28.37837837837838
+Early,2021,All Races,37.096774193548384
+Early,2022,All Races,23.076923076923077
+Early,2023,All Races,25.64102564102564
+Early,2024,All Races,21.875
+Early,2018,White,-5
+Early,2019,White,17.24137931034483
+Early,2020,White,35.714285714285715
+Early,2021,White,37.5
+Early,2022,White,-5
+Early,2023,White,30.434782608695656
+Early,2024,White,25
+Early,2018,Black or African-American,23.52941176470588
+Early,2019,Black or African-American,25.53191489361702
+Early,2020,Black or African-American,25
+Early,2021,Black or African-American,37.83783783783784
+Early,2022,Black or African-American,23.91304347826087
+Early,2023,Black or African-American,23.636363636363637
+Early,2024,Black or African-American,18.6046511627907
+Early,2018,Selected Races Total,21.91780821917808
+Early,2019,Selected Races Total,22.36842105263158
+Early,2020,Selected Races Total,29.166666666666668
+Early,2021,Selected Races Total,37.704918032786885
+Early,2022,Selected Races Total,23.4375
+Early,2023,Selected Races Total,25.64102564102564
+Early,2024,Selected Races Total,20.634920634920633
+Echols,2018,All Races,-5
+Echols,2019,All Races,12.195121951219512
+Echols,2020,All Races,27.27272727272727
+Echols,2021,All Races,20
+Echols,2022,All Races,23.684210526315788
+Echols,2023,All Races,21.875
+Echols,2024,All Races,28.125
+Echols,2018,White,-5
+Echols,2019,White,-5
+Echols,2020,White,25.806451612903224
+Echols,2021,White,20
+Echols,2022,White,24.324324324324326
+Echols,2023,White,22.58064516129032
+Echols,2024,White,28.125
+Echols,2018,Black or African-American,0
+Echols,2019,Black or African-American,-5
+Echols,2020,Black or African-American,-5
+Echols,2021,Black or African-American,0
+Echols,2022,Black or African-American,0
+Echols,2023,Black or African-American,0
+Echols,2024,Black or African-American,0
+Echols,2018,Selected Races Total,-5
+Echols,2019,Selected Races Total,12.5
+Echols,2020,Selected Races Total,28.125
+Echols,2021,Selected Races Total,20
+Echols,2022,Selected Races Total,23.684210526315788
+Echols,2023,Selected Races Total,21.875
+Echols,2024,Selected Races Total,28.125
+Effingham,2018,All Races,23.2421875
+Effingham,2019,All Races,21.818181818181817
+Effingham,2020,All Races,22.957198443579767
+Effingham,2021,All Races,23.00380228136882
+Effingham,2022,All Races,26.653696498054476
+Effingham,2023,All Races,22.348484848484848
+Effingham,2024,All Races,22.433460076045627
+Effingham,2018,White,23.058252427184467
+Effingham,2019,White,23.273657289002557
+Effingham,2020,White,22.22222222222222
+Effingham,2021,White,23.076923076923077
+Effingham,2022,White,26.442307692307693
+Effingham,2023,White,22.330097087378643
+Effingham,2024,White,23.54368932038835
+Effingham,2018,Black or African-American,23.333333333333332
+Effingham,2019,Black or African-American,18.75
+Effingham,2020,Black or African-American,25.274725274725274
+Effingham,2021,Black or African-American,23.762376237623762
+Effingham,2022,Black or African-American,28.235294117647058
+Effingham,2023,Black or African-American,21.649484536082475
+Effingham,2024,Black or African-American,19.387755102040817
+Effingham,2018,Selected Races Total,23.107569721115535
+Effingham,2019,Selected Races Total,22.505307855626327
+Effingham,2020,Selected Races Total,22.782258064516128
+Effingham,2021,Selected Races Total,23.214285714285715
+Effingham,2022,Selected Races Total,26.746506986027946
+Effingham,2023,Selected Races Total,22.20039292730845
+Effingham,2024,Selected Races Total,22.745098039215687
+Elbert,2018,All Races,20.930232558139537
+Elbert,2019,All Races,19.25925925925926
+Elbert,2020,All Races,24.770642201834864
+Elbert,2021,All Races,24.031007751937985
+Elbert,2022,All Races,27.34375
+Elbert,2023,All Races,27.55102040816326
+Elbert,2024,All Races,27
+Elbert,2018,White,23.91304347826087
+Elbert,2019,White,16.867469879518072
+Elbert,2020,White,22.972972972972975
+Elbert,2021,White,19.101123595505616
+Elbert,2022,White,25.609756097560975
+Elbert,2023,White,27.941176470588236
+Elbert,2024,White,23.4375
+Elbert,2018,Black or African-American,14.705882352941178
+Elbert,2019,Black or African-American,22.448979591836736
+Elbert,2020,Black or African-American,29.03225806451613
+Elbert,2021,Black or African-American,35.13513513513514
+Elbert,2022,Black or African-American,30.23255813953488
+Elbert,2023,Black or African-American,27.586206896551722
+Elbert,2024,Black or African-American,33.33333333333333
+Elbert,2018,Selected Races Total,21.428571428571427
+Elbert,2019,Selected Races Total,18.939393939393938
+Elbert,2020,Selected Races Total,24.761904761904763
+Elbert,2021,Selected Races Total,23.809523809523807
+Elbert,2022,Selected Races Total,27.200000000000003
+Elbert,2023,Selected Races Total,27.835051546391753
+Elbert,2024,Selected Races Total,26.595744680851062
+Emanuel,2018,All Races,25.60386473429952
+Emanuel,2019,All Races,25.842696629213485
+Emanuel,2020,All Races,31.213872832369944
+Emanuel,2021,All Races,27.77777777777778
+Emanuel,2022,All Races,21.465968586387437
+Emanuel,2023,All Races,26.842105263157894
+Emanuel,2024,All Races,29.166666666666668
+Emanuel,2018,White,22.55639097744361
+Emanuel,2019,White,26.47058823529412
+Emanuel,2020,White,31.63265306122449
+Emanuel,2021,White,24.489795918367346
+Emanuel,2022,White,17.92452830188679
+Emanuel,2023,White,22.5
+Emanuel,2024,White,30.392156862745097
+Emanuel,2018,Black or African-American,32.35294117647059
+Emanuel,2019,Black or African-American,24.285714285714285
+Emanuel,2020,Black or African-American,28.78787878787879
+Emanuel,2021,Black or African-American,35.59322033898305
+Emanuel,2022,Black or African-American,24.358974358974358
+Emanuel,2023,Black or African-American,33.33333333333333
+Emanuel,2024,Black or African-American,28.57142857142857
+Emanuel,2018,Selected Races Total,25.870646766169152
+Emanuel,2019,Selected Races Total,25.581395348837212
+Emanuel,2020,Selected Races Total,30.48780487804878
+Emanuel,2021,Selected Races Total,28.662420382165603
+Emanuel,2022,Selected Races Total,20.652173913043477
+Emanuel,2023,Selected Races Total,26.344086021505376
+Emanuel,2024,Selected Races Total,29.6969696969697
+Evans,2018,All Races,28.915662650602407
+Evans,2019,All Races,24.719101123595504
+Evans,2020,All Races,32.55813953488372
+Evans,2021,All Races,25.609756097560975
+Evans,2022,All Races,31.506849315068493
+Evans,2023,All Races,31.818181818181817
+Evans,2024,All Races,27.956989247311824
+Evans,2018,White,19.607843137254903
+Evans,2019,White,25.862068965517242
+Evans,2020,White,31.372549019607842
+Evans,2021,White,24.137931034482758
+Evans,2022,White,31.25
+Evans,2023,White,32.142857142857146
+Evans,2024,White,32.55813953488372
+Evans,2018,Black or African-American,43.333333333333336
+Evans,2019,Black or African-American,24.137931034482758
+Evans,2020,Black or African-American,32.25806451612903
+Evans,2021,Black or African-American,25
+Evans,2022,Black or African-American,38.095238095238095
+Evans,2023,Black or African-American,33.33333333333333
+Evans,2024,Black or African-American,25
+Evans,2018,Selected Races Total,28.39506172839506
+Evans,2019,Selected Races Total,25.287356321839084
+Evans,2020,Selected Races Total,31.70731707317073
+Evans,2021,Selected Races Total,24.358974358974358
+Evans,2022,Selected Races Total,33.33333333333333
+Evans,2023,Selected Races Total,32.55813953488372
+Evans,2024,Selected Races Total,29.333333333333332
+Fannin,2018,All Races,21.929824561403507
+Fannin,2019,All Races,32.69230769230769
+Fannin,2020,All Races,22.641509433962266
+Fannin,2021,All Races,26.96629213483146
+Fannin,2022,All Races,28.28282828282828
+Fannin,2023,All Races,24.444444444444443
+Fannin,2024,All Races,19.166666666666668
+Fannin,2018,White,22.22222222222222
+Fannin,2019,White,32.038834951456316
+Fannin,2020,White,20.408163265306122
+Fannin,2021,White,27.058823529411764
+Fannin,2022,White,28.865979381443296
+Fannin,2023,White,25.287356321839084
+Fannin,2024,White,19.298245614035086
+Fannin,2018,Black or African-American,0
+Fannin,2019,Black or African-American,0
+Fannin,2020,Black or African-American,-5
+Fannin,2021,Black or African-American,0
+Fannin,2022,Black or African-American,0
+Fannin,2023,Black or African-American,0
+Fannin,2024,Black or African-American,0
+Fannin,2018,Selected Races Total,22.018348623853214
+Fannin,2019,Selected Races Total,32.038834951456316
+Fannin,2020,Selected Races Total,21.21212121212121
+Fannin,2021,Selected Races Total,26.744186046511626
+Fannin,2022,Selected Races Total,28.57142857142857
+Fannin,2023,Selected Races Total,24.719101123595504
+Fannin,2024,Selected Races Total,19.298245614035086
+Fayette,2018,All Races,23.66737739872068
+Fayette,2019,All Races,23.217922606924642
+Fayette,2020,All Races,23.588709677419356
+Fayette,2021,All Races,22.160148975791433
+Fayette,2022,All Races,21.10912343470483
+Fayette,2023,All Races,22.884615384615383
+Fayette,2024,All Races,22.40663900414938
+Fayette,2018,White,23.367697594501717
+Fayette,2019,White,25.524475524475527
+Fayette,2020,White,27.106227106227106
+Fayette,2021,White,21.935483870967744
+Fayette,2022,White,22.857142857142858
+Fayette,2023,White,26.132404181184672
+Fayette,2024,White,23.208191126279864
+Fayette,2018,Black or African-American,30.973451327433626
+Fayette,2019,Black or African-American,19.00826446280992
+Fayette,2020,Black or African-American,22.289156626506024
+Fayette,2021,Black or African-American,23.92638036809816
+Fayette,2022,Black or African-American,16.574585635359114
+Fayette,2023,Black or African-American,22.35294117647059
+Fayette,2024,Black or African-American,21.897810218978105
+Fayette,2018,Selected Races Total,25.495049504950494
+Fayette,2019,Selected Races Total,23.587223587223587
+Fayette,2020,Selected Races Total,25.28473804100228
+Fayette,2021,Selected Races Total,22.621564482029598
+Fayette,2022,Selected Races Total,20.56451612903226
+Fayette,2023,Selected Races Total,24.72647702407002
+Fayette,2024,Selected Races Total,22.790697674418606
+Floyd,2018,All Races,26.21776504297994
+Floyd,2019,All Races,23.77521613832853
+Floyd,2020,All Races,24.63126843657817
+Floyd,2021,All Races,26.77165354330709
+Floyd,2022,All Races,26.814814814814813
+Floyd,2023,All Races,27.131782945736433
+Floyd,2024,All Races,28.591749644381224
+Floyd,2018,White,23.992994746059544
+Floyd,2019,White,22.202486678507995
+Floyd,2020,White,24.144144144144146
+Floyd,2021,White,27.59295499021526
+Floyd,2022,White,26.335174953959484
+Floyd,2023,White,27.22117202268431
+Floyd,2024,White,29.411764705882355
+Floyd,2018,Black or African-American,37.61467889908257
+Floyd,2019,Black or African-American,28.71287128712871
+Floyd,2020,Black or African-American,27.55102040816326
+Floyd,2021,Black or African-American,22.68041237113402
+Floyd,2022,Black or African-American,28.57142857142857
+Floyd,2023,Black or African-American,25.263157894736842
+Floyd,2024,Black or African-American,27.927927927927925
+Floyd,2018,Selected Races Total,26.176470588235297
+Floyd,2019,Selected Races Total,23.19277108433735
+Floyd,2020,Selected Races Total,24.655436447166924
+Floyd,2021,Selected Races Total,26.80921052631579
+Floyd,2022,Selected Races Total,26.717557251908396
+Floyd,2023,Selected Races Total,26.923076923076923
+Floyd,2024,Selected Races Total,29.166666666666668
+Forsyth,2018,All Races,18.5546875
+Forsyth,2019,All Races,18.360433604336045
+Forsyth,2020,All Races,18.890449438202246
+Forsyth,2021,All Races,18.98054996646546
+Forsyth,2022,All Races,18.449711723254325
+Forsyth,2023,All Races,19.2
+Forsyth,2024,All Races,19.750367107195302
+Forsyth,2018,White,21.983914209115284
+Forsyth,2019,White,21.087786259541986
+Forsyth,2020,White,20.850202429149796
+Forsyth,2021,White,22.362052274927397
+Forsyth,2022,White,22.549952426260706
+Forsyth,2023,White,22.254901960784313
+Forsyth,2024,White,23.634336677814936
+Forsyth,2018,Black or African-American,16.25
+Forsyth,2019,Black or African-American,19.54022988505747
+Forsyth,2020,Black or African-American,25.31645569620253
+Forsyth,2021,Black or African-American,19.00826446280992
+Forsyth,2022,Black or African-American,13.402061855670103
+Forsyth,2023,Black or African-American,27.397260273972602
+Forsyth,2024,Black or African-American,25.37313432835821
+Forsyth,2018,Selected Races Total,21.601334445371144
+Forsyth,2019,Selected Races Total,20.969162995594715
+Forsyth,2020,Selected Races Total,21.180880974695405
+Forsyth,2021,Selected Races Total,22.0103986135182
+Forsyth,2022,Selected Races Total,21.777003484320556
+Forsyth,2023,Selected Races Total,22.598353156450138
+Forsyth,2024,Selected Races Total,23.7551867219917
+Franklin,2018,All Races,26.25
+Franklin,2019,All Races,23.837209302325583
+Franklin,2020,All Races,23.31288343558282
+Franklin,2021,All Races,34.5679012345679
+Franklin,2022,All Races,30.201342281879196
+Franklin,2023,All Races,30.057803468208093
+Franklin,2024,All Races,29.87012987012987
+Franklin,2018,White,25.954198473282442
+Franklin,2019,White,24.444444444444443
+Franklin,2020,White,25
+Franklin,2021,White,34.285714285714285
+Franklin,2022,White,30.4
+Franklin,2023,White,30.612244897959183
+Franklin,2024,White,30.88235294117647
+Franklin,2018,Black or African-American,32
+Franklin,2019,Black or African-American,20.689655172413794
+Franklin,2020,Black or African-American,-5
+Franklin,2021,Black or African-American,35
+Franklin,2022,Black or African-American,30
+Franklin,2023,Black or African-American,35
+Franklin,2024,Black or African-American,-5
+Franklin,2018,Selected Races Total,26.923076923076923
+Franklin,2019,Selected Races Total,23.78048780487805
+Franklin,2020,Selected Races Total,22.5
+Franklin,2021,Selected Races Total,34.375
+Franklin,2022,Selected Races Total,30.344827586206897
+Franklin,2023,Selected Races Total,31.137724550898206
+Franklin,2024,Selected Races Total,30.405405405405407
+Fulton,2018,All Races,23.597521200260925
+Fulton,2019,All Races,24.235633103889867
+Fulton,2020,All Races,22.694425326909844
+Fulton,2021,All Races,22.27953410981697
+Fulton,2022,All Races,24.727992087042534
+Fulton,2023,All Races,22.96831955922865
+Fulton,2024,All Races,24.503445480340496
+Fulton,2018,White,23.30220713073005
+Fulton,2019,White,24.556962025316455
+Fulton,2020,White,23.316582914572866
+Fulton,2021,White,23.57581069237511
+Fulton,2022,White,28.33800186741363
+Fulton,2023,White,26.84157416750757
+Fulton,2024,White,27.021943573667713
+Fulton,2018,Black or African-American,25.609756097560975
+Fulton,2019,Black or African-American,25.40933899332929
+Fulton,2020,Black or African-American,23.513011152416357
+Fulton,2021,Black or African-American,22.183210979891477
+Fulton,2022,Black or African-American,23.555821610296316
+Fulton,2023,Black or African-American,22.229083050324174
+Fulton,2024,Black or African-American,23.47826086956522
+Fulton,2018,Selected Races Total,24.630896651062297
+Fulton,2019,Selected Races Total,25.052928722653494
+Fulton,2020,Selected Races Total,23.438098888463013
+Fulton,2021,Selected Races Total,22.770083102493075
+Fulton,2022,Selected Races Total,25.424037935436804
+Fulton,2023,Selected Races Total,23.980080444359317
+Fulton,2024,Selected Races Total,24.848484848484848
+Gilmer,2018,All Races,28.037383177570092
+Gilmer,2019,All Races,21.105527638190953
+Gilmer,2020,All Races,26.737967914438503
+Gilmer,2021,All Races,30.409356725146196
+Gilmer,2022,All Races,25.380710659898476
+Gilmer,2023,All Races,23.28767123287671
+Gilmer,2024,All Races,26.732673267326735
+Gilmer,2018,White,28.30188679245283
+Gilmer,2019,White,20.918367346938776
+Gilmer,2020,White,26.373626373626376
+Gilmer,2021,White,30.76923076923077
+Gilmer,2022,White,25.13089005235602
+Gilmer,2023,White,23.004694835680752
+Gilmer,2024,White,26.39593908629442
+Gilmer,2018,Black or African-American,0
+Gilmer,2019,Black or African-American,0
+Gilmer,2020,Black or African-American,0
+Gilmer,2021,Black or African-American,0
+Gilmer,2022,Black or African-American,0
+Gilmer,2023,Black or African-American,-5
+Gilmer,2024,Black or African-American,-5
+Gilmer,2018,Selected Races Total,28.30188679245283
+Gilmer,2019,Selected Races Total,20.812182741116754
+Gilmer,2020,Selected Races Total,26.229508196721312
+Gilmer,2021,Selected Races Total,30.76923076923077
+Gilmer,2022,Selected Races Total,25
+Gilmer,2023,Selected Races Total,23.25581395348837
+Gilmer,2024,Selected Races Total,26.5
+Glascock,2018,All Races,35
+Glascock,2019,All Races,50
+Glascock,2020,All Races,-5
+Glascock,2021,All Races,40
+Glascock,2022,All Races,-5
+Glascock,2023,All Races,20
+Glascock,2024,All Races,-5
+Glascock,2018,White,33.33333333333333
+Glascock,2019,White,50
+Glascock,2020,White,-5
+Glascock,2021,White,40
+Glascock,2022,White,-5
+Glascock,2023,White,20.833333333333336
+Glascock,2024,White,-5
+Glascock,2018,Black or African-American,-5
+Glascock,2019,Black or African-American,0
+Glascock,2020,Black or African-American,0
+Glascock,2021,Black or African-American,0
+Glascock,2022,Black or African-American,0
+Glascock,2023,Black or African-American,0
+Glascock,2024,Black or African-American,0
+Glascock,2018,Selected Races Total,35
+Glascock,2019,Selected Races Total,50
+Glascock,2020,Selected Races Total,-5
+Glascock,2021,Selected Races Total,40
+Glascock,2022,Selected Races Total,-5
+Glascock,2023,Selected Races Total,20
+Glascock,2024,Selected Races Total,-5
+Glynn,2018,All Races,29.327902240325866
+Glynn,2019,All Races,25.158562367864697
+Glynn,2020,All Races,24.54954954954955
+Glynn,2021,All Races,23.946784922394677
+Glynn,2022,All Races,26.679841897233203
+Glynn,2023,All Races,26.037735849056602
+Glynn,2024,All Races,24.9554367201426
+Glynn,2018,White,28.104575163398692
+Glynn,2019,White,23.34494773519164
+Glynn,2020,White,26.00732600732601
+Glynn,2021,White,22.968197879858657
+Glynn,2022,White,23.684210526315788
+Glynn,2023,White,22.916666666666664
+Glynn,2024,White,26.153846153846157
+Glynn,2018,Black or African-American,31.28834355828221
+Glynn,2019,Black or African-American,29.268292682926827
+Glynn,2020,Black or African-American,21.568627450980394
+Glynn,2021,Black or African-American,26.845637583892618
+Glynn,2022,Black or African-American,29.383886255924168
+Glynn,2023,Black or African-American,32.515337423312886
+Glynn,2024,Black or African-American,25.37878787878788
+Glynn,2018,Selected Races Total,29.21108742004264
+Glynn,2019,Selected Races Total,25.49889135254989
+Glynn,2020,Selected Races Total,24.413145539906104
+Glynn,2021,Selected Races Total,24.305555555555554
+Glynn,2022,Selected Races Total,26.20545073375262
+Glynn,2023,Selected Races Total,26.052104208416832
+Glynn,2024,Selected Races Total,25.763358778625957
+Gordon,2018,All Races,25.6857855361596
+Gordon,2019,All Races,23.869346733668344
+Gordon,2020,All Races,23.56020942408377
+Gordon,2021,All Races,18.133333333333333
+Gordon,2022,All Races,24.937027707808564
+Gordon,2023,All Races,22.135416666666664
+Gordon,2024,All Races,24.67866323907455
+Gordon,2018,White,25.675675675675674
+Gordon,2019,White,23.369565217391305
+Gordon,2020,White,22.99168975069252
+Gordon,2021,White,18.07909604519774
+Gordon,2022,White,24.30939226519337
+Gordon,2023,White,22.598870056497177
+Gordon,2024,White,24.641833810888254
+Gordon,2018,Black or African-American,-5
+Gordon,2019,Black or African-American,29.411764705882355
+Gordon,2020,Black or African-American,40
+Gordon,2021,Black or African-American,-5
+Gordon,2022,Black or African-American,38.88888888888889
+Gordon,2023,Black or African-American,-5
+Gordon,2024,Black or African-American,23.809523809523807
+Gordon,2018,Selected Races Total,25.647668393782386
+Gordon,2019,Selected Races Total,23.636363636363637
+Gordon,2020,Selected Races Total,23.670212765957448
+Gordon,2021,Selected Races Total,18.40659340659341
+Gordon,2022,Selected Races Total,25
+Gordon,2023,Selected Races Total,22.31404958677686
+Gordon,2024,Selected Races Total,24.594594594594597
+Grady,2018,All Races,26.39593908629442
+Grady,2019,All Races,22.702702702702705
+Grady,2020,All Races,25.274725274725274
+Grady,2021,All Races,22.22222222222222
+Grady,2022,All Races,24.861878453038674
+Grady,2023,All Races,27.42857142857143
+Grady,2024,All Races,27.84090909090909
+Grady,2018,White,21.875
+Grady,2019,White,21.98581560283688
+Grady,2020,White,26
+Grady,2021,White,25
+Grady,2022,White,25.984251968503933
+Grady,2023,White,32.467532467532465
+Grady,2024,White,32.926829268292686
+Grady,2018,Black or African-American,30.303030303030305
+Grady,2019,Black or African-American,26.190476190476193
+Grady,2020,Black or African-American,25.64102564102564
+Grady,2021,Black or African-American,17.857142857142858
+Grady,2022,Black or African-American,24
+Grady,2023,Black or African-American,23.076923076923077
+Grady,2024,Black or African-American,17.77777777777778
+Grady,2018,Selected Races Total,26.153846153846157
+Grady,2019,Selected Races Total,22.950819672131146
+Grady,2020,Selected Races Total,25.842696629213485
+Grady,2021,Selected Races Total,22.916666666666664
+Grady,2022,Selected Races Total,25.423728813559322
+Grady,2023,Selected Races Total,27.380952380952383
+Grady,2024,Selected Races Total,27.559055118110237
+Greene,2018,All Races,21.49532710280374
+Greene,2019,All Races,20.87912087912088
+Greene,2020,All Races,31.25
+Greene,2021,All Races,31.08108108108108
+Greene,2022,All Races,33.33333333333333
+Greene,2023,All Races,21.25
+Greene,2024,All Races,25.263157894736842
+Greene,2018,White,19.298245614035086
+Greene,2019,White,22.448979591836736
+Greene,2020,White,23.684210526315788
+Greene,2021,White,27.77777777777778
+Greene,2022,White,37.2093023255814
+Greene,2023,White,16.9811320754717
+Greene,2024,White,29.508196721311474
+Greene,2018,Black or African-American,25.53191489361702
+Greene,2019,Black or African-American,18.421052631578945
+Greene,2020,Black or African-American,39.130434782608695
+Greene,2021,Black or African-American,41.17647058823529
+Greene,2022,Black or African-American,22.22222222222222
+Greene,2023,Black or African-American,29.166666666666668
+Greene,2024,Black or African-American,16.129032258064516
+Greene,2018,Selected Races Total,22.115384615384613
+Greene,2019,Selected Races Total,20.689655172413794
+Greene,2020,Selected Races Total,29.508196721311474
+Greene,2021,Selected Races Total,30.985915492957744
+Greene,2022,Selected Races Total,31.428571428571427
+Greene,2023,Selected Races Total,20.77922077922078
+Greene,2024,Selected Races Total,25
+Gwinnett,2018,All Races,21.080919677515677
+Gwinnett,2019,All Races,21.192930780559646
+Gwinnett,2020,All Races,21.35609598969238
+Gwinnett,2021,All Races,20.247687257535063
+Gwinnett,2022,All Races,19.768953068592058
+Gwinnett,2023,All Races,21.445856019358743
+Gwinnett,2024,All Races,20.952023988005998
+Gwinnett,2018,White,20.910075839653306
+Gwinnett,2019,White,21.286735504368544
+Gwinnett,2020,White,21.575723830734965
+Gwinnett,2021,White,20.90085141444658
+Gwinnett,2022,White,19.289603318641433
+Gwinnett,2023,White,21.757656458055926
+Gwinnett,2024,White,21.49908592321755
+Gwinnett,2018,Black or African-American,21.325051759834366
+Gwinnett,2019,Black or African-American,21.787194841087057
+Gwinnett,2020,Black or African-American,21.256038647342994
+Gwinnett,2021,Black or African-American,19.390953873712494
+Gwinnett,2022,Black or African-American,21.398795738767948
+Gwinnett,2023,Black or African-American,21.87028657616893
+Gwinnett,2024,Black or African-American,20.77596996245307
+Gwinnett,2018,Selected Races Total,21.052631578947366
+Gwinnett,2019,Selected Races Total,21.4694014794889
+Gwinnett,2020,Selected Races Total,21.46654445462878
+Gwinnett,2021,Selected Races Total,20.326864147088866
+Gwinnett,2022,Selected Races Total,20.04654255319149
+Gwinnett,2023,Selected Races Total,21.7966573816156
+Gwinnett,2024,Selected Races Total,21.23240249249942
+Habersham,2018,All Races,25.75250836120401
+Habersham,2019,All Races,27.77777777777778
+Habersham,2020,All Races,23.04832713754647
+Habersham,2021,All Races,24.68354430379747
+Habersham,2022,All Races,28.676470588235293
+Habersham,2023,All Races,21.782178217821784
+Habersham,2024,All Races,27.728613569321535
+Habersham,2018,White,26.24113475177305
+Habersham,2019,White,28.627450980392155
+Habersham,2020,White,22.957198443579767
+Habersham,2021,White,24.914675767918087
+Habersham,2022,White,29.00763358778626
+Habersham,2023,White,22.064056939501782
+Habersham,2024,White,28.482972136222912
+Habersham,2018,Black or African-American,-5
+Habersham,2019,Black or African-American,-5
+Habersham,2020,Black or African-American,-5
+Habersham,2021,Black or African-American,-5
+Habersham,2022,Black or African-American,-5
+Habersham,2023,Black or African-American,-5
+Habersham,2024,Black or African-American,0
+Habersham,2018,Selected Races Total,26.223776223776223
+Habersham,2019,Selected Races Total,28.40909090909091
+Habersham,2020,Selected Races Total,23.0188679245283
+Habersham,2021,Selected Races Total,25
+Habersham,2022,Selected Races Total,28.83895131086142
+Habersham,2023,Selected Races Total,22.06896551724138
+Habersham,2024,Selected Races Total,27.878787878787882
+Hall,2018,All Races,22.295081967213115
+Hall,2019,All Races,24.934725848563968
+Hall,2020,All Races,23.6734693877551
+Hall,2021,All Races,24.409448818897637
+Hall,2022,All Races,24.371859296482413
+Hall,2023,All Races,22.899408284023668
+Hall,2024,All Races,25.669642857142854
+Hall,2018,White,21.839080459770116
+Hall,2019,White,24.818577648766325
+Hall,2020,White,23.859386686611817
+Hall,2021,White,23.925925925925924
+Hall,2022,White,23.937677053824363
+Hall,2023,White,23.430114787305875
+Hall,2024,White,25.568181818181817
+Hall,2018,Black or African-American,27.472527472527474
+Hall,2019,Black or African-American,21
+Hall,2020,Black or African-American,19.387755102040817
+Hall,2021,Black or African-American,26.126126126126124
+Hall,2022,Black or African-American,24.409448818897637
+Hall,2023,Black or African-American,16.89189189189189
+Hall,2024,Black or African-American,29.71014492753623
+Hall,2018,Selected Races Total,22.184760620364127
+Hall,2019,Selected Races Total,24.56021650879567
+Hall,2020,Selected Races Total,23.554006968641115
+Hall,2021,Selected Races Total,24.093086926762492
+Hall,2022,Selected Races Total,23.976608187134502
+Hall,2023,Selected Races Total,22.83609576427256
+Hall,2024,Selected Races Total,25.900116144018583
+Hancock,2018,All Races,-5
+Hancock,2019,All Races,23.076923076923077
+Hancock,2020,All Races,-5
+Hancock,2021,All Races,19.35483870967742
+Hancock,2022,All Races,28.125
+Hancock,2023,All Races,29.166666666666668
+Hancock,2024,All Races,32.25806451612903
+Hancock,2018,White,0
+Hancock,2019,White,-5
+Hancock,2020,White,0
+Hancock,2021,White,0
+Hancock,2022,White,-5
+Hancock,2023,White,-5
+Hancock,2024,White,-5
+Hancock,2018,Black or African-American,-5
+Hancock,2019,Black or African-American,22.22222222222222
+Hancock,2020,Black or African-American,-5
+Hancock,2021,Black or African-American,20.689655172413794
+Hancock,2022,Black or African-American,26.923076923076923
+Hancock,2023,Black or African-American,27.77777777777778
+Hancock,2024,Black or African-American,32
+Hancock,2018,Selected Races Total,-5
+Hancock,2019,Selected Races Total,23.076923076923077
+Hancock,2020,Selected Races Total,-5
+Hancock,2021,Selected Races Total,19.35483870967742
+Hancock,2022,Selected Races Total,30
+Hancock,2023,Selected Races Total,30.434782608695656
+Hancock,2024,Selected Races Total,32.25806451612903
+Haralson,2018,All Races,21.71717171717172
+Haralson,2019,All Races,26.859504132231404
+Haralson,2020,All Races,21.904761904761905
+Haralson,2021,All Races,24.545454545454547
+Haralson,2022,All Races,27.142857142857142
+Haralson,2023,All Races,22.869955156950674
+Haralson,2024,All Races,25
+Haralson,2018,White,22.598870056497177
+Haralson,2019,White,27.192982456140353
+Haralson,2020,White,20.918367346938776
+Haralson,2021,White,25.24271844660194
+Haralson,2022,White,27.411167512690355
+Haralson,2023,White,20.48780487804878
+Haralson,2024,White,24.09090909090909
+Haralson,2018,Black or African-American,-5
+Haralson,2019,Black or African-American,-5
+Haralson,2020,Black or African-American,-5
+Haralson,2021,Black or African-American,-5
+Haralson,2022,Black or African-American,-5
+Haralson,2023,Black or African-American,46.15384615384615
+Haralson,2024,Black or African-American,-5
+Haralson,2018,Selected Races Total,21.578947368421055
+Haralson,2019,Selected Races Total,26.80851063829787
+Haralson,2020,Selected Races Total,21.844660194174757
+Haralson,2021,Selected Races Total,25.116279069767444
+Haralson,2022,Selected Races Total,27.31707317073171
+Haralson,2023,Selected Races Total,22.018348623853214
+Haralson,2024,Selected Races Total,23.949579831932773
+Harris,2018,All Races,23.214285714285715
+Harris,2019,All Races,24.840764331210192
+Harris,2020,All Races,26.96629213483146
+Harris,2021,All Races,24.63054187192118
+Harris,2022,All Races,24.083769633507853
+Harris,2023,All Races,18.75
+Harris,2024,All Races,18.848167539267017
+Harris,2018,White,24.21875
+Harris,2019,White,25.954198473282442
+Harris,2020,White,26.08695652173913
+Harris,2021,White,24.71264367816092
+Harris,2022,White,25.165562913907287
+Harris,2023,White,21.428571428571427
+Harris,2024,White,18.243243243243242
+Harris,2018,Black or African-American,18.181818181818183
+Harris,2019,Black or African-American,20.833333333333336
+Harris,2020,Black or African-American,32.142857142857146
+Harris,2021,Black or African-American,27.27272727272727
+Harris,2022,Black or African-American,20
+Harris,2023,Black or African-American,-5
+Harris,2024,Black or African-American,19.35483870967742
+Harris,2018,Selected Races Total,22.981366459627328
+Harris,2019,Selected Races Total,25.161290322580644
+Harris,2020,Selected Races Total,27.10843373493976
+Harris,2021,Selected Races Total,25
+Harris,2022,Selected Races Total,24.30939226519337
+Harris,2023,Selected Races Total,19.45945945945946
+Harris,2024,Selected Races Total,18.435754189944134
+Hart,2018,All Races,24
+Hart,2019,All Races,31.70731707317073
+Hart,2020,All Races,30.87248322147651
+Hart,2021,All Races,24.571428571428573
+Hart,2022,All Races,24.550898203592812
+Hart,2023,All Races,29.585798816568047
+Hart,2024,All Races,25.36231884057971
+Hart,2018,White,20.930232558139537
+Hart,2019,White,33.59375
+Hart,2020,White,27.82608695652174
+Hart,2021,White,26.08695652173913
+Hart,2022,White,25.6
+Hart,2023,White,29.32330827067669
+Hart,2024,White,26.72413793103448
+Hart,2018,Black or African-American,32.5
+Hart,2019,Black or African-American,29.03225806451613
+Hart,2020,Black or African-American,46.15384615384615
+Hart,2021,Black or African-American,21.875
+Hart,2022,Black or African-American,20
+Hart,2023,Black or African-American,28.125
+Hart,2024,Black or African-American,-5
+Hart,2018,Selected Races Total,23.668639053254438
+Hart,2019,Selected Races Total,32.70440251572327
+Hart,2020,Selected Races Total,31.20567375886525
+Hart,2021,Selected Races Total,25.294117647058822
+Hart,2022,Selected Races Total,24.242424242424242
+Hart,2023,Selected Races Total,29.09090909090909
+Hart,2024,Selected Races Total,24.817518248175183
+Heard,2018,All Races,19.54022988505747
+Heard,2019,All Races,35.8974358974359
+Heard,2020,All Races,27.160493827160494
+Heard,2021,All Races,26.96629213483146
+Heard,2022,All Races,40
+Heard,2023,All Races,21.25
+Heard,2024,All Races,22.36842105263158
+Heard,2018,White,18.9873417721519
+Heard,2019,White,34.66666666666667
+Heard,2020,White,27.397260273972602
+Heard,2021,White,27.160493827160494
+Heard,2022,White,40.27777777777778
+Heard,2023,White,21.12676056338028
+Heard,2024,White,20.8955223880597
+Heard,2018,Black or African-American,-5
+Heard,2019,Black or African-American,-5
+Heard,2020,Black or African-American,-5
+Heard,2021,Black or African-American,-5
+Heard,2022,Black or African-American,-5
+Heard,2023,Black or African-American,-5
+Heard,2024,Black or African-American,-5
+Heard,2018,Selected Races Total,18.823529411764707
+Heard,2019,Selected Races Total,36.36363636363637
+Heard,2020,Selected Races Total,26.582278481012654
+Heard,2021,Selected Races Total,27.906976744186046
+Heard,2022,Selected Races Total,40.54054054054054
+Heard,2023,Selected Races Total,22.36842105263158
+Heard,2024,Selected Races Total,21.91780821917808
+Henry,2018,All Races,23.32339791356185
+Henry,2019,All Races,21.954576737783896
+Henry,2020,All Races,22.657342657342657
+Henry,2021,All Races,20.92105263157895
+Henry,2022,All Races,21.54903185509057
+Henry,2023,All Races,23.741496598639454
+Henry,2024,All Races,23.281907433380084
+Henry,2018,White,24.810606060606062
+Henry,2019,White,22.113502935420744
+Henry,2020,White,20.588235294117645
+Henry,2021,White,22.37354085603113
+Henry,2022,White,26.294820717131472
+Henry,2023,White,25.219298245614034
+Henry,2024,White,25.526932084309134
+Henry,2018,Black or African-American,21.958041958041957
+Henry,2019,Black or African-American,21.62849872773537
+Henry,2020,Black or African-American,24.54434993924666
+Henry,2021,Black or African-American,19.908466819221967
+Henry,2022,Black or African-American,19.716885743174924
+Henry,2023,Black or African-American,22.882288228822883
+Henry,2024,Black or African-American,22.309417040358746
+Henry,2018,Selected Races Total,23.169750603378922
+Henry,2019,Selected Races Total,21.81958365458751
+Henry,2020,Selected Races Total,23.030757689422355
+Henry,2021,Selected Races Total,20.821325648414984
+Henry,2022,Selected Races Total,21.93158953722334
+Henry,2023,Selected Races Total,23.66300366300366
+Henry,2024,Selected Races Total,23.351023502653526
+Houston,2018,All Races,23.781009409751924
+Houston,2019,All Races,23.346938775510203
+Houston,2020,All Races,23.67066895368782
+Houston,2021,All Races,22.561492790500424
+Houston,2022,All Races,24.151539068666143
+Houston,2023,All Races,23.272438443208895
+Houston,2024,All Races,24.525185796862097
+Houston,2018,White,24.30340557275542
+Houston,2019,White,22.446043165467625
+Houston,2020,White,26.14173228346457
+Houston,2021,White,23.600605143721634
+Houston,2022,White,24.17910447761194
+Houston,2023,White,22.011661807580175
+Houston,2024,White,26.18384401114206
+Houston,2018,Black or African-American,23.503325942350333
+Houston,2019,Black or African-American,23.47826086956522
+Houston,2020,Black or African-American,20.568927789934357
+Houston,2021,Black or African-American,21.08843537414966
+Houston,2022,Black or African-American,24.24812030075188
+Houston,2023,Black or African-American,23.847695390781563
+Houston,2024,Black or African-American,20.85308056872038
+Houston,2018,Selected Races Total,23.97447584320875
+Houston,2019,Selected Races Total,22.857142857142858
+Houston,2020,Selected Races Total,23.809523809523807
+Houston,2021,Selected Races Total,22.595281306715066
+Houston,2022,Selected Races Total,24.20965058236273
+Houston,2023,Selected Races Total,22.78481012658228
+Houston,2024,Selected Races Total,24.210526315789473
+Irwin,2018,All Races,26.08695652173913
+Irwin,2019,All Races,27.941176470588236
+Irwin,2020,All Races,26.923076923076923
+Irwin,2021,All Races,29.230769230769234
+Irwin,2022,All Races,27.083333333333332
+Irwin,2023,All Races,35.18518518518518
+Irwin,2024,All Races,34.61538461538461
+Irwin,2018,White,26.666666666666668
+Irwin,2019,White,22.916666666666664
+Irwin,2020,White,25.53191489361702
+Irwin,2021,White,27.906976744186046
+Irwin,2022,White,21.21212121212121
+Irwin,2023,White,31.70731707317073
+Irwin,2024,White,37.142857142857146
+Irwin,2018,Black or African-American,25
+Irwin,2019,Black or African-American,37.5
+Irwin,2020,Black or African-American,28.57142857142857
+Irwin,2021,Black or African-American,31.57894736842105
+Irwin,2022,Black or African-American,45.45454545454545
+Irwin,2023,Black or African-American,-5
+Irwin,2024,Black or African-American,29.411764705882355
+Irwin,2018,Selected Races Total,26.08695652173913
+Irwin,2019,Selected Races Total,26.5625
+Irwin,2020,Selected Races Total,26.666666666666668
+Irwin,2021,Selected Races Total,29.03225806451613
+Irwin,2022,Selected Races Total,27.27272727272727
+Irwin,2023,Selected Races Total,35.41666666666667
+Irwin,2024,Selected Races Total,34.61538461538461
+Jackson,2018,All Races,22.813688212927758
+Jackson,2019,All Races,23.962264150943398
+Jackson,2020,All Races,23.31288343558282
+Jackson,2021,All Races,23.19327731092437
+Jackson,2022,All Races,23.693379790940767
+Jackson,2023,All Races,25.161290322580644
+Jackson,2024,All Races,30.128205128205128
+Jackson,2018,White,22.736842105263158
+Jackson,2019,White,24.688796680497926
+Jackson,2020,White,23.937360178970916
+Jackson,2021,White,23.2421875
+Jackson,2022,White,22.334004024144868
+Jackson,2023,White,25.37878787878788
+Jackson,2024,White,30.467289719626166
+Jackson,2018,Black or African-American,28.57142857142857
+Jackson,2019,Black or African-American,-5
+Jackson,2020,Black or African-American,-5
+Jackson,2021,Black or African-American,23.91304347826087
+Jackson,2022,Black or African-American,32
+Jackson,2023,Black or African-American,20
+Jackson,2024,Black or African-American,31.03448275862069
+Jackson,2018,Selected Races Total,23.137254901960784
+Jackson,2019,Selected Races Total,23.818897637795274
+Jackson,2020,Selected Races Total,23.404255319148938
+Jackson,2021,Selected Races Total,23.297491039426525
+Jackson,2022,Selected Races Total,23.217550274223033
+Jackson,2023,Selected Races Total,24.829931972789115
+Jackson,2024,Selected Races Total,30.522765598650924
+Jasper,2018,All Races,22.22222222222222
+Jasper,2019,All Races,22.58064516129032
+Jasper,2020,All Races,18.666666666666668
+Jasper,2021,All Races,32.631578947368425
+Jasper,2022,All Races,21.84873949579832
+Jasper,2023,All Races,29.72972972972973
+Jasper,2024,All Races,24.731182795698924
+Jasper,2018,White,24.444444444444443
+Jasper,2019,White,21.518987341772153
+Jasper,2020,White,19.35483870967742
+Jasper,2021,White,38.15789473684211
+Jasper,2022,White,24.03846153846154
+Jasper,2023,White,29.166666666666668
+Jasper,2024,White,26.923076923076923
+Jasper,2018,Black or African-American,0
+Jasper,2019,Black or African-American,-5
+Jasper,2020,Black or African-American,-5
+Jasper,2021,Black or African-American,-5
+Jasper,2022,Black or African-American,-5
+Jasper,2023,Black or African-American,33.33333333333333
+Jasper,2024,Black or African-American,-5
+Jasper,2018,Selected Races Total,22.22222222222222
+Jasper,2019,Selected Races Total,23.076923076923077
+Jasper,2020,Selected Races Total,18.91891891891892
+Jasper,2021,Selected Races Total,33.33333333333333
+Jasper,2022,Selected Races Total,21.84873949579832
+Jasper,2023,Selected Races Total,29.72972972972973
+Jasper,2024,Selected Races Total,24.175824175824175
+Jeff Davis,2018,All Races,36.03603603603604
+Jeff Davis,2019,All Races,19.548872180451127
+Jeff Davis,2020,All Races,21.49532710280374
+Jeff Davis,2021,All Races,19.35483870967742
+Jeff Davis,2022,All Races,25.24271844660194
+Jeff Davis,2023,All Races,27.659574468085108
+Jeff Davis,2024,All Races,24.752475247524753
+Jeff Davis,2018,White,36.55913978494624
+Jeff Davis,2019,White,20
+Jeff Davis,2020,White,20.454545454545457
+Jeff Davis,2021,White,18.666666666666668
+Jeff Davis,2022,White,25
+Jeff Davis,2023,White,30.76923076923077
+Jeff Davis,2024,White,22.61904761904762
+Jeff Davis,2018,Black or African-American,-5
+Jeff Davis,2019,Black or African-American,-5
+Jeff Davis,2020,Black or African-American,-5
+Jeff Davis,2021,Black or African-American,-5
+Jeff Davis,2022,Black or African-American,-5
+Jeff Davis,2023,Black or African-American,-5
+Jeff Davis,2024,Black or African-American,-5
+Jeff Davis,2018,Selected Races Total,34.862385321100916
+Jeff Davis,2019,Selected Races Total,19.230769230769234
+Jeff Davis,2020,Selected Races Total,20
+Jeff Davis,2021,Selected Races Total,20
+Jeff Davis,2022,Selected Races Total,25.742574257425744
+Jeff Davis,2023,Selected Races Total,28.888888888888886
+Jeff Davis,2024,Selected Races Total,23.404255319148938
+Jefferson,2018,All Races,27.966101694915253
+Jefferson,2019,All Races,21.62162162162162
+Jefferson,2020,All Races,24
+Jefferson,2021,All Races,26.373626373626376
+Jefferson,2022,All Races,28.037383177570092
+Jefferson,2023,All Races,23
+Jefferson,2024,All Races,37.03703703703704
+Jefferson,2018,White,39.473684210526315
+Jefferson,2019,White,16.071428571428573
+Jefferson,2020,White,20
+Jefferson,2021,White,23.52941176470588
+Jefferson,2022,White,34
+Jefferson,2023,White,19.607843137254903
+Jefferson,2024,White,43.24324324324324
+Jefferson,2018,Black or African-American,21.052631578947366
+Jefferson,2019,Black or African-American,25.925925925925924
+Jefferson,2020,Black or African-American,25.925925925925924
+Jefferson,2021,Black or African-American,21.73913043478261
+Jefferson,2022,Black or African-American,24.074074074074073
+Jefferson,2023,Black or African-American,25
+Jefferson,2024,Black or African-American,30.76923076923077
+Jefferson,2018,Selected Races Total,27.192982456140353
+Jefferson,2019,Selected Races Total,20.909090909090907
+Jefferson,2020,Selected Races Total,23.232323232323232
+Jefferson,2021,Selected Races Total,22.5
+Jefferson,2022,Selected Races Total,28.846153846153843
+Jefferson,2023,Selected Races Total,22.22222222222222
+Jefferson,2024,Selected Races Total,36.84210526315789
+Jenkins,2018,All Races,24.561403508771928
+Jenkins,2019,All Races,27.27272727272727
+Jenkins,2020,All Races,28.07017543859649
+Jenkins,2021,All Races,33.87096774193548
+Jenkins,2022,All Races,23.728813559322035
+Jenkins,2023,All Races,32.142857142857146
+Jenkins,2024,All Races,25
+Jenkins,2018,White,-5
+Jenkins,2019,White,25
+Jenkins,2020,White,19.35483870967742
+Jenkins,2021,White,25.71428571428571
+Jenkins,2022,White,25
+Jenkins,2023,White,33.33333333333333
+Jenkins,2024,White,17.647058823529413
+Jenkins,2018,Black or African-American,29.03225806451613
+Jenkins,2019,Black or African-American,35
+Jenkins,2020,Black or African-American,40
+Jenkins,2021,Black or African-American,40
+Jenkins,2022,Black or African-American,23.809523809523807
+Jenkins,2023,Black or African-American,34.61538461538461
+Jenkins,2024,Black or African-American,42.10526315789473
+Jenkins,2018,Selected Races Total,23.214285714285715
+Jenkins,2019,Selected Races Total,29.166666666666668
+Jenkins,2020,Selected Races Total,28.57142857142857
+Jenkins,2021,Selected Races Total,31.666666666666664
+Jenkins,2022,Selected Races Total,24.561403508771928
+Jenkins,2023,Selected Races Total,33.9622641509434
+Jenkins,2024,Selected Races Total,26.41509433962264
+Johnson,2018,All Races,25
+Johnson,2019,All Races,22.78481012658228
+Johnson,2020,All Races,27.86885245901639
+Johnson,2021,All Races,18.181818181818183
+Johnson,2022,All Races,35.59322033898305
+Johnson,2023,All Races,31.03448275862069
+Johnson,2024,All Races,31.25
+Johnson,2018,White,27.27272727272727
+Johnson,2019,White,21.428571428571427
+Johnson,2020,White,26.47058823529412
+Johnson,2021,White,16.216216216216218
+Johnson,2022,White,38.46153846153847
+Johnson,2023,White,29.72972972972973
+Johnson,2024,White,33.33333333333333
+Johnson,2018,Black or African-American,22.22222222222222
+Johnson,2019,Black or African-American,27.27272727272727
+Johnson,2020,Black or African-American,26.923076923076923
+Johnson,2021,Black or African-American,-5
+Johnson,2022,Black or African-American,31.57894736842105
+Johnson,2023,Black or African-American,33.33333333333333
+Johnson,2024,Black or African-American,-5
+Johnson,2018,Selected Races Total,25
+Johnson,2019,Selected Races Total,24
+Johnson,2020,Selected Races Total,26.666666666666668
+Johnson,2021,Selected Races Total,18.181818181818183
+Johnson,2022,Selected Races Total,36.206896551724135
+Johnson,2023,Selected Races Total,31.03448275862069
+Johnson,2024,Selected Races Total,29.78723404255319
+Jones,2018,All Races,22.35294117647059
+Jones,2019,All Races,25
+Jones,2020,All Races,26.993865030674847
+Jones,2021,All Races,23.636363636363637
+Jones,2022,All Races,26.543209876543212
+Jones,2023,All Races,29.714285714285715
+Jones,2024,All Races,21.637426900584796
+Jones,2018,White,20.930232558139537
+Jones,2019,White,20
+Jones,2020,White,22.22222222222222
+Jones,2021,White,21.705426356589147
+Jones,2022,White,26.01626016260163
+Jones,2023,White,28.205128205128204
+Jones,2024,White,20
+Jones,2018,Black or African-American,28.947368421052634
+Jones,2019,Black or African-American,38.23529411764706
+Jones,2020,Black or African-American,39.39393939393939
+Jones,2021,Black or African-American,28.125
+Jones,2022,Black or African-American,25.71428571428571
+Jones,2023,Black or African-American,27.659574468085108
+Jones,2024,Black or African-American,25.64102564102564
+Jones,2018,Selected Races Total,22.75449101796407
+Jones,2019,Selected Races Total,23.78048780487805
+Jones,2020,Selected Races Total,25.78616352201258
+Jones,2021,Selected Races Total,22.981366459627328
+Jones,2022,Selected Races Total,25.949367088607595
+Jones,2023,Selected Races Total,28.04878048780488
+Jones,2024,Selected Races Total,21.301775147928996
+Lamar,2018,All Races,23.4375
+Lamar,2019,All Races,20.634920634920633
+Lamar,2020,All Races,20
+Lamar,2021,All Races,21.951219512195124
+Lamar,2022,All Races,26.27118644067797
+Lamar,2023,All Races,20.945945945945947
+Lamar,2024,All Races,24.031007751937985
+Lamar,2018,White,19.54022988505747
+Lamar,2019,White,19.767441860465116
+Lamar,2020,White,20.238095238095237
+Lamar,2021,White,20.224719101123593
+Lamar,2022,White,28.235294117647058
+Lamar,2023,White,20.37037037037037
+Lamar,2024,White,22.330097087378643
+Lamar,2018,Black or African-American,32.432432432432435
+Lamar,2019,Black or African-American,20.51282051282051
+Lamar,2020,Black or African-American,20
+Lamar,2021,Black or African-American,23.333333333333332
+Lamar,2022,Black or African-American,19.35483870967742
+Lamar,2023,Black or African-American,22.5
+Lamar,2024,Black or African-American,28.000000000000004
+Lamar,2018,Selected Races Total,23.387096774193548
+Lamar,2019,Selected Races Total,20
+Lamar,2020,Selected Races Total,20.168067226890756
+Lamar,2021,Selected Races Total,21.008403361344538
+Lamar,2022,Selected Races Total,25.862068965517242
+Lamar,2023,Selected Races Total,20.945945945945947
+Lamar,2024,Selected Races Total,23.4375
+Lanier,2018,All Races,21.73913043478261
+Lanier,2019,All Races,20.792079207920793
+Lanier,2020,All Races,26.666666666666668
+Lanier,2021,All Races,30.58823529411765
+Lanier,2022,All Races,30.985915492957744
+Lanier,2023,All Races,26.436781609195403
+Lanier,2024,All Races,24.050632911392405
+Lanier,2018,White,22
+Lanier,2019,White,18.75
+Lanier,2020,White,30.88235294117647
+Lanier,2021,White,32.78688524590164
+Lanier,2022,White,33.33333333333333
+Lanier,2023,White,21.311475409836063
+Lanier,2024,White,25.862068965517242
+Lanier,2018,Black or African-American,-5
+Lanier,2019,Black or African-American,25.806451612903224
+Lanier,2020,Black or African-American,-5
+Lanier,2021,Black or African-American,25
+Lanier,2022,Black or African-American,-5
+Lanier,2023,Black or African-American,35
+Lanier,2024,Black or African-American,-5
+Lanier,2018,Selected Races Total,22.058823529411764
+Lanier,2019,Selected Races Total,21.052631578947366
+Lanier,2020,Selected Races Total,26.136363636363637
+Lanier,2021,Selected Races Total,30.864197530864196
+Lanier,2022,Selected Races Total,30.303030303030305
+Lanier,2023,Selected Races Total,24.691358024691358
+Lanier,2024,Selected Races Total,23.684210526315788
+Laurens,2018,All Races,27.296587926509186
+Laurens,2019,All Races,22.337662337662337
+Laurens,2020,All Races,25.149700598802394
+Laurens,2021,All Races,24.793388429752067
+Laurens,2022,All Races,25.787965616045845
+Laurens,2023,All Races,23.298429319371728
+Laurens,2024,All Races,26.01626016260163
+Laurens,2018,White,25.945945945945947
+Laurens,2019,White,20.54054054054054
+Laurens,2020,White,24.203821656050955
+Laurens,2021,White,22.105263157894736
+Laurens,2022,White,26.775956284153008
+Laurens,2023,White,22.439024390243905
+Laurens,2024,White,24.479166666666664
+Laurens,2018,Black or African-American,29.891304347826086
+Laurens,2019,Black or African-American,23.333333333333332
+Laurens,2020,Black or African-American,26.21951219512195
+Laurens,2021,Black or African-American,27.044025157232703
+Laurens,2022,Black or African-American,25.170068027210885
+Laurens,2023,Black or African-American,25
+Laurens,2024,Black or African-American,26.25
+Laurens,2018,Selected Races Total,27.91327913279133
+Laurens,2019,Selected Races Total,21.91780821917808
+Laurens,2020,Selected Races Total,25.233644859813083
+Laurens,2021,Selected Races Total,24.355300859598856
+Laurens,2022,Selected Races Total,26.060606060606062
+Laurens,2023,Selected Races Total,23.59249329758713
+Laurens,2024,Selected Races Total,25.28409090909091
+Lee,2018,All Races,16.444444444444446
+Lee,2019,All Races,17.391304347826086
+Lee,2020,All Races,22.613065326633166
+Lee,2021,All Races,19.473684210526315
+Lee,2022,All Races,22.660098522167488
+Lee,2023,All Races,27.835051546391753
+Lee,2024,All Races,20.833333333333336
+Lee,2018,White,16.56804733727811
+Lee,2019,White,16.233766233766232
+Lee,2020,White,21.374045801526716
+Lee,2021,White,20
+Lee,2022,White,24.427480916030532
+Lee,2023,White,25.833333333333336
+Lee,2024,White,21.311475409836063
+Lee,2018,Black or African-American,17.647058823529413
+Lee,2019,Black or African-American,20.27027027027027
+Lee,2020,Black or African-American,23.4375
+Lee,2021,Black or African-American,17.391304347826086
+Lee,2022,Black or African-American,18.64406779661017
+Lee,2023,Black or African-American,30.508474576271187
+Lee,2024,Black or African-American,21.311475409836063
+Lee,2018,Selected Races Total,16.818181818181817
+Lee,2019,Selected Races Total,17.543859649122805
+Lee,2020,Selected Races Total,22.05128205128205
+Lee,2021,Selected Races Total,19.35483870967742
+Lee,2022,Selected Races Total,22.63157894736842
+Lee,2023,Selected Races Total,27.37430167597765
+Lee,2024,Selected Races Total,21.311475409836063
+Liberty,2018,All Races,27.681159420289852
+Liberty,2019,All Races,24.9669749009247
+Liberty,2020,All Races,27.64786795048143
+Liberty,2021,All Races,28.317373461012313
+Liberty,2022,All Races,27.11864406779661
+Liberty,2023,All Races,30.90659340659341
+Liberty,2024,All Races,29.805013927576603
+Liberty,2018,White,24.705882352941178
+Liberty,2019,White,26.878612716763005
+Liberty,2020,White,26.36103151862464
+Liberty,2021,White,29.55801104972376
+Liberty,2022,White,29.09090909090909
+Liberty,2023,White,32.95128939828081
+Liberty,2024,White,34.5565749235474
+Liberty,2018,Black or African-American,29.72027972027972
+Liberty,2019,Black or African-American,23.303834808259587
+Liberty,2020,Black or African-American,26.911314984709477
+Liberty,2021,Black or African-American,27.062706270627064
+Liberty,2022,Black or African-American,23.595505617977526
+Liberty,2023,Black or African-American,28.662420382165603
+Liberty,2024,Black or African-American,25.806451612903224
+Liberty,2018,Selected Races Total,26.996805111821086
+Liberty,2019,Selected Races Total,25.10948905109489
+Liberty,2020,Selected Races Total,26.627218934911244
+Liberty,2021,Selected Races Total,28.421052631578945
+Liberty,2022,Selected Races Total,26.450742240215924
+Liberty,2023,Selected Races Total,30.920060331825038
+Liberty,2024,Selected Races Total,30.298273155416013
+Lincoln,2018,All Races,27.450980392156865
+Lincoln,2019,All Races,18.51851851851852
+Lincoln,2020,All Races,37.5
+Lincoln,2021,All Races,24.489795918367346
+Lincoln,2022,All Races,21.153846153846153
+Lincoln,2023,All Races,28.26086956521739
+Lincoln,2024,All Races,21.428571428571427
+Lincoln,2018,White,20.51282051282051
+Lincoln,2019,White,19.444444444444446
+Lincoln,2020,White,38.095238095238095
+Lincoln,2021,White,31.25
+Lincoln,2022,White,24.137931034482758
+Lincoln,2023,White,24.242424242424242
+Lincoln,2024,White,18.181818181818183
+Lincoln,2018,Black or African-American,54.54545454545454
+Lincoln,2019,Black or African-American,-5
+Lincoln,2020,Black or African-American,-5
+Lincoln,2021,Black or African-American,-5
+Lincoln,2022,Black or African-American,-5
+Lincoln,2023,Black or African-American,38.46153846153847
+Lincoln,2024,Black or African-American,-5
+Lincoln,2018,Selected Races Total,28.000000000000004
+Lincoln,2019,Selected Races Total,18.51851851851852
+Lincoln,2020,Selected Races Total,35.483870967741936
+Lincoln,2021,Selected Races Total,25.53191489361702
+Lincoln,2022,Selected Races Total,21.153846153846153
+Lincoln,2023,Selected Races Total,28.26086956521739
+Lincoln,2024,Selected Races Total,21.428571428571427
+Long,2018,All Races,25.82417582417583
+Long,2019,All Races,22.727272727272727
+Long,2020,All Races,24.85207100591716
+Long,2021,All Races,28.651685393258425
+Long,2022,All Races,27.127659574468083
+Long,2023,All Races,23.88059701492537
+Long,2024,All Races,20.093457943925234
+Long,2018,White,26.717557251908396
+Long,2019,White,26.41509433962264
+Long,2020,White,23.636363636363637
+Long,2021,White,26.82926829268293
+Long,2022,White,24.778761061946902
+Long,2023,White,26.356589147286826
+Long,2024,White,20.30075187969925
+Long,2018,Black or African-American,20
+Long,2019,Black or African-American,19.672131147540984
+Long,2020,Black or African-American,27.659574468085108
+Long,2021,Black or African-American,30.23255813953488
+Long,2022,Black or African-American,30.508474576271187
+Long,2023,Black or African-American,16.39344262295082
+Long,2024,Black or African-American,17.91044776119403
+Long,2018,Selected Races Total,25
+Long,2019,Selected Races Total,23.952095808383234
+Long,2020,Selected Races Total,24.840764331210192
+Long,2021,Selected Races Total,27.710843373493976
+Long,2022,Selected Races Total,26.744186046511626
+Long,2023,Selected Races Total,23.157894736842106
+Long,2024,Selected Races Total,19.5
+Lowndes,2018,All Races,24.352331606217618
+Lowndes,2019,All Races,25.8252427184466
+Lowndes,2020,All Races,25.799338478500548
+Lowndes,2021,All Races,27.634194831013914
+Lowndes,2022,All Races,27.094668117519046
+Lowndes,2023,All Races,30.26166097838453
+Lowndes,2024,All Races,27.37556561085973
+Lowndes,2018,White,17.248908296943235
+Lowndes,2019,White,22.22222222222222
+Lowndes,2020,White,23.755656108597282
+Lowndes,2021,White,27.607361963190186
+Lowndes,2022,White,24.273858921161825
+Lowndes,2023,White,27.35632183908046
+Lowndes,2024,White,26.280623608017816
+Lowndes,2018,Black or African-American,30.128205128205128
+Lowndes,2019,Black or African-American,28.932038834951456
+Lowndes,2020,Black or African-American,28.27586206896552
+Lowndes,2021,Black or African-American,27.850877192982455
+Lowndes,2022,Black or African-American,30.76923076923077
+Lowndes,2023,Black or African-American,33.086419753086425
+Lowndes,2024,Black or African-American,28.78787878787879
+Lowndes,2018,Selected Races Total,23.758099352051836
+Lowndes,2019,Selected Races Total,25.674325674325676
+Lowndes,2020,Selected Races Total,25.997719498289623
+Lowndes,2021,Selected Races Total,27.724867724867725
+Lowndes,2022,Selected Races Total,27.178899082568808
+Lowndes,2023,Selected Races Total,30.119047619047617
+Lowndes,2024,Selected Races Total,27.455621301775146
+Lumpkin,2018,All Races,35.11904761904761
+Lumpkin,2019,All Races,21.686746987951807
+Lumpkin,2020,All Races,30.967741935483872
+Lumpkin,2021,All Races,25.443786982248522
+Lumpkin,2022,All Races,21.465968586387437
+Lumpkin,2023,All Races,22.459893048128343
+Lumpkin,2024,All Races,28.061224489795915
+Lumpkin,2018,White,34.146341463414636
+Lumpkin,2019,White,20.98765432098765
+Lumpkin,2020,White,30.666666666666664
+Lumpkin,2021,White,25.624999999999996
+Lumpkin,2022,White,20.967741935483872
+Lumpkin,2023,White,23.076923076923077
+Lumpkin,2024,White,28.191489361702125
+Lumpkin,2018,Black or African-American,0
+Lumpkin,2019,Black or African-American,-5
+Lumpkin,2020,Black or African-American,-5
+Lumpkin,2021,Black or African-American,-5
+Lumpkin,2022,Black or African-American,-5
+Lumpkin,2023,Black or African-American,0
+Lumpkin,2024,Black or African-American,0
+Lumpkin,2018,Selected Races Total,34.146341463414636
+Lumpkin,2019,Selected Races Total,21.472392638036812
+Lumpkin,2020,Selected Races Total,30.92105263157895
+Lumpkin,2021,Selected Races Total,26.380368098159508
+Lumpkin,2022,Selected Races Total,21.27659574468085
+Lumpkin,2023,Selected Races Total,22.82608695652174
+Lumpkin,2024,Selected Races Total,27.748691099476442
+McDuffie,2018,All Races,21.301775147928996
+McDuffie,2019,All Races,23.636363636363637
+McDuffie,2020,All Races,34.899328859060404
+McDuffie,2021,All Races,25.308641975308642
+McDuffie,2022,All Races,24.074074074074073
+McDuffie,2023,All Races,29.770992366412212
+McDuffie,2024,All Races,21.323529411764707
+McDuffie,2018,White,20.98765432098765
+McDuffie,2019,White,31.343283582089555
+McDuffie,2020,White,36.84210526315789
+McDuffie,2021,White,28.08988764044944
+McDuffie,2022,White,18.75
+McDuffie,2023,White,30.555555555555557
+McDuffie,2024,White,23.170731707317074
+McDuffie,2018,Black or African-American,22.093023255813954
+McDuffie,2019,Black or African-American,18.556701030927837
+McDuffie,2020,Black or African-American,31.88405797101449
+McDuffie,2021,Black or African-American,21.12676056338028
+McDuffie,2022,Black or African-American,29.48717948717949
+McDuffie,2023,Black or African-American,32.6530612244898
+McDuffie,2024,Black or African-American,19.230769230769234
+McDuffie,2018,Selected Races Total,21.55688622754491
+McDuffie,2019,Selected Races Total,23.78048780487805
+McDuffie,2020,Selected Races Total,34.48275862068966
+McDuffie,2021,Selected Races Total,25
+McDuffie,2022,Selected Races Total,24.050632911392405
+McDuffie,2023,Selected Races Total,31.40495867768595
+McDuffie,2024,Selected Races Total,21.641791044776117
+McIntosh,2018,All Races,27.659574468085108
+McIntosh,2019,All Races,29.82456140350877
+McIntosh,2020,All Races,27.77777777777778
+McIntosh,2021,All Races,16.666666666666664
+McIntosh,2022,All Races,28.57142857142857
+McIntosh,2023,All Races,24.615384615384617
+McIntosh,2024,All Races,33.33333333333333
+McIntosh,2018,White,21.73913043478261
+McIntosh,2019,White,27.27272727272727
+McIntosh,2020,White,28.57142857142857
+McIntosh,2021,White,22.727272727272727
+McIntosh,2022,White,27.586206896551722
+McIntosh,2023,White,24.390243902439025
+McIntosh,2024,White,31.914893617021278
+McIntosh,2018,Black or African-American,35
+McIntosh,2019,Black or African-American,-5
+McIntosh,2020,Black or African-American,-5
+McIntosh,2021,Black or African-American,-5
+McIntosh,2022,Black or African-American,35.294117647058826
+McIntosh,2023,Black or African-American,22.727272727272727
+McIntosh,2024,Black or African-American,35
+McIntosh,2018,Selected Races Total,27.906976744186046
+McIntosh,2019,Selected Races Total,28.57142857142857
+McIntosh,2020,Selected Races Total,26.41509433962264
+McIntosh,2021,Selected Races Total,16.666666666666664
+McIntosh,2022,Selected Races Total,30.434782608695656
+McIntosh,2023,Selected Races Total,23.809523809523807
+McIntosh,2024,Selected Races Total,32.83582089552239
+Macon,2018,All Races,19.402985074626866
+Macon,2019,All Races,23.333333333333332
+Macon,2020,All Races,29.166666666666668
+Macon,2021,All Races,25.97402597402597
+Macon,2022,All Races,28.915662650602407
+Macon,2023,All Races,32.89473684210527
+Macon,2024,All Races,26.08695652173913
+Macon,2018,White,18.51851851851852
+Macon,2019,White,24.390243902439025
+Macon,2020,White,29.411764705882355
+Macon,2021,White,15.151515151515152
+Macon,2022,White,29.72972972972973
+Macon,2023,White,33.33333333333333
+Macon,2024,White,22.58064516129032
+Macon,2018,Black or African-American,20
+Macon,2019,Black or African-American,23.404255319148938
+Macon,2020,Black or African-American,28.947368421052634
+Macon,2021,Black or African-American,30.952380952380953
+Macon,2022,Black or African-American,26.190476190476193
+Macon,2023,Black or African-American,27.27272727272727
+Macon,2024,Black or African-American,29.72972972972973
+Macon,2018,Selected Races Total,19.402985074626866
+Macon,2019,Selected Races Total,23.863636363636363
+Macon,2020,Selected Races Total,29.166666666666668
+Macon,2021,Selected Races Total,24
+Macon,2022,Selected Races Total,27.848101265822784
+Macon,2023,Selected Races Total,30.555555555555557
+Macon,2024,Selected Races Total,26.47058823529412
+Madison,2018,All Races,24.725274725274726
+Madison,2019,All Races,25.116279069767444
+Madison,2020,All Races,20.408163265306122
+Madison,2021,All Races,29.333333333333332
+Madison,2022,All Races,31.25
+Madison,2023,All Races,23
+Madison,2024,All Races,21.07843137254902
+Madison,2018,White,26.282051282051285
+Madison,2019,White,24.742268041237114
+Madison,2020,White,20.903954802259886
+Madison,2021,White,28.342245989304814
+Madison,2022,White,30.158730158730158
+Madison,2023,White,22.857142857142858
+Madison,2024,White,20.57142857142857
+Madison,2018,Black or African-American,-5
+Madison,2019,Black or African-American,-5
+Madison,2020,Black or African-American,-5
+Madison,2021,Black or African-American,20.833333333333336
+Madison,2022,Black or African-American,-5
+Madison,2023,Black or African-American,29.411764705882355
+Madison,2024,Black or African-American,23.809523809523807
+Madison,2018,Selected Races Total,25.882352941176475
+Madison,2019,Selected Races Total,24.509803921568626
+Madison,2020,Selected Races Total,20.32085561497326
+Madison,2021,Selected Races Total,27.488151658767773
+Madison,2022,Selected Races Total,30.65326633165829
+Madison,2023,Selected Races Total,23.4375
+Madison,2024,Selected Races Total,20.918367346938776
+Marion,2018,All Races,20.634920634920633
+Marion,2019,All Races,33.33333333333333
+Marion,2020,All Races,28.000000000000004
+Marion,2021,All Races,18.181818181818183
+Marion,2022,All Races,17.02127659574468
+Marion,2023,All Races,24.561403508771928
+Marion,2024,All Races,26.190476190476193
+Marion,2018,White,21.052631578947366
+Marion,2019,White,30.76923076923077
+Marion,2020,White,31.428571428571427
+Marion,2021,White,-5
+Marion,2022,White,19.444444444444446
+Marion,2023,White,28.125
+Marion,2024,White,26.47058823529412
+Marion,2018,Black or African-American,21.73913043478261
+Marion,2019,Black or African-American,41.17647058823529
+Marion,2020,Black or African-American,-5
+Marion,2021,Black or African-American,-5
+Marion,2022,Black or African-American,-5
+Marion,2023,Black or African-American,21.73913043478261
+Marion,2024,Black or African-American,-5
+Marion,2018,Selected Races Total,21.311475409836063
+Marion,2019,Selected Races Total,34.883720930232556
+Marion,2020,Selected Races Total,29.166666666666668
+Marion,2021,Selected Races Total,18.181818181818183
+Marion,2022,Selected Races Total,17.02127659574468
+Marion,2023,Selected Races Total,25.454545454545453
+Marion,2024,Selected Races Total,26.190476190476193
+Meriwether,2018,All Races,23.448275862068964
+Meriwether,2019,All Races,34.32835820895522
+Meriwether,2020,All Races,24.817518248175183
+Meriwether,2021,All Races,25.675675675675674
+Meriwether,2022,All Races,32.3943661971831
+Meriwether,2023,All Races,30.82706766917293
+Meriwether,2024,All Races,26.153846153846157
+Meriwether,2018,White,26.190476190476193
+Meriwether,2019,White,32.83582089552239
+Meriwether,2020,White,25.555555555555554
+Meriwether,2021,White,32.53012048192771
+Meriwether,2022,White,31.944444444444443
+Meriwether,2023,White,35.36585365853659
+Meriwether,2024,White,25.842696629213485
+Meriwether,2018,Black or African-American,18.333333333333332
+Meriwether,2019,Black or African-American,35.9375
+Meriwether,2020,Black or African-American,18.6046511627907
+Meriwether,2021,Black or African-American,16.129032258064516
+Meriwether,2022,Black or African-American,33.87096774193548
+Meriwether,2023,Black or African-American,26.190476190476193
+Meriwether,2024,Black or African-American,27.500000000000004
+Meriwether,2018,Selected Races Total,22.916666666666664
+Meriwether,2019,Selected Races Total,34.35114503816794
+Meriwether,2020,Selected Races Total,23.308270676691727
+Meriwether,2021,Selected Races Total,25.517241379310345
+Meriwether,2022,Selected Races Total,32.83582089552239
+Meriwether,2023,Selected Races Total,32.25806451612903
+Meriwether,2024,Selected Races Total,26.356589147286826
+Miller,2018,All Races,-5
+Miller,2019,All Races,34.285714285714285
+Miller,2020,All Races,19.444444444444446
+Miller,2021,All Races,20
+Miller,2022,All Races,32.25806451612903
+Miller,2023,All Races,28.205128205128204
+Miller,2024,All Races,32.55813953488372
+Miller,2018,White,-5
+Miller,2019,White,23.809523809523807
+Miller,2020,White,-5
+Miller,2021,White,19.230769230769234
+Miller,2022,White,33.33333333333333
+Miller,2023,White,33.33333333333333
+Miller,2024,White,28.57142857142857
+Miller,2018,Black or African-American,-5
+Miller,2019,Black or African-American,50
+Miller,2020,Black or African-American,-5
+Miller,2021,Black or African-American,-5
+Miller,2022,Black or African-American,-5
+Miller,2023,Black or African-American,-5
+Miller,2024,Black or African-American,42.857142857142854
+Miller,2018,Selected Races Total,-5
+Miller,2019,Selected Races Total,34.285714285714285
+Miller,2020,Selected Races Total,19.444444444444446
+Miller,2021,Selected Races Total,20
+Miller,2022,Selected Races Total,32.25806451612903
+Miller,2023,Selected Races Total,28.205128205128204
+Miller,2024,Selected Races Total,33.33333333333333
+Mitchell,2018,All Races,30.935251798561154
+Mitchell,2019,All Races,27.64227642276423
+Mitchell,2020,All Races,20.754716981132077
+Mitchell,2021,All Races,18.30985915492958
+Mitchell,2022,All Races,20.97902097902098
+Mitchell,2023,All Races,29.411764705882355
+Mitchell,2024,All Races,30.53435114503817
+Mitchell,2018,White,32.758620689655174
+Mitchell,2019,White,18.867924528301888
+Mitchell,2020,White,21.21212121212121
+Mitchell,2021,White,10.294117647058822
+Mitchell,2022,White,18.64406779661017
+Mitchell,2023,White,27.86885245901639
+Mitchell,2024,White,27.27272727272727
+Mitchell,2018,Black or African-American,30.37974683544304
+Mitchell,2019,Black or African-American,32.83582089552239
+Mitchell,2020,Black or African-American,20.87912087912088
+Mitchell,2021,Black or African-American,26.027397260273972
+Mitchell,2022,Black or African-American,22.89156626506024
+Mitchell,2023,Black or African-American,31.147540983606557
+Mitchell,2024,Black or African-American,30.909090909090907
+Mitchell,2018,Selected Races Total,31.386861313868614
+Mitchell,2019,Selected Races Total,26.666666666666668
+Mitchell,2020,Selected Races Total,21.019108280254777
+Mitchell,2021,Selected Races Total,18.439716312056735
+Mitchell,2022,Selected Races Total,21.12676056338028
+Mitchell,2023,Selected Races Total,29.508196721311474
+Mitchell,2024,Selected Races Total,28.92561983471074
+Monroe,2018,All Races,23.92638036809816
+Monroe,2019,All Races,24.503311258278146
+Monroe,2020,All Races,30.952380952380953
+Monroe,2021,All Races,19.35483870967742
+Monroe,2022,All Races,22.54335260115607
+Monroe,2023,All Races,20.73170731707317
+Monroe,2024,All Races,21.34831460674157
+Monroe,2018,White,25.984251968503933
+Monroe,2019,White,24.576271186440678
+Monroe,2020,White,29.133858267716533
+Monroe,2021,White,19.2
+Monroe,2022,White,22.794117647058822
+Monroe,2023,White,22.388059701492537
+Monroe,2024,White,22.377622377622377
+Monroe,2018,Black or African-American,17.142857142857142
+Monroe,2019,Black or African-American,25
+Monroe,2020,Black or African-American,37.83783783783784
+Monroe,2021,Black or African-American,17.857142857142858
+Monroe,2022,Black or African-American,18.181818181818183
+Monroe,2023,Black or African-American,-5
+Monroe,2024,Black or African-American,-5
+Monroe,2018,Selected Races Total,24.074074074074073
+Monroe,2019,Selected Races Total,24.666666666666668
+Monroe,2020,Selected Races Total,31.097560975609756
+Monroe,2021,Selected Races Total,18.954248366013072
+Monroe,2022,Selected Races Total,21.893491124260358
+Monroe,2023,Selected Races Total,21.11801242236025
+Monroe,2024,Selected Races Total,20.46783625730994
+Montgomery,2018,All Races,22.950819672131146
+Montgomery,2019,All Races,33.92857142857143
+Montgomery,2020,All Races,19.230769230769234
+Montgomery,2021,All Races,24.615384615384617
+Montgomery,2022,All Races,29.78723404255319
+Montgomery,2023,All Races,23.943661971830984
+Montgomery,2024,All Races,23.076923076923077
+Montgomery,2018,White,26.666666666666668
+Montgomery,2019,White,31.818181818181817
+Montgomery,2020,White,15
+Montgomery,2021,White,23.404255319148938
+Montgomery,2022,White,30.555555555555557
+Montgomery,2023,White,24
+Montgomery,2024,White,27.27272727272727
+Montgomery,2018,Black or African-American,-5
+Montgomery,2019,Black or African-American,-5
+Montgomery,2020,Black or African-American,-5
+Montgomery,2021,Black or African-American,-5
+Montgomery,2022,Black or African-American,-5
+Montgomery,2023,Black or African-American,25
+Montgomery,2024,Black or African-American,-5
+Montgomery,2018,Selected Races Total,21.666666666666668
+Montgomery,2019,Selected Races Total,33.9622641509434
+Montgomery,2020,Selected Races Total,19.230769230769234
+Montgomery,2021,Selected Races Total,23.4375
+Montgomery,2022,Selected Races Total,30.434782608695656
+Montgomery,2023,Selected Races Total,24.285714285714285
+Montgomery,2024,Selected Races Total,24.193548387096776
+Morgan,2018,All Races,24.409448818897637
+Morgan,2019,All Races,21.705426356589147
+Morgan,2020,All Races,19.491525423728813
+Morgan,2021,All Races,17.94871794871795
+Morgan,2022,All Races,20.175438596491226
+Morgan,2023,All Races,16.101694915254235
+Morgan,2024,All Races,24.545454545454547
+Morgan,2018,White,25.274725274725274
+Morgan,2019,White,22
+Morgan,2020,White,22.35294117647059
+Morgan,2021,White,15.11627906976744
+Morgan,2022,White,21.839080459770116
+Morgan,2023,White,13.186813186813188
+Morgan,2024,White,24.096385542168676
+Morgan,2018,Black or African-American,18.181818181818183
+Morgan,2019,Black or African-American,21.428571428571427
+Morgan,2020,Black or African-American,-5
+Morgan,2021,Black or African-American,28.57142857142857
+Morgan,2022,Black or African-American,-5
+Morgan,2023,Black or African-American,20.833333333333336
+Morgan,2024,Black or African-American,29.166666666666668
+Morgan,2018,Selected Races Total,23.387096774193548
+Morgan,2019,Selected Races Total,21.875
+Morgan,2020,Selected Races Total,19.65811965811966
+Morgan,2021,Selected Races Total,18.421052631578945
+Morgan,2022,Selected Races Total,20.72072072072072
+Morgan,2023,Selected Races Total,14.782608695652174
+Morgan,2024,Selected Races Total,25.233644859813083
+Murray,2018,All Races,22.58064516129032
+Murray,2019,All Races,31.528662420382165
+Murray,2020,All Races,22.60536398467433
+Murray,2021,All Races,19.243986254295535
+Murray,2022,All Races,23.595505617977526
+Murray,2023,All Races,27.68166089965398
+Murray,2024,All Races,24.149659863945576
+Murray,2018,White,22.36842105263158
+Murray,2019,White,30.81967213114754
+Murray,2020,White,21.6
+Murray,2021,White,19.58041958041958
+Murray,2022,White,24.324324324324326
+Murray,2023,White,28.01418439716312
+Murray,2024,White,24.73498233215548
+Murray,2018,Black or African-American,-5
+Murray,2019,Black or African-American,-5
+Murray,2020,Black or African-American,0
+Murray,2021,Black or African-American,0
+Murray,2022,Black or African-American,0
+Murray,2023,Black or African-American,0
+Murray,2024,Black or African-American,0
+Murray,2018,Selected Races Total,22.475570032573287
+Murray,2019,Selected Races Total,30.944625407166125
+Murray,2020,Selected Races Total,21.51394422310757
+Murray,2021,Selected Races Total,19.58041958041958
+Murray,2022,Selected Races Total,24.137931034482758
+Murray,2023,Selected Races Total,27.719298245614034
+Murray,2024,Selected Races Total,24.73498233215548
+Muscogee,2018,All Races,26.01880877742947
+Muscogee,2019,All Races,27.152777777777775
+Muscogee,2020,All Races,27.200971463266544
+Muscogee,2021,All Races,27.341294783155245
+Muscogee,2022,All Races,25.795971410006498
+Muscogee,2023,All Races,25.85428755641522
+Muscogee,2024,All Races,26.634549208534068
+Muscogee,2018,White,24.777448071216618
+Muscogee,2019,White,25.32588454376164
+Muscogee,2020,White,25.51505546751189
+Muscogee,2021,White,29.809358752166375
+Muscogee,2022,White,25.10948905109489
+Muscogee,2023,White,24.30044182621502
+Muscogee,2024,White,27.044025157232703
+Muscogee,2018,Black or African-American,27.294981640146883
+Muscogee,2019,Black or African-American,29.22318125770654
+Muscogee,2020,Black or African-American,28.792912513842744
+Muscogee,2021,Black or African-American,25.055187637969095
+Muscogee,2022,Black or African-American,27.009222661396574
+Muscogee,2023,Black or African-American,26.881720430107524
+Muscogee,2024,Black or African-American,26.21776504297994
+Muscogee,2018,Selected Races Total,26.156941649899395
+Muscogee,2019,Selected Races Total,27.67062314540059
+Muscogee,2020,Selected Races Total,27.444589308996086
+Muscogee,2021,Selected Races Total,26.904922454484154
+Muscogee,2022,Selected Races Total,26.10803324099723
+Muscogee,2023,Selected Races Total,25.650035137034433
+Muscogee,2024,Selected Races Total,26.611694152923537
+Newton,2018,All Races,24.158653846153847
+Newton,2019,All Races,23.739237392373923
+Newton,2020,All Races,23.25581395348837
+Newton,2021,All Races,23.552123552123554
+Newton,2022,All Races,24.75369458128079
+Newton,2023,All Races,24.84774665042631
+Newton,2024,All Races,23.77892030848329
+Newton,2018,White,21.84873949579832
+Newton,2019,White,24.935064935064936
+Newton,2020,White,23.676880222841227
+Newton,2021,White,21.428571428571427
+Newton,2022,White,25.233644859813083
+Newton,2023,White,25.588235294117645
+Newton,2024,White,26.625386996904027
+Newton,2018,Black or African-American,24.31818181818182
+Newton,2019,Black or African-American,22.531645569620252
+Newton,2020,Black or African-American,22.07792207792208
+Newton,2021,Black or African-American,24.60850111856823
+Newton,2022,Black or African-American,24.719101123595504
+Newton,2023,Black or African-American,22.799097065462753
+Newton,2024,Black or African-American,21.339950372208435
+Newton,2018,Selected Races Total,23.212045169385195
+Newton,2019,Selected Races Total,23.717948717948715
+Newton,2020,Selected Races Total,22.849462365591396
+Newton,2021,Selected Races Total,23.346828609986506
+Newton,2022,Selected Races Total,24.934725848563968
+Newton,2023,Selected Races Total,24.010217113665387
+Newton,2024,Selected Races Total,23.69146005509642
+Oconee,2018,All Races,19.196428571428573
+Oconee,2019,All Races,14.285714285714285
+Oconee,2020,All Races,21.55963302752294
+Oconee,2021,All Races,22.17391304347826
+Oconee,2022,All Races,22.666666666666664
+Oconee,2023,All Races,21.787709497206702
+Oconee,2024,All Races,22.404371584699454
+Oconee,2018,White,20.100502512562816
+Oconee,2019,White,14.492753623188406
+Oconee,2020,White,22
+Oconee,2021,White,21.5311004784689
+Oconee,2022,White,22.748815165876778
+Oconee,2023,White,21.21212121212121
+Oconee,2024,White,22.424242424242426
+Oconee,2018,Black or African-American,-5
+Oconee,2019,Black or African-American,-5
+Oconee,2020,Black or African-American,-5
+Oconee,2021,Black or African-American,-5
+Oconee,2022,Black or African-American,-5
+Oconee,2023,Black or African-American,-5
+Oconee,2024,Black or African-American,-5
+Oconee,2018,Selected Races Total,20.095693779904305
+Oconee,2019,Selected Races Total,14.553990610328638
+Oconee,2020,Selected Races Total,21.951219512195124
+Oconee,2021,Selected Races Total,21.91780821917808
+Oconee,2022,Selected Races Total,22.624434389140273
+Oconee,2023,Selected Races Total,21.714285714285715
+Oconee,2024,Selected Races Total,23.837209302325583
+Oglethorpe,2018,All Races,25.263157894736842
+Oglethorpe,2019,All Races,24.489795918367346
+Oglethorpe,2020,All Races,27.86885245901639
+Oglethorpe,2021,All Races,12.345679012345679
+Oglethorpe,2022,All Races,26.41509433962264
+Oglethorpe,2023,All Races,35.63218390804598
+Oglethorpe,2024,All Races,25.49019607843137
+Oglethorpe,2018,White,24.050632911392405
+Oglethorpe,2019,White,25
+Oglethorpe,2020,White,28.000000000000004
+Oglethorpe,2021,White,10.294117647058822
+Oglethorpe,2022,White,24.691358024691358
+Oglethorpe,2023,White,37.142857142857146
+Oglethorpe,2024,White,23.52941176470588
+Oglethorpe,2018,Black or African-American,-5
+Oglethorpe,2019,Black or African-American,-5
+Oglethorpe,2020,Black or African-American,-5
+Oglethorpe,2021,Black or African-American,-5
+Oglethorpe,2022,Black or African-American,-5
+Oglethorpe,2023,Black or African-American,-5
+Oglethorpe,2024,Black or African-American,-5
+Oglethorpe,2018,Selected Races Total,25.274725274725274
+Oglethorpe,2019,Selected Races Total,23.404255319148938
+Oglethorpe,2020,Selected Races Total,28.333333333333332
+Oglethorpe,2021,Selected Races Total,12.82051282051282
+Oglethorpe,2022,Selected Races Total,24
+Oglethorpe,2023,Selected Races Total,37.03703703703704
+Oglethorpe,2024,Selected Races Total,25.53191489361702
+Paulding,2018,All Races,21.81670721816707
+Paulding,2019,All Races,21.815154038301415
+Paulding,2020,All Races,22.785898538263112
+Paulding,2021,All Races,22.03659506762132
+Paulding,2022,All Races,23.599052880820835
+Paulding,2023,All Races,21.9070133963751
+Paulding,2024,All Races,23.12091503267974
+Paulding,2018,White,21.06951871657754
+Paulding,2019,White,22.926267281105993
+Paulding,2020,White,24.150485436893206
+Paulding,2021,White,22.35294117647059
+Paulding,2022,White,24.594257178526842
+Paulding,2023,White,22.608695652173914
+Paulding,2024,White,24.025974025974026
+Paulding,2018,Black or African-American,23.92156862745098
+Paulding,2019,Black or African-American,19.494584837545126
+Paulding,2020,Black or African-American,18.96551724137931
+Paulding,2021,Black or African-American,19.130434782608695
+Paulding,2022,Black or African-American,22.139303482587064
+Paulding,2023,Black or African-American,20.85427135678392
+Paulding,2024,Black or African-American,20.74468085106383
+Paulding,2018,Selected Races Total,21.680672268907564
+Paulding,2019,Selected Races Total,22.09606986899563
+Paulding,2020,Selected Races Total,22.800718132854577
+Paulding,2021,Selected Races Total,21.422594142259413
+Paulding,2022,Selected Races Total,23.773898586866167
+Paulding,2023,Selected Races Total,22.02826267664173
+Paulding,2024,Selected Races Total,22.949389179755673
+Peach,2018,All Races,20.23121387283237
+Peach,2019,All Races,28.07017543859649
+Peach,2020,All Races,22.916666666666664
+Peach,2021,All Races,27.160493827160494
+Peach,2022,All Races,29.746835443037973
+Peach,2023,All Races,25.862068965517242
+Peach,2024,All Races,21.910112359550563
+Peach,2018,White,19.27710843373494
+Peach,2019,White,26.041666666666668
+Peach,2020,White,30.952380952380953
+Peach,2021,White,28.947368421052634
+Peach,2022,White,32.3943661971831
+Peach,2023,White,28.205128205128204
+Peach,2024,White,20.212765957446805
+Peach,2018,Black or African-American,20
+Peach,2019,Black or African-American,30.985915492957744
+Peach,2020,Black or African-American,14.583333333333334
+Peach,2021,Black or African-American,23.18840579710145
+Peach,2022,Black or African-American,26.582278481012654
+Peach,2023,Black or African-American,24.705882352941178
+Peach,2024,Black or African-American,25.352112676056336
+Peach,2018,Selected Races Total,19.631901840490798
+Peach,2019,Selected Races Total,28.143712574850298
+Peach,2020,Selected Races Total,22.22222222222222
+Peach,2021,Selected Races Total,26.20689655172414
+Peach,2022,Selected Races Total,29.333333333333332
+Peach,2023,Selected Races Total,26.380368098159508
+Peach,2024,Selected Races Total,22.424242424242426
+Pickens,2018,All Races,24.71264367816092
+Pickens,2019,All Races,20.710059171597635
+Pickens,2020,All Races,25.568181818181817
+Pickens,2021,All Races,24.33862433862434
+Pickens,2022,All Races,24.456521739130434
+Pickens,2023,All Races,25.654450261780106
+Pickens,2024,All Races,26.6304347826087
+Pickens,2018,White,24.85207100591716
+Pickens,2019,White,20.606060606060606
+Pickens,2020,White,25.43352601156069
+Pickens,2021,White,24.30939226519337
+Pickens,2022,White,24.725274725274726
+Pickens,2023,White,25.543478260869566
+Pickens,2024,White,27.22222222222222
+Pickens,2018,Black or African-American,0
+Pickens,2019,Black or African-American,0
+Pickens,2020,Black or African-American,0
+Pickens,2021,Black or African-American,-5
+Pickens,2022,Black or African-American,0
+Pickens,2023,Black or African-American,-5
+Pickens,2024,Black or African-American,0
+Pickens,2018,Selected Races Total,24.705882352941178
+Pickens,2019,Selected Races Total,20.35928143712575
+Pickens,2020,Selected Races Total,25.43352601156069
+Pickens,2021,Selected Races Total,24.193548387096776
+Pickens,2022,Selected Races Total,24.59016393442623
+Pickens,2023,Selected Races Total,26.063829787234045
+Pickens,2024,Selected Races Total,27.071823204419886
+Pierce,2018,All Races,26.519337016574585
+Pierce,2019,All Races,21.27659574468085
+Pierce,2020,All Races,26.71232876712329
+Pierce,2021,All Races,22
+Pierce,2022,All Races,29.411764705882355
+Pierce,2023,All Races,23.846153846153847
+Pierce,2024,All Races,18.571428571428573
+Pierce,2018,White,26.666666666666668
+Pierce,2019,White,21.138211382113823
+Pierce,2020,White,26.229508196721312
+Pierce,2021,White,20.149253731343283
+Pierce,2022,White,28.346456692913385
+Pierce,2023,White,24.793388429752067
+Pierce,2024,White,16.535433070866144
+Pierce,2018,Black or African-American,25.806451612903224
+Pierce,2019,Black or African-American,-5
+Pierce,2020,Black or African-American,26.31578947368421
+Pierce,2021,Black or African-American,40
+Pierce,2022,Black or African-American,37.5
+Pierce,2023,Black or African-American,-5
+Pierce,2024,Black or African-American,41.66666666666667
+Pierce,2018,Selected Races Total,26.519337016574585
+Pierce,2019,Selected Races Total,21.16788321167883
+Pierce,2020,Selected Races Total,26.24113475177305
+Pierce,2021,Selected Races Total,22.14765100671141
+Pierce,2022,Selected Races Total,29.37062937062937
+Pierce,2023,Selected Races Total,24.031007751937985
+Pierce,2024,Selected Races Total,18.705035971223023
+Pike,2018,All Races,16.535433070866144
+Pike,2019,All Races,24.8
+Pike,2020,All Races,16.428571428571427
+Pike,2021,All Races,23.008849557522122
+Pike,2022,All Races,22.22222222222222
+Pike,2023,All Races,19.82758620689655
+Pike,2024,All Races,28.440366972477065
+Pike,2018,White,16.071428571428573
+Pike,2019,White,24.137931034482758
+Pike,2020,White,16.27906976744186
+Pike,2021,White,23.46938775510204
+Pike,2022,White,22.772277227722775
+Pike,2023,White,19.26605504587156
+Pike,2024,White,27.835051546391753
+Pike,2018,Black or African-American,-5
+Pike,2019,Black or African-American,-5
+Pike,2020,Black or African-American,-5
+Pike,2021,Black or African-American,-5
+Pike,2022,Black or African-American,-5
+Pike,2023,Black or African-American,-5
+Pike,2024,Black or African-American,-5
+Pike,2018,Selected Races Total,16.666666666666664
+Pike,2019,Selected Races Total,24.8
+Pike,2020,Selected Races Total,16.78832116788321
+Pike,2021,Selected Races Total,23.214285714285715
+Pike,2022,Selected Races Total,22.22222222222222
+Pike,2023,Selected Races Total,19.298245614035086
+Pike,2024,Selected Races Total,29.245283018867923
+Polk,2018,All Races,26.740947075208915
+Polk,2019,All Races,25.595238095238095
+Polk,2020,All Races,25.79710144927536
+Polk,2021,All Races,26.948051948051948
+Polk,2022,All Races,25.90529247910863
+Polk,2023,All Races,27.22063037249284
+Polk,2024,All Races,26.420454545454547
+Polk,2018,White,27.129337539432175
+Polk,2019,White,24.45255474452555
+Polk,2020,White,24.40677966101695
+Polk,2021,White,27.169811320754718
+Polk,2022,White,24.6875
+Polk,2023,White,27.55102040816326
+Polk,2024,White,25.732899022801302
+Polk,2018,Black or African-American,25.64102564102564
+Polk,2019,Black or African-American,34
+Polk,2020,Black or African-American,33.33333333333333
+Polk,2021,Black or African-American,25
+Polk,2022,Black or African-American,34.375
+Polk,2023,Black or African-American,22.727272727272727
+Polk,2024,Black or African-American,25
+Polk,2018,Selected Races Total,26.96629213483146
+Polk,2019,Selected Races Total,25.925925925925924
+Polk,2020,Selected Races Total,25.449101796407188
+Polk,2021,Selected Races Total,26.910299003322258
+Polk,2022,Selected Races Total,25.568181818181817
+Polk,2023,Selected Races Total,26.923076923076923
+Polk,2024,Selected Races Total,25.65597667638484
+Pulaski,2018,All Races,24.285714285714285
+Pulaski,2019,All Races,19.642857142857142
+Pulaski,2020,All Races,18.181818181818183
+Pulaski,2021,All Races,38.18181818181819
+Pulaski,2022,All Races,17.46031746031746
+Pulaski,2023,All Races,25
+Pulaski,2024,All Races,27.659574468085108
+Pulaski,2018,White,20.51282051282051
+Pulaski,2019,White,24
+Pulaski,2020,White,-5
+Pulaski,2021,White,38.23529411764706
+Pulaski,2022,White,17.073170731707318
+Pulaski,2023,White,19.35483870967742
+Pulaski,2024,White,27.586206896551722
+Pulaski,2018,Black or African-American,26.666666666666668
+Pulaski,2019,Black or African-American,16.666666666666664
+Pulaski,2020,Black or African-American,23.809523809523807
+Pulaski,2021,Black or African-American,35
+Pulaski,2022,Black or African-American,-5
+Pulaski,2023,Black or African-American,35
+Pulaski,2024,Black or African-American,27.77777777777778
+Pulaski,2018,Selected Races Total,23.18840579710145
+Pulaski,2019,Selected Races Total,20
+Pulaski,2020,Selected Races Total,15.384615384615385
+Pulaski,2021,Selected Races Total,37.03703703703704
+Pulaski,2022,Selected Races Total,18.333333333333332
+Pulaski,2023,Selected Races Total,25.49019607843137
+Pulaski,2024,Selected Races Total,27.659574468085108
+Putnam,2018,All Races,19.083969465648856
+Putnam,2019,All Races,22.69503546099291
+Putnam,2020,All Races,21.48148148148148
+Putnam,2021,All Races,26.797385620915033
+Putnam,2022,All Races,26.5625
+Putnam,2023,All Races,22.83464566929134
+Putnam,2024,All Races,19.548872180451127
+Putnam,2018,White,18.30985915492958
+Putnam,2019,White,21.978021978021978
+Putnam,2020,White,19.78021978021978
+Putnam,2021,White,24.03846153846154
+Putnam,2022,White,24.65753424657534
+Putnam,2023,White,19.27710843373494
+Putnam,2024,White,20.689655172413794
+Putnam,2018,Black or African-American,21.428571428571427
+Putnam,2019,Black or African-American,24.444444444444443
+Putnam,2020,Black or African-American,25.581395348837212
+Putnam,2021,Black or African-American,33.33333333333333
+Putnam,2022,Black or African-American,28.846153846153843
+Putnam,2023,Black or African-American,28.205128205128204
+Putnam,2024,Black or African-American,16.666666666666664
+Putnam,2018,Selected Races Total,19.68503937007874
+Putnam,2019,Selected Races Total,22.794117647058822
+Putnam,2020,Selected Races Total,21.641791044776117
+Putnam,2021,Selected Races Total,26.845637583892618
+Putnam,2022,Selected Races Total,26.400000000000002
+Putnam,2023,Selected Races Total,22.131147540983605
+Putnam,2024,Selected Races Total,19.379844961240313
+Quitman,2018,All Races,-5
+Quitman,2019,All Races,50
+Quitman,2020,All Races,-5
+Quitman,2021,All Races,35.714285714285715
+Quitman,2022,All Races,46.666666666666664
+Quitman,2023,All Races,46.15384615384615
+Quitman,2024,All Races,0
+Quitman,2018,White,-5
+Quitman,2019,White,-5
+Quitman,2020,White,0
+Quitman,2021,White,0
+Quitman,2022,White,-5
+Quitman,2023,White,0
+Quitman,2024,White,0
+Quitman,2018,Black or African-American,0
+Quitman,2019,Black or African-American,-5
+Quitman,2020,Black or African-American,-5
+Quitman,2021,Black or African-American,62.5
+Quitman,2022,Black or African-American,62.5
+Quitman,2023,Black or African-American,55.55555555555556
+Quitman,2024,Black or African-American,0
+Quitman,2018,Selected Races Total,-5
+Quitman,2019,Selected Races Total,50
+Quitman,2020,Selected Races Total,-5
+Quitman,2021,Selected Races Total,35.714285714285715
+Quitman,2022,Selected Races Total,46.666666666666664
+Quitman,2023,Selected Races Total,41.66666666666667
+Quitman,2024,Selected Races Total,0
+Rabun,2018,All Races,19.51219512195122
+Rabun,2019,All Races,20.87912087912088
+Rabun,2020,All Races,27.27272727272727
+Rabun,2021,All Races,34.48275862068966
+Rabun,2022,All Races,23.75
+Rabun,2023,All Races,21.666666666666668
+Rabun,2024,All Races,28.57142857142857
+Rabun,2018,White,19.753086419753085
+Rabun,2019,White,21.59090909090909
+Rabun,2020,White,25.773195876288657
+Rabun,2021,White,34.48275862068966
+Rabun,2022,White,24.050632911392405
+Rabun,2023,White,22.413793103448278
+Rabun,2024,White,28.000000000000004
+Rabun,2018,Black or African-American,0
+Rabun,2019,Black or African-American,0
+Rabun,2020,Black or African-American,-5
+Rabun,2021,Black or African-American,0
+Rabun,2022,Black or African-American,0
+Rabun,2023,Black or African-American,0
+Rabun,2024,Black or African-American,0
+Rabun,2018,Selected Races Total,19.753086419753085
+Rabun,2019,Selected Races Total,21.59090909090909
+Rabun,2020,Selected Races Total,26.53061224489796
+Rabun,2021,Selected Races Total,34.48275862068966
+Rabun,2022,Selected Races Total,24.050632911392405
+Rabun,2023,Selected Races Total,21.666666666666668
+Rabun,2024,Selected Races Total,28.000000000000004
+Randolph,2018,All Races,44.827586206896555
+Randolph,2019,All Races,33.33333333333333
+Randolph,2020,All Races,25
+Randolph,2021,All Races,34.21052631578947
+Randolph,2022,All Races,33.33333333333333
+Randolph,2023,All Races,-5
+Randolph,2024,All Races,41.46341463414634
+Randolph,2018,White,0
+Randolph,2019,White,-5
+Randolph,2020,White,-5
+Randolph,2021,White,-5
+Randolph,2022,White,-5
+Randolph,2023,White,-5
+Randolph,2024,White,41.66666666666667
+Randolph,2018,Black or African-American,52
+Randolph,2019,Black or African-American,36.666666666666664
+Randolph,2020,Black or African-American,24.137931034482758
+Randolph,2021,Black or African-American,34.78260869565217
+Randolph,2022,Black or African-American,42.10526315789473
+Randolph,2023,Black or African-American,-5
+Randolph,2024,Black or African-American,42.857142857142854
+Randolph,2018,Selected Races Total,44.827586206896555
+Randolph,2019,Selected Races Total,31.818181818181817
+Randolph,2020,Selected Races Total,25
+Randolph,2021,Selected Races Total,32.432432432432435
+Randolph,2022,Selected Races Total,33.33333333333333
+Randolph,2023,Selected Races Total,-5
+Randolph,2024,Selected Races Total,42.5
+Richmond,2018,All Races,28.16377171215881
+Richmond,2019,All Races,26.71437090041741
+Richmond,2020,All Races,29.239401496259354
+Richmond,2021,All Races,28.16166883963494
+Richmond,2022,All Races,25.777202072538863
+Richmond,2023,All Races,28.276307295029053
+Richmond,2024,All Races,27.18378756114605
+Richmond,2018,White,27.037773359840955
+Richmond,2019,White,23.00556586270872
+Richmond,2020,White,28.50356294536817
+Richmond,2021,White,28.88402625820569
+Richmond,2022,White,28.863636363636363
+Richmond,2023,White,32.671081677704194
+Richmond,2024,White,26.6260162601626
+Richmond,2018,Black or African-American,28.751210067763793
+Richmond,2019,Black or African-American,28.677150786308975
+Richmond,2020,Black or African-American,28.973660308810175
+Richmond,2021,Black or African-American,28.225806451612907
+Richmond,2022,Black or African-American,24.481737413622902
+Richmond,2023,Black or African-American,26.15535889872173
+Richmond,2024,Black or African-American,27.078384798099762
+Richmond,2018,Selected Races Total,28.190104166666668
+Richmond,2019,Selected Races Total,26.79012345679012
+Richmond,2020,Selected Races Total,28.843626806833118
+Richmond,2021,Selected Races Total,28.433402346445824
+Richmond,2022,Selected Races Total,25.8086717136958
+Richmond,2023,Selected Races Total,28.163265306122447
+Richmond,2024,Selected Races Total,26.911544227886058
+Rockdale,2018,All Races,24.035087719298247
+Rockdale,2019,All Races,21.933085501858738
+Rockdale,2020,All Races,21.59709618874773
+Rockdale,2021,All Races,19.34306569343066
+Rockdale,2022,All Races,21.863799283154123
+Rockdale,2023,All Races,27.121771217712176
+Rockdale,2024,All Races,22.65625
+Rockdale,2018,White,25.806451612903224
+Rockdale,2019,White,25
+Rockdale,2020,White,24.375
+Rockdale,2021,White,19.230769230769234
+Rockdale,2022,White,18.38235294117647
+Rockdale,2023,White,28.74251497005988
+Rockdale,2024,White,27.325581395348834
+Rockdale,2018,Black or African-American,22.07792207792208
+Rockdale,2019,Black or African-American,20
+Rockdale,2020,Black or African-American,19.618528610354225
+Rockdale,2021,Black or African-American,19.345238095238095
+Rockdale,2022,Black or African-American,22.646310432569976
+Rockdale,2023,Black or African-American,26.047904191616766
+Rockdale,2024,Black or African-American,20.60810810810811
+Rockdale,2018,Selected Races Total,23.14814814814815
+Rockdale,2019,Selected Races Total,21.23015873015873
+Rockdale,2020,Selected Races Total,21.062618595825427
+Rockdale,2021,Selected Races Total,19.313304721030043
+Rockdale,2022,Selected Races Total,21.550094517958414
+Rockdale,2023,Selected Races Total,26.94610778443114
+Rockdale,2024,Selected Races Total,23.076923076923077
+Schley,2018,All Races,29.629629629629626
+Schley,2019,All Races,24.242424242424242
+Schley,2020,All Races,25
+Schley,2021,All Races,25.806451612903224
+Schley,2022,All Races,28.57142857142857
+Schley,2023,All Races,-5
+Schley,2024,All Races,21.428571428571427
+Schley,2018,White,31.57894736842105
+Schley,2019,White,20
+Schley,2020,White,25
+Schley,2021,White,29.166666666666668
+Schley,2022,White,28.000000000000004
+Schley,2023,White,-5
+Schley,2024,White,-5
+Schley,2018,Black or African-American,-5
+Schley,2019,Black or African-American,-5
+Schley,2020,Black or African-American,-5
+Schley,2021,Black or African-American,-5
+Schley,2022,Black or African-American,-5
+Schley,2023,Black or African-American,-5
+Schley,2024,Black or African-American,-5
+Schley,2018,Selected Races Total,29.629629629629626
+Schley,2019,Selected Races Total,24.242424242424242
+Schley,2020,Selected Races Total,22.857142857142858
+Schley,2021,Selected Races Total,25.806451612903224
+Schley,2022,Selected Races Total,28.57142857142857
+Schley,2023,Selected Races Total,-5
+Schley,2024,Selected Races Total,21.428571428571427
+Screven,2018,All Races,23.96694214876033
+Screven,2019,All Races,25.961538461538463
+Screven,2020,All Races,22.330097087378643
+Screven,2021,All Races,16.129032258064516
+Screven,2022,All Races,14.772727272727273
+Screven,2023,All Races,27.61904761904762
+Screven,2024,All Races,24.528301886792452
+Screven,2018,White,24.637681159420293
+Screven,2019,White,24.489795918367346
+Screven,2020,White,25
+Screven,2021,White,18.0327868852459
+Screven,2022,White,15.09433962264151
+Screven,2023,White,30.76923076923077
+Screven,2024,White,21.333333333333336
+Screven,2018,Black or African-American,24
+Screven,2019,Black or African-American,26.41509433962264
+Screven,2020,Black or African-American,20.408163265306122
+Screven,2021,Black or African-American,-5
+Screven,2022,Black or African-American,14.705882352941178
+Screven,2023,Black or African-American,23.076923076923077
+Screven,2024,Black or African-American,33.33333333333333
+Screven,2018,Selected Races Total,24.369747899159663
+Screven,2019,Selected Races Total,25.49019607843137
+Screven,2020,Selected Races Total,22.772277227722775
+Screven,2021,Selected Races Total,16.483516483516482
+Screven,2022,Selected Races Total,14.942528735632186
+Screven,2023,Selected Races Total,27.884615384615387
+Screven,2024,Selected Races Total,24.761904761904763
+Seminole,2018,All Races,22.22222222222222
+Seminole,2019,All Races,24.561403508771928
+Seminole,2020,All Races,18.75
+Seminole,2021,All Races,25.49019607843137
+Seminole,2022,All Races,25.49019607843137
+Seminole,2023,All Races,22.22222222222222
+Seminole,2024,All Races,24.528301886792452
+Seminole,2018,White,20
+Seminole,2019,White,34.48275862068966
+Seminole,2020,White,-5
+Seminole,2021,White,26.923076923076923
+Seminole,2022,White,29.629629629629626
+Seminole,2023,White,25
+Seminole,2024,White,24
+Seminole,2018,Black or African-American,27.77777777777778
+Seminole,2019,Black or African-American,-5
+Seminole,2020,Black or African-American,-5
+Seminole,2021,Black or African-American,20.833333333333336
+Seminole,2022,Black or African-American,20.833333333333336
+Seminole,2023,Black or African-American,-5
+Seminole,2024,Black or African-American,26.923076923076923
+Seminole,2018,Selected Races Total,22.641509433962266
+Seminole,2019,Selected Races Total,23.636363636363637
+Seminole,2020,Selected Races Total,15.555555555555555
+Seminole,2021,Selected Races Total,24
+Seminole,2022,Selected Races Total,25.49019607843137
+Seminole,2023,Selected Races Total,22.641509433962266
+Seminole,2024,Selected Races Total,25.49019607843137
+Spalding,2018,All Races,26.953125
+Spalding,2019,All Races,25.142857142857146
+Spalding,2020,All Races,27.400000000000002
+Spalding,2021,All Races,27.237354085603112
+Spalding,2022,All Races,26.89393939393939
+Spalding,2023,All Races,25.45824847250509
+Spalding,2024,All Races,25.75107296137339
+Spalding,2018,White,25.1937984496124
+Spalding,2019,White,23.275862068965516
+Spalding,2020,White,26.77165354330709
+Spalding,2021,White,30.46875
+Spalding,2022,White,24.45255474452555
+Spalding,2023,White,27.88844621513944
+Spalding,2024,White,27.82258064516129
+Spalding,2018,Black or African-American,28.991596638655466
+Spalding,2019,Black or African-American,25.724637681159418
+Spalding,2020,Black or African-American,28.510638297872344
+Spalding,2021,Black or African-American,23.728813559322035
+Spalding,2022,Black or African-American,28.8135593220339
+Spalding,2023,Black or African-American,21.777777777777775
+Spalding,2024,Black or African-American,22.727272727272727
+Spalding,2018,Selected Races Total,27.016129032258064
+Spalding,2019,Selected Races Total,24.606299212598426
+Spalding,2020,Selected Races Total,27.607361963190186
+Spalding,2021,Selected Races Total,27.235772357723576
+Spalding,2022,Selected Races Total,26.47058823529412
+Spalding,2023,Selected Races Total,25
+Spalding,2024,Selected Races Total,25.56053811659193
+Stephens,2018,All Races,22.660098522167488
+Stephens,2019,All Races,26.984126984126984
+Stephens,2020,All Races,28.488372093023255
+Stephens,2021,All Races,25.806451612903224
+Stephens,2022,All Races,31.05590062111801
+Stephens,2023,All Races,28.994082840236686
+Stephens,2024,All Races,25.423728813559322
+Stephens,2018,White,23.353293413173652
+Stephens,2019,White,27.32919254658385
+Stephens,2020,White,26.53061224489796
+Stephens,2021,White,23.703703703703706
+Stephens,2022,White,31.57894736842105
+Stephens,2023,White,25.503355704697988
+Stephens,2024,White,25.333333333333336
+Stephens,2018,Black or African-American,21.875
+Stephens,2019,Black or African-American,26.08695652173913
+Stephens,2020,Black or African-American,42.10526315789473
+Stephens,2021,Black or African-American,50
+Stephens,2022,Black or African-American,-5
+Stephens,2023,Black or African-American,56.25
+Stephens,2024,Black or African-American,-5
+Stephens,2018,Selected Races Total,23.115577889447238
+Stephens,2019,Selected Races Total,27.173913043478258
+Stephens,2020,Selected Races Total,28.313253012048197
+Stephens,2021,Selected Races Total,26.174496644295303
+Stephens,2022,Selected Races Total,30.065359477124183
+Stephens,2023,Selected Races Total,28.484848484848484
+Stephens,2024,Selected Races Total,25.301204819277107
+Stewart,2018,All Races,31.25
+Stewart,2019,All Races,-5
+Stewart,2020,All Races,46.666666666666664
+Stewart,2021,All Races,47.368421052631575
+Stewart,2022,All Races,23.809523809523807
+Stewart,2023,All Races,-5
+Stewart,2024,All Races,-5
+Stewart,2018,White,-5
+Stewart,2019,White,-5
+Stewart,2020,White,-5
+Stewart,2021,White,-5
+Stewart,2022,White,-5
+Stewart,2023,White,-5
+Stewart,2024,White,-5
+Stewart,2018,Black or African-American,-5
+Stewart,2019,Black or African-American,-5
+Stewart,2020,Black or African-American,55.55555555555556
+Stewart,2021,Black or African-American,46.15384615384615
+Stewart,2022,Black or African-American,-5
+Stewart,2023,Black or African-American,-5
+Stewart,2024,Black or African-American,-5
+Stewart,2018,Selected Races Total,31.25
+Stewart,2019,Selected Races Total,-5
+Stewart,2020,Selected Races Total,46.666666666666664
+Stewart,2021,Selected Races Total,47.368421052631575
+Stewart,2022,Selected Races Total,23.809523809523807
+Stewart,2023,Selected Races Total,-5
+Stewart,2024,Selected Races Total,-5
+Sumter,2018,All Races,19.90950226244344
+Sumter,2019,All Races,25.247524752475247
+Sumter,2020,All Races,22.831050228310502
+Sumter,2021,All Races,27.403846153846157
+Sumter,2022,All Races,23.893805309734514
+Sumter,2023,All Races,26.851851851851855
+Sumter,2024,All Races,27.093596059113302
+Sumter,2018,White,16.883116883116884
+Sumter,2019,White,24.675324675324674
+Sumter,2020,White,21.176470588235293
+Sumter,2021,White,26.582278481012654
+Sumter,2022,White,23.52941176470588
+Sumter,2023,White,24.324324324324326
+Sumter,2024,White,30.612244897959183
+Sumter,2018,Black or African-American,22.142857142857142
+Sumter,2019,Black or African-American,25.6198347107438
+Sumter,2020,Black or African-American,24.615384615384617
+Sumter,2021,Black or African-American,27.559055118110237
+Sumter,2022,Black or African-American,24.637681159420293
+Sumter,2023,Black or African-American,29.365079365079367
+Sumter,2024,Black or African-American,25.503355704697988
+Sumter,2018,Selected Races Total,20.276497695852534
+Sumter,2019,Selected Races Total,25.252525252525253
+Sumter,2020,Selected Races Total,23.25581395348837
+Sumter,2021,Selected Races Total,27.184466019417474
+Sumter,2022,Selected Races Total,24.2152466367713
+Sumter,2023,Selected Races Total,27.500000000000004
+Sumter,2024,Selected Races Total,26.767676767676768
+Talbot,2018,All Races,30
+Talbot,2019,All Races,-5
+Talbot,2020,All Races,-5
+Talbot,2021,All Races,-5
+Talbot,2022,All Races,-5
+Talbot,2023,All Races,41.37931034482759
+Talbot,2024,All Races,48.148148148148145
+Talbot,2018,White,-5
+Talbot,2019,White,0
+Talbot,2020,White,-5
+Talbot,2021,White,-5
+Talbot,2022,White,-5
+Talbot,2023,White,-5
+Talbot,2024,White,43.75
+Talbot,2018,Black or African-American,21.73913043478261
+Talbot,2019,Black or African-American,-5
+Talbot,2020,Black or African-American,-5
+Talbot,2021,Black or African-American,-5
+Talbot,2022,Black or African-American,0
+Talbot,2023,Black or African-American,40.909090909090914
+Talbot,2024,Black or African-American,54.54545454545454
+Talbot,2018,Selected Races Total,30
+Talbot,2019,Selected Races Total,-5
+Talbot,2020,Selected Races Total,-5
+Talbot,2021,Selected Races Total,-5
+Talbot,2022,Selected Races Total,-5
+Talbot,2023,Selected Races Total,44.44444444444444
+Talbot,2024,Selected Races Total,48.148148148148145
+Taliaferro,2018,All Races,-5
+Taliaferro,2019,All Races,-5
+Taliaferro,2020,All Races,83.33333333333334
+Taliaferro,2021,All Races,-5
+Taliaferro,2022,All Races,-5
+Taliaferro,2023,All Races,-5
+Taliaferro,2024,All Races,-5
+Taliaferro,2018,White,0
+Taliaferro,2019,White,-5
+Taliaferro,2020,White,-5
+Taliaferro,2021,White,-5
+Taliaferro,2022,White,-5
+Taliaferro,2023,White,-5
+Taliaferro,2024,White,-5
+Taliaferro,2018,Black or African-American,-5
+Taliaferro,2019,Black or African-American,-5
+Taliaferro,2020,Black or African-American,-5
+Taliaferro,2021,Black or African-American,0
+Taliaferro,2022,Black or African-American,-5
+Taliaferro,2023,Black or African-American,0
+Taliaferro,2024,Black or African-American,-5
+Taliaferro,2018,Selected Races Total,-5
+Taliaferro,2019,Selected Races Total,-5
+Taliaferro,2020,Selected Races Total,83.33333333333334
+Taliaferro,2021,Selected Races Total,-5
+Taliaferro,2022,Selected Races Total,-5
+Taliaferro,2023,Selected Races Total,-5
+Taliaferro,2024,Selected Races Total,-5
+Tattnall,2018,All Races,27.044025157232703
+Tattnall,2019,All Races,21.472392638036812
+Tattnall,2020,All Races,28.57142857142857
+Tattnall,2021,All Races,26.190476190476193
+Tattnall,2022,All Races,26.011560693641616
+Tattnall,2023,All Races,29.11392405063291
+Tattnall,2024,All Races,25.165562913907287
+Tattnall,2018,White,25.40983606557377
+Tattnall,2019,White,20.8
+Tattnall,2020,White,27.927927927927925
+Tattnall,2021,White,21.774193548387096
+Tattnall,2022,White,25.210084033613445
+Tattnall,2023,White,26.785714285714285
+Tattnall,2024,White,23.47826086956522
+Tattnall,2018,Black or African-American,31.428571428571427
+Tattnall,2019,Black or African-American,26.47058823529412
+Tattnall,2020,Black or African-American,28.205128205128204
+Tattnall,2021,Black or African-American,40
+Tattnall,2022,Black or African-American,28.000000000000004
+Tattnall,2023,Black or African-American,35.8974358974359
+Tattnall,2024,Black or African-American,26.666666666666668
+Tattnall,2018,Selected Races Total,26.751592356687897
+Tattnall,2019,Selected Races Total,22.0125786163522
+Tattnall,2020,Selected Races Total,28.000000000000004
+Tattnall,2021,Selected Races Total,26.21951219512195
+Tattnall,2022,Selected Races Total,26.035502958579883
+Tattnall,2023,Selected Races Total,29.13907284768212
+Tattnall,2024,Selected Races Total,24.137931034482758
+Taylor,2018,All Races,31.48148148148148
+Taylor,2019,All Races,30.76923076923077
+Taylor,2020,All Races,26
+Taylor,2021,All Races,30.434782608695656
+Taylor,2022,All Races,21.153846153846153
+Taylor,2023,All Races,25.423728813559322
+Taylor,2024,All Races,29.72972972972973
+Taylor,2018,White,24
+Taylor,2019,White,20
+Taylor,2020,White,42.857142857142854
+Taylor,2021,White,35.714285714285715
+Taylor,2022,White,18.421052631578945
+Taylor,2023,White,27.500000000000004
+Taylor,2024,White,30
+Taylor,2018,Black or African-American,37.93103448275862
+Taylor,2019,Black or African-American,53.84615384615385
+Taylor,2020,Black or African-American,0
+Taylor,2021,Black or African-American,-5
+Taylor,2022,Black or African-American,-5
+Taylor,2023,Black or African-American,-5
+Taylor,2024,Black or African-American,-5
+Taylor,2018,Selected Races Total,31.48148148148148
+Taylor,2019,Selected Races Total,31.57894736842105
+Taylor,2020,Selected Races Total,25
+Taylor,2021,Selected Races Total,29.545454545454547
+Taylor,2022,Selected Races Total,21.153846153846153
+Taylor,2023,Selected Races Total,25
+Taylor,2024,Selected Races Total,25.71428571428571
+Telfair,2018,All Races,28.57142857142857
+Telfair,2019,All Races,34.177215189873415
+Telfair,2020,All Races,28.000000000000004
+Telfair,2021,All Races,20.689655172413794
+Telfair,2022,All Races,33.33333333333333
+Telfair,2023,All Races,21.12676056338028
+Telfair,2024,All Races,24.528301886792452
+Telfair,2018,White,27.77777777777778
+Telfair,2019,White,30.434782608695656
+Telfair,2020,White,26.190476190476193
+Telfair,2021,White,22.58064516129032
+Telfair,2022,White,28.30188679245283
+Telfair,2023,White,22.727272727272727
+Telfair,2024,White,17.647058823529413
+Telfair,2018,Black or African-American,31.25
+Telfair,2019,Black or African-American,40.625
+Telfair,2020,Black or African-American,28.125
+Telfair,2021,Black or African-American,19.230769230769234
+Telfair,2022,Black or African-American,35.714285714285715
+Telfair,2023,Black or African-American,-5
+Telfair,2024,Black or African-American,37.5
+Telfair,2018,Selected Races Total,29.411764705882355
+Telfair,2019,Selected Races Total,34.61538461538461
+Telfair,2020,Selected Races Total,27.027027027027028
+Telfair,2021,Selected Races Total,21.052631578947366
+Telfair,2022,Selected Races Total,30.864197530864196
+Telfair,2023,Selected Races Total,20.28985507246377
+Telfair,2024,Selected Races Total,24
+Terrell,2018,All Races,21.12676056338028
+Terrell,2019,All Races,16.129032258064516
+Terrell,2020,All Races,17.142857142857142
+Terrell,2021,All Races,35.08771929824561
+Terrell,2022,All Races,25
+Terrell,2023,All Races,27.586206896551722
+Terrell,2024,All Races,28.000000000000004
+Terrell,2018,White,-5
+Terrell,2019,White,-5
+Terrell,2020,White,-5
+Terrell,2021,White,40
+Terrell,2022,White,-5
+Terrell,2023,White,-5
+Terrell,2024,White,28.57142857142857
+Terrell,2018,Black or African-American,25
+Terrell,2019,Black or African-American,17.073170731707318
+Terrell,2020,Black or African-American,22.916666666666664
+Terrell,2021,Black or African-American,33.33333333333333
+Terrell,2022,Black or African-American,32.432432432432435
+Terrell,2023,Black or African-American,35
+Terrell,2024,Black or African-American,25.925925925925924
+Terrell,2018,Selected Races Total,21.428571428571427
+Terrell,2019,Selected Races Total,16.129032258064516
+Terrell,2020,Selected Races Total,17.391304347826086
+Terrell,2021,Selected Races Total,35.08771929824561
+Terrell,2022,Selected Races Total,25
+Terrell,2023,Selected Races Total,28.07017543859649
+Terrell,2024,Selected Races Total,27.083333333333332
+Thomas,2018,All Races,25.71428571428571
+Thomas,2019,All Races,23.919308357348704
+Thomas,2020,All Races,22.903225806451612
+Thomas,2021,All Races,24.74916387959866
+Thomas,2022,All Races,29.13907284768212
+Thomas,2023,All Races,26.36103151862464
+Thomas,2024,All Races,26.573426573426573
+Thomas,2018,White,26.95035460992908
+Thomas,2019,White,20.72538860103627
+Thomas,2020,White,22.22222222222222
+Thomas,2021,White,25
+Thomas,2022,White,25.748502994011975
+Thomas,2023,White,25.82417582417583
+Thomas,2024,White,26.174496644295303
+Thomas,2018,Black or African-American,24.06015037593985
+Thomas,2019,Black or African-American,29.577464788732392
+Thomas,2020,Black or African-American,24.65753424657534
+Thomas,2021,Black or African-American,25
+Thomas,2022,Black or African-American,34.4
+Thomas,2023,Black or African-American,27.516778523489933
+Thomas,2024,Black or African-American,27.77777777777778
+Thomas,2018,Selected Races Total,25.547445255474454
+Thomas,2019,Selected Races Total,24.47761194029851
+Thomas,2020,Selected Races Total,23.411371237458194
+Thomas,2021,Selected Races Total,25
+Thomas,2022,Selected Races Total,29.45205479452055
+Thomas,2023,Selected Races Total,26.586102719033235
+Thomas,2024,Selected Races Total,26.90909090909091
+Tift,2018,All Races,24.84472049689441
+Tift,2019,All Races,25.892857142857146
+Tift,2020,All Races,25
+Tift,2021,All Races,27.92207792207792
+Tift,2022,All Races,29.77941176470588
+Tift,2023,All Races,26.76056338028169
+Tift,2024,All Races,31.79190751445087
+Tift,2018,White,20.610687022900763
+Tift,2019,White,25.906735751295333
+Tift,2020,White,26.89655172413793
+Tift,2021,White,24.867724867724867
+Tift,2022,White,29.72972972972973
+Tift,2023,White,28.39506172839506
+Tift,2024,White,33.57664233576642
+Tift,2018,Black or African-American,28.994082840236686
+Tift,2019,Black or African-American,26.61290322580645
+Tift,2020,Black or African-American,24
+Tift,2021,Black or African-American,31.775700934579437
+Tift,2022,Black or African-American,28.947368421052634
+Tift,2023,Black or African-American,26.16279069767442
+Tift,2024,Black or African-American,29.67032967032967
+Tift,2018,Selected Races Total,25.333333333333336
+Tift,2019,Selected Races Total,26.18296529968454
+Tift,2020,Selected Races Total,25.3125
+Tift,2021,Selected Races Total,27.364864864864863
+Tift,2022,Selected Races Total,29.389312977099237
+Tift,2023,Selected Races Total,27.245508982035926
+Tift,2024,Selected Races Total,31.347962382445143
+Toombs,2018,All Races,19.130434782608695
+Toombs,2019,All Races,25.101214574898783
+Toombs,2020,All Races,25.301204819277107
+Toombs,2021,All Races,24
+Toombs,2022,All Races,29.268292682926827
+Toombs,2023,All Races,24.463519313304722
+Toombs,2024,All Races,25.877192982456144
+Toombs,2018,White,17.006802721088434
+Toombs,2019,White,23.225806451612904
+Toombs,2020,White,16.77018633540373
+Toombs,2021,White,23.64864864864865
+Toombs,2022,White,27.218934911242602
+Toombs,2023,White,22.78481012658228
+Toombs,2024,White,27.027027027027028
+Toombs,2018,Black or African-American,21.052631578947366
+Toombs,2019,Black or African-American,28.235294117647058
+Toombs,2020,Black or African-American,41.66666666666667
+Toombs,2021,Black or African-American,26.38888888888889
+Toombs,2022,Black or African-American,32.857142857142854
+Toombs,2023,Black or African-American,28.35820895522388
+Toombs,2024,Black or African-American,25
+Toombs,2018,Selected Races Total,18.385650224215247
+Toombs,2019,Selected Races Total,25
+Toombs,2020,Selected Races Total,25.30612244897959
+Toombs,2021,Selected Races Total,24.545454545454547
+Toombs,2022,Selected Races Total,28.870292887029287
+Toombs,2023,Selected Races Total,24.444444444444443
+Toombs,2024,Selected Races Total,26.36363636363636
+Towns,2018,All Races,20
+Towns,2019,All Races,20.754716981132077
+Towns,2020,All Races,17.02127659574468
+Towns,2021,All Races,37.5
+Towns,2022,All Races,41.30434782608695
+Towns,2023,All Races,21.875
+Towns,2024,All Races,51.35135135135135
+Towns,2018,White,20.754716981132077
+Towns,2019,White,20
+Towns,2020,White,17.77777777777778
+Towns,2021,White,37.03703703703704
+Towns,2022,White,40.909090909090914
+Towns,2023,White,17.857142857142858
+Towns,2024,White,52.77777777777778
+Towns,2018,Black or African-American,0
+Towns,2019,Black or African-American,0
+Towns,2020,Black or African-American,0
+Towns,2021,Black or African-American,0
+Towns,2022,Black or African-American,0
+Towns,2023,Black or African-American,-5
+Towns,2024,Black or African-American,0
+Towns,2018,Selected Races Total,20.754716981132077
+Towns,2019,Selected Races Total,20
+Towns,2020,Selected Races Total,17.77777777777778
+Towns,2021,Selected Races Total,36.36363636363637
+Towns,2022,Selected Races Total,40.909090909090914
+Towns,2023,Selected Races Total,20.689655172413794
+Towns,2024,Selected Races Total,51.35135135135135
+Treutlen,2018,All Races,19.565217391304348
+Treutlen,2019,All Races,21.27659574468085
+Treutlen,2020,All Races,13.157894736842104
+Treutlen,2021,All Races,23.404255319148938
+Treutlen,2022,All Races,25.49019607843137
+Treutlen,2023,All Races,27.500000000000004
+Treutlen,2024,All Races,25
+Treutlen,2018,White,-5
+Treutlen,2019,White,28.57142857142857
+Treutlen,2020,White,-5
+Treutlen,2021,White,22.22222222222222
+Treutlen,2022,White,37.5
+Treutlen,2023,White,25
+Treutlen,2024,White,25
+Treutlen,2018,Black or African-American,25
+Treutlen,2019,Black or African-American,-5
+Treutlen,2020,Black or African-American,-5
+Treutlen,2021,Black or African-American,-5
+Treutlen,2022,Black or African-American,0
+Treutlen,2023,Black or African-American,-5
+Treutlen,2024,Black or African-American,-5
+Treutlen,2018,Selected Races Total,19.565217391304348
+Treutlen,2019,Selected Races Total,20
+Treutlen,2020,Selected Races Total,13.88888888888889
+Treutlen,2021,Selected Races Total,23.91304347826087
+Treutlen,2022,Selected Races Total,24
+Treutlen,2023,Selected Races Total,25.64102564102564
+Treutlen,2024,Selected Races Total,23.404255319148938
+Troup,2018,All Races,26.881720430107524
+Troup,2019,All Races,24.772313296903462
+Troup,2020,All Races,27.125506072874494
+Troup,2021,All Races,22.962962962962962
+Troup,2022,All Races,25.225225225225223
+Troup,2023,All Races,26.81992337164751
+Troup,2024,All Races,21.4
+Troup,2018,White,27.424749163879596
+Troup,2019,White,23.355263157894736
+Troup,2020,White,25.94142259414226
+Troup,2021,White,24.91349480968858
+Troup,2022,White,25.412541254125415
+Troup,2023,White,26.56826568265683
+Troup,2024,White,18.146718146718147
+Troup,2018,Black or African-American,26.72413793103448
+Troup,2019,Black or African-American,24.336283185840706
+Troup,2020,Black or African-American,28.691983122362867
+Troup,2021,Black or African-American,21.71945701357466
+Troup,2022,Black or African-American,25.217391304347824
+Troup,2023,Black or African-American,28.125
+Troup,2024,Black or African-American,25.853658536585368
+Troup,2018,Selected Races Total,27.11864406779661
+Troup,2019,Selected Races Total,23.77358490566038
+Troup,2020,Selected Races Total,27.310924369747898
+Troup,2021,Selected Races Total,23.52941176470588
+Troup,2022,Selected Races Total,25.328330206378986
+Troup,2023,Selected Races Total,27.27272727272727
+Troup,2024,Selected Races Total,21.551724137931032
+Turner,2018,All Races,26.38888888888889
+Turner,2019,All Races,27.27272727272727
+Turner,2020,All Races,26.31578947368421
+Turner,2021,All Races,26.153846153846157
+Turner,2022,All Races,25
+Turner,2023,All Races,29.577464788732392
+Turner,2024,All Races,30.76923076923077
+Turner,2018,White,20.588235294117645
+Turner,2019,White,37.03703703703704
+Turner,2020,White,-5
+Turner,2021,White,24.137931034482758
+Turner,2022,White,31.428571428571427
+Turner,2023,White,28.000000000000004
+Turner,2024,White,32.35294117647059
+Turner,2018,Black or African-American,31.25
+Turner,2019,Black or African-American,21.62162162162162
+Turner,2020,Black or African-American,33.33333333333333
+Turner,2021,Black or African-American,28.57142857142857
+Turner,2022,Black or African-American,15.789473684210526
+Turner,2023,Black or African-American,30.23255813953488
+Turner,2024,Black or African-American,28.57142857142857
+Turner,2018,Selected Races Total,25.757575757575758
+Turner,2019,Selected Races Total,28.125
+Turner,2020,Selected Races Total,26.31578947368421
+Turner,2021,Selected Races Total,26.5625
+Turner,2022,Selected Races Total,23.28767123287671
+Turner,2023,Selected Races Total,29.411764705882355
+Turner,2024,Selected Races Total,30.64516129032258
+Twiggs,2018,All Races,26.53061224489796
+Twiggs,2019,All Races,20
+Twiggs,2020,All Races,31.57894736842105
+Twiggs,2021,All Races,29.545454545454547
+Twiggs,2022,All Races,35.294117647058826
+Twiggs,2023,All Races,-5
+Twiggs,2024,All Races,28.947368421052634
+Twiggs,2018,White,28.57142857142857
+Twiggs,2019,White,27.27272727272727
+Twiggs,2020,White,35
+Twiggs,2021,White,29.629629629629626
+Twiggs,2022,White,42.857142857142854
+Twiggs,2023,White,-5
+Twiggs,2024,White,37.5
+Twiggs,2018,Black or African-American,25
+Twiggs,2019,Black or African-American,-5
+Twiggs,2020,Black or African-American,27.77777777777778
+Twiggs,2021,Black or African-American,29.411764705882355
+Twiggs,2022,Black or African-American,-5
+Twiggs,2023,Black or African-American,-5
+Twiggs,2024,Black or African-American,-5
+Twiggs,2018,Selected Races Total,27.083333333333332
+Twiggs,2019,Selected Races Total,20.930232558139537
+Twiggs,2020,Selected Races Total,31.57894736842105
+Twiggs,2021,Selected Races Total,29.545454545454547
+Twiggs,2022,Selected Races Total,37.5
+Twiggs,2023,Selected Races Total,-5
+Twiggs,2024,Selected Races Total,31.428571428571427
+Union,2018,All Races,26.785714285714285
+Union,2019,All Races,21.052631578947366
+Union,2020,All Races,25.882352941176475
+Union,2021,All Races,21.978021978021978
+Union,2022,All Races,20
+Union,2023,All Races,30.23255813953488
+Union,2024,All Races,23.275862068965516
+Union,2018,White,26.851851851851855
+Union,2019,White,21.50537634408602
+Union,2020,White,26.506024096385545
+Union,2021,White,22.22222222222222
+Union,2022,White,21.052631578947366
+Union,2023,White,28.915662650602407
+Union,2024,White,23.423423423423422
+Union,2018,Black or African-American,0
+Union,2019,Black or African-American,0
+Union,2020,Black or African-American,0
+Union,2021,Black or African-American,0
+Union,2022,Black or African-American,0
+Union,2023,Black or African-American,0
+Union,2024,Black or African-American,-5
+Union,2018,Selected Races Total,26.851851851851855
+Union,2019,Selected Races Total,21.50537634408602
+Union,2020,Selected Races Total,26.190476190476193
+Union,2021,Selected Races Total,22.22222222222222
+Union,2022,Selected Races Total,20.618556701030926
+Union,2023,Selected Races Total,28.915662650602407
+Union,2024,Selected Races Total,24.107142857142858
+Upson,2018,All Races,28.49462365591398
+Upson,2019,All Races,23.589743589743588
+Upson,2020,All Races,21.93877551020408
+Upson,2021,All Races,25.118483412322274
+Upson,2022,All Races,24.861878453038674
+Upson,2023,All Races,23.88059701492537
+Upson,2024,All Races,25.142857142857146
+Upson,2018,White,29.6875
+Upson,2019,White,19.68503937007874
+Upson,2020,White,23.076923076923077
+Upson,2021,White,30.303030303030305
+Upson,2022,White,27.67857142857143
+Upson,2023,White,26.356589147286826
+Upson,2024,White,27.966101694915253
+Upson,2018,Black or African-American,25
+Upson,2019,Black or African-American,27.419354838709676
+Upson,2020,Black or African-American,18.75
+Upson,2021,Black or African-American,16.216216216216218
+Upson,2022,Black or African-American,21.311475409836063
+Upson,2023,Black or African-American,20
+Upson,2024,Black or African-American,20
+Upson,2018,Selected Races Total,28.26086956521739
+Upson,2019,Selected Races Total,22.22222222222222
+Upson,2020,Selected Races Total,21.649484536082475
+Upson,2021,Selected Races Total,25.24271844660194
+Upson,2022,Selected Races Total,25.43352601156069
+Upson,2023,Selected Races Total,24.22680412371134
+Upson,2024,Selected Races Total,25.595238095238095
+Walker,2018,All Races,27.299703264094955
+Walker,2019,All Races,27.35562310030395
+Walker,2020,All Races,29.72972972972973
+Walker,2021,All Races,26.00732600732601
+Walker,2022,All Races,30.314960629921263
+Walker,2023,All Races,30.939226519337016
+Walker,2024,All Races,21.142857142857142
+Walker,2018,White,27.725856697819314
+Walker,2019,White,27.831715210355988
+Walker,2020,White,30.813953488372093
+Walker,2021,White,25.984251968503933
+Walker,2022,White,30.76923076923077
+Walker,2023,White,31.137724550898206
+Walker,2024,White,20.923076923076923
+Walker,2018,Black or African-American,-5
+Walker,2019,Black or African-American,-5
+Walker,2020,Black or African-American,-5
+Walker,2021,Black or African-American,35.714285714285715
+Walker,2022,Black or African-American,-5
+Walker,2023,Black or African-American,-5
+Walker,2024,Black or African-American,-5
+Walker,2018,Selected Races Total,27.710843373493976
+Walker,2019,Selected Races Total,27.77777777777778
+Walker,2020,Selected Races Total,29.78142076502732
+Walker,2021,Selected Races Total,26.492537313432834
+Walker,2022,Selected Races Total,30.165289256198346
+Walker,2023,Selected Races Total,30.681818181818183
+Walker,2024,Selected Races Total,21.301775147928996
+Walton,2018,All Races,21.996879875195006
+Walton,2019,All Races,21.487603305785125
+Walton,2020,All Races,24.92063492063492
+Walton,2021,All Races,25.71428571428571
+Walton,2022,All Races,23.03030303030303
+Walton,2023,All Races,22.96875
+Walton,2024,All Races,24.496124031007753
+Walton,2018,White,21.29436325678497
+Walton,2019,White,21.08843537414966
+Walton,2020,White,25.754060324825982
+Walton,2021,White,25.517241379310345
+Walton,2022,White,24.416135881104033
+Walton,2023,White,23.451327433628318
+Walton,2024,White,25.757575757575758
+Walton,2018,Black or African-American,20.30075187969925
+Walton,2019,Black or African-American,21.476510067114095
+Walton,2020,Black or African-American,23.125
+Walton,2021,Black or African-American,28.57142857142857
+Walton,2022,Black or African-American,18.666666666666668
+Walton,2023,Black or African-American,21.710526315789476
+Walton,2024,Black or African-American,20.915032679738562
+Walton,2018,Selected Races Total,21.07843137254902
+Walton,2019,Selected Races Total,21.1864406779661
+Walton,2020,Selected Races Total,25.042301184433164
+Walton,2021,Selected Races Total,26.203208556149733
+Walton,2022,Selected Races Total,23.027375201288244
+Walton,2023,Selected Races Total,23.013245033112582
+Walton,2024,Selected Races Total,24.552845528455283
+Ware,2018,All Races,32.467532467532465
+Ware,2019,All Races,26.31578947368421
+Ware,2020,All Races,31.93548387096774
+Ware,2021,All Races,31.679389312977097
+Ware,2022,All Races,28.72727272727273
+Ware,2023,All Races,28.73134328358209
+Ware,2024,All Races,24.21875
+Ware,2018,White,29.069767441860467
+Ware,2019,White,23.157894736842106
+Ware,2020,White,30.319148936170215
+Ware,2021,White,30.519480519480517
+Ware,2022,White,27.586206896551722
+Ware,2023,White,26.543209876543212
+Ware,2024,White,21.794871794871796
+Ware,2018,Black or African-American,35.77235772357724
+Ware,2019,Black or African-American,31.896551724137932
+Ware,2020,Black or African-American,34.48275862068966
+Ware,2021,Black or African-American,32.29166666666667
+Ware,2022,Black or African-American,31.914893617021278
+Ware,2023,Black or African-American,33.33333333333333
+Ware,2024,Black or African-American,31.32530120481928
+Ware,2018,Selected Races Total,31.864406779661014
+Ware,2019,Selected Races Total,26.47058823529412
+Ware,2020,Selected Races Total,31.907894736842106
+Ware,2021,Selected Races Total,31.2
+Ware,2022,Selected Races Total,29.1044776119403
+Ware,2023,Selected Races Total,28.968253968253972
+Ware,2024,Selected Races Total,25.10460251046025
+Warren,2018,All Races,15.151515151515152
+Warren,2019,All Races,23.25581395348837
+Warren,2020,All Races,38.88888888888889
+Warren,2021,All Races,27.27272727272727
+Warren,2022,All Races,21.62162162162162
+Warren,2023,All Races,31.25
+Warren,2024,All Races,33.33333333333333
+Warren,2018,White,-5
+Warren,2019,White,-5
+Warren,2020,White,45.45454545454545
+Warren,2021,White,42.857142857142854
+Warren,2022,White,-5
+Warren,2023,White,38.46153846153847
+Warren,2024,White,41.17647058823529
+Warren,2018,Black or African-American,-5
+Warren,2019,Black or African-American,25
+Warren,2020,Black or African-American,37.5
+Warren,2021,Black or African-American,-5
+Warren,2022,Black or African-American,-5
+Warren,2023,Black or African-American,-5
+Warren,2024,Black or African-American,26.31578947368421
+Warren,2018,Selected Races Total,15.151515151515152
+Warren,2019,Selected Races Total,23.809523809523807
+Warren,2020,Selected Races Total,40
+Warren,2021,Selected Races Total,28.125
+Warren,2022,Selected Races Total,22.22222222222222
+Warren,2023,Selected Races Total,29.03225806451613
+Warren,2024,Selected Races Total,33.33333333333333
+Washington,2018,All Races,23.076923076923077
+Washington,2019,All Races,22.857142857142858
+Washington,2020,All Races,20.353982300884958
+Washington,2021,All Races,25.40983606557377
+Washington,2022,All Races,22.689075630252102
+Washington,2023,All Races,27.058823529411764
+Washington,2024,All Races,28.07017543859649
+Washington,2018,White,23.91304347826087
+Washington,2019,White,19.35483870967742
+Washington,2020,White,25
+Washington,2021,White,30.612244897959183
+Washington,2022,White,24
+Washington,2023,White,31.428571428571427
+Washington,2024,White,25
+Washington,2018,Black or African-American,21.25
+Washington,2019,Black or African-American,25.675675675675674
+Washington,2020,Black or African-American,17.647058823529413
+Washington,2021,Black or African-American,22.388059701492537
+Washington,2022,Black or African-American,20.634920634920633
+Washington,2023,Black or African-American,24
+Washington,2024,Black or African-American,30.303030303030305
+Washington,2018,Selected Races Total,22.22222222222222
+Washington,2019,Selected Races Total,22.794117647058822
+Washington,2020,Selected Races Total,20.535714285714285
+Washington,2021,Selected Races Total,25.862068965517242
+Washington,2022,Selected Races Total,22.123893805309734
+Washington,2023,Selected Races Total,27.058823529411764
+Washington,2024,Selected Races Total,28.18181818181818
+Wayne,2018,All Races,26.495726495726498
+Wayne,2019,All Races,26.72811059907834
+Wayne,2020,All Races,26.51162790697674
+Wayne,2021,All Races,31.606217616580313
+Wayne,2022,All Races,28.14070351758794
+Wayne,2023,All Races,22.22222222222222
+Wayne,2024,All Races,27.906976744186046
+Wayne,2018,White,23.636363636363637
+Wayne,2019,White,25.149700598802394
+Wayne,2020,White,24.516129032258064
+Wayne,2021,White,31.57894736842105
+Wayne,2022,White,27.857142857142858
+Wayne,2023,White,19.58041958041958
+Wayne,2024,White,28.930817610062892
+Wayne,2018,Black or African-American,32.30769230769231
+Wayne,2019,Black or African-American,27.906976744186046
+Wayne,2020,Black or African-American,29.629629629629626
+Wayne,2021,Black or African-American,27.027027027027028
+Wayne,2022,Black or African-American,30.434782608695656
+Wayne,2023,Black or African-American,24.489795918367346
+Wayne,2024,Black or African-American,22.916666666666664
+Wayne,2018,Selected Races Total,26.08695652173913
+Wayne,2019,Selected Races Total,25.71428571428571
+Wayne,2020,Selected Races Total,25.837320574162682
+Wayne,2021,Selected Races Total,30.687830687830687
+Wayne,2022,Selected Races Total,28.49462365591398
+Wayne,2023,Selected Races Total,20.833333333333336
+Wayne,2024,Selected Races Total,27.536231884057973
+Webster,2018,All Races,-5
+Webster,2019,All Races,-5
+Webster,2020,All Races,46.15384615384615
+Webster,2021,All Races,-5
+Webster,2022,All Races,-5
+Webster,2023,All Races,33.33333333333333
+Webster,2024,All Races,-5
+Webster,2018,White,-5
+Webster,2019,White,0
+Webster,2020,White,-5
+Webster,2021,White,-5
+Webster,2022,White,-5
+Webster,2023,White,-5
+Webster,2024,White,-5
+Webster,2018,Black or African-American,0
+Webster,2019,Black or African-American,-5
+Webster,2020,Black or African-American,-5
+Webster,2021,Black or African-American,0
+Webster,2022,Black or African-American,0
+Webster,2023,Black or African-American,55.55555555555556
+Webster,2024,Black or African-American,-5
+Webster,2018,Selected Races Total,-5
+Webster,2019,Selected Races Total,-5
+Webster,2020,Selected Races Total,41.66666666666667
+Webster,2021,Selected Races Total,-5
+Webster,2022,Selected Races Total,-5
+Webster,2023,Selected Races Total,31.818181818181817
+Webster,2024,Selected Races Total,-5
+Wheeler,2018,All Races,27.659574468085108
+Wheeler,2019,All Races,33.33333333333333
+Wheeler,2020,All Races,30
+Wheeler,2021,All Races,-5
+Wheeler,2022,All Races,22.727272727272727
+Wheeler,2023,All Races,30.23255813953488
+Wheeler,2024,All Races,31.03448275862069
+Wheeler,2018,White,24.242424242424242
+Wheeler,2019,White,22.727272727272727
+Wheeler,2020,White,30.434782608695656
+Wheeler,2021,White,-5
+Wheeler,2022,White,22.22222222222222
+Wheeler,2023,White,36.666666666666664
+Wheeler,2024,White,35
+Wheeler,2018,Black or African-American,35.714285714285715
+Wheeler,2019,Black or African-American,50
+Wheeler,2020,Black or African-American,31.25
+Wheeler,2021,Black or African-American,-5
+Wheeler,2022,Black or African-American,-5
+Wheeler,2023,Black or African-American,-5
+Wheeler,2024,Black or African-American,-5
+Wheeler,2018,Selected Races Total,27.659574468085108
+Wheeler,2019,Selected Races Total,31.25
+Wheeler,2020,Selected Races Total,30.76923076923077
+Wheeler,2021,Selected Races Total,-5
+Wheeler,2022,Selected Races Total,23.25581395348837
+Wheeler,2023,Selected Races Total,30.952380952380953
+Wheeler,2024,Selected Races Total,33.33333333333333
+White,2018,All Races,21.019108280254777
+White,2019,All Races,22.151898734177212
+White,2020,All Races,26.89655172413793
+White,2021,All Races,22.818791946308725
+White,2022,All Races,22.07792207792208
+White,2023,All Races,24.691358024691358
+White,2024,All Races,32.53012048192771
+White,2018,White,21.476510067114095
+White,2019,White,22.07792207792208
+White,2020,White,27.27272727272727
+White,2021,White,22.857142857142858
+White,2022,White,21.85430463576159
+White,2023,White,24.516129032258064
+White,2024,White,32.515337423312886
+White,2018,Black or African-American,0
+White,2019,Black or African-American,0
+White,2020,Black or African-American,0
+White,2021,Black or African-American,-5
+White,2022,Black or African-American,0
+White,2023,Black or African-American,-5
+White,2024,Black or African-American,0
+White,2018,Selected Races Total,21.333333333333336
+White,2019,Selected Races Total,21.794871794871796
+White,2020,Selected Races Total,27.27272727272727
+White,2021,Selected Races Total,23.239436619718308
+White,2022,Selected Races Total,21.85430463576159
+White,2023,Selected Races Total,24.840764331210192
+White,2024,Selected Races Total,32.31707317073171
+Whitfield,2018,All Races,23.536737235367372
+Whitfield,2019,All Races,23.84937238493724
+Whitfield,2020,All Races,22.56809338521401
+Whitfield,2021,All Races,19.91701244813278
+Whitfield,2022,All Races,21.88782489740082
+Whitfield,2023,All Races,22.523744911804613
+Whitfield,2024,All Races,23.066104078762308
+Whitfield,2018,White,23.350923482849602
+Whitfield,2019,White,23.85185185185185
+Whitfield,2020,White,22.36111111111111
+Whitfield,2021,White,18.962962962962962
+Whitfield,2022,White,22.109826589595375
+Whitfield,2023,White,21.852387843704776
+Whitfield,2024,White,22.85276073619632
+Whitfield,2018,Black or African-American,39.130434782608695
+Whitfield,2019,Black or African-American,28.57142857142857
+Whitfield,2020,Black or African-American,39.130434782608695
+Whitfield,2021,Black or African-American,-5
+Whitfield,2022,Black or African-American,-5
+Whitfield,2023,Black or African-American,-5
+Whitfield,2024,Black or African-American,21.73913043478261
+Whitfield,2018,Selected Races Total,23.81562099871959
+Whitfield,2019,Selected Races Total,23.99425287356322
+Whitfield,2020,Selected Races Total,22.88021534320323
+Whitfield,2021,Selected Races Total,19.047619047619047
+Whitfield,2022,Selected Races Total,21.875
+Whitfield,2023,Selected Races Total,22.017045454545457
+Whitfield,2024,Selected Races Total,22.814814814814817
+Wilcox,2018,All Races,31.70731707317073
+Wilcox,2019,All Races,18.75
+Wilcox,2020,All Races,18.75
+Wilcox,2021,All Races,34.78260869565217
+Wilcox,2022,All Races,24.444444444444443
+Wilcox,2023,All Races,44.73684210526316
+Wilcox,2024,All Races,22.448979591836736
+Wilcox,2018,White,-5
+Wilcox,2019,White,-5
+Wilcox,2020,White,21.875
+Wilcox,2021,White,33.33333333333333
+Wilcox,2022,White,17.24137931034483
+Wilcox,2023,White,39.130434782608695
+Wilcox,2024,White,24.137931034482758
+Wilcox,2018,Black or African-American,56.25
+Wilcox,2019,Black or African-American,-5
+Wilcox,2020,Black or African-American,-5
+Wilcox,2021,Black or African-American,33.33333333333333
+Wilcox,2022,Black or African-American,37.5
+Wilcox,2023,Black or African-American,58.333333333333336
+Wilcox,2024,Black or African-American,-5
+Wilcox,2018,Selected Races Total,31.70731707317073
+Wilcox,2019,Selected Races Total,17.391304347826086
+Wilcox,2020,Selected Races Total,19.565217391304348
+Wilcox,2021,Selected Races Total,33.33333333333333
+Wilcox,2022,Selected Races Total,24.444444444444443
+Wilcox,2023,Selected Races Total,45.714285714285715
+Wilcox,2024,Selected Races Total,22.22222222222222
+Wilkes,2018,All Races,20.634920634920633
+Wilkes,2019,All Races,20.754716981132077
+Wilkes,2020,All Races,20.833333333333336
+Wilkes,2021,All Races,27.11864406779661
+Wilkes,2022,All Races,21.568627450980394
+Wilkes,2023,All Races,21.568627450980394
+Wilkes,2024,All Races,20.3125
+Wilkes,2018,White,16.666666666666664
+Wilkes,2019,White,-5
+Wilkes,2020,White,20
+Wilkes,2021,White,32.25806451612903
+Wilkes,2022,White,19.35483870967742
+Wilkes,2023,White,22.58064516129032
+Wilkes,2024,White,21.875
+Wilkes,2018,Black or African-American,25
+Wilkes,2019,Black or African-American,19.230769230769234
+Wilkes,2020,Black or African-American,21.73913043478261
+Wilkes,2021,Black or African-American,23.076923076923077
+Wilkes,2022,Black or African-American,25
+Wilkes,2023,Black or African-American,-5
+Wilkes,2024,Black or African-American,18.51851851851852
+Wilkes,2018,Selected Races Total,20.967741935483872
+Wilkes,2019,Selected Races Total,18.367346938775512
+Wilkes,2020,Selected Races Total,20.833333333333336
+Wilkes,2021,Selected Races Total,28.07017543859649
+Wilkes,2022,Selected Races Total,21.568627450980394
+Wilkes,2023,Selected Races Total,22
+Wilkes,2024,Selected Races Total,20.33898305084746
+Wilkinson,2018,All Races,27.11864406779661
+Wilkinson,2019,All Races,30
+Wilkinson,2020,All Races,30.158730158730158
+Wilkinson,2021,All Races,32.25806451612903
+Wilkinson,2022,All Races,25.423728813559322
+Wilkinson,2023,All Races,35.84905660377358
+Wilkinson,2024,All Races,33.92857142857143
+Wilkinson,2018,White,25.806451612903224
+Wilkinson,2019,White,30
+Wilkinson,2020,White,33.33333333333333
+Wilkinson,2021,White,29.72972972972973
+Wilkinson,2022,White,25
+Wilkinson,2023,White,33.33333333333333
+Wilkinson,2024,White,35.294117647058826
+Wilkinson,2018,Black or African-American,28.57142857142857
+Wilkinson,2019,Black or African-American,27.77777777777778
+Wilkinson,2020,Black or African-American,-5
+Wilkinson,2021,Black or African-American,33.33333333333333
+Wilkinson,2022,Black or African-American,27.77777777777778
+Wilkinson,2023,Black or African-American,41.17647058823529
+Wilkinson,2024,Black or African-American,33.33333333333333
+Wilkinson,2018,Selected Races Total,27.11864406779661
+Wilkinson,2019,Selected Races Total,29.166666666666668
+Wilkinson,2020,Selected Races Total,30.158730158730158
+Wilkinson,2021,Selected Races Total,31.147540983606557
+Wilkinson,2022,Selected Races Total,25.862068965517242
+Wilkinson,2023,Selected Races Total,35.84905660377358
+Wilkinson,2024,Selected Races Total,34.54545454545455
+Worth,2018,All Races,23.972602739726025
+Worth,2019,All Races,15.929203539823009
+Worth,2020,All Races,21.897810218978105
+Worth,2021,All Races,25.190839694656486
+Worth,2022,All Races,24.637681159420293
+Worth,2023,All Races,26.77165354330709
+Worth,2024,All Races,26.495726495726498
+Worth,2018,White,25.555555555555554
+Worth,2019,White,16.176470588235293
+Worth,2020,White,16.129032258064516
+Worth,2021,White,26.373626373626376
+Worth,2022,White,25.925925925925924
+Worth,2023,White,31.03448275862069
+Worth,2024,White,26.47058823529412
+Worth,2018,Black or African-American,17.647058823529413
+Worth,2019,Black or African-American,16.27906976744186
+Worth,2020,Black or African-American,32.55813953488372
+Worth,2021,Black or African-American,24.324324324324326
+Worth,2022,Black or African-American,24.074074074074073
+Worth,2023,Black or African-American,18.91891891891892
+Worth,2024,Black or African-American,28.947368421052634
+Worth,2018,Selected Races Total,22.69503546099291
+Worth,2019,Selected Races Total,16.216216216216218
+Worth,2020,Selected Races Total,21.323529411764707
+Worth,2021,Selected Races Total,25.78125
+Worth,2022,Selected Races Total,25.185185185185183
+Worth,2023,Selected Races Total,27.419354838709676
+Worth,2024,Selected Races Total,27.358490566037734

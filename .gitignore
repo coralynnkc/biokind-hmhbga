@@ -1,0 +1,4 @@
+.DS_Store
+data/us_counties/
+data/us_counties.zip
+*.png
